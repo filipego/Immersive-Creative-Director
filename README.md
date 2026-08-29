@@ -11,6 +11,7 @@ The bundled corpus is the skill's sole source of truth for design taste and crea
 - Generates three structurally different creative territories, rejects the weakest, develops two, and recommends one.
 - Strengthens the protected idea instead of discarding it for a generic metaphor.
 - Directs the complete experience across opening, proof, reading, decision, utility, and resolution.
+- Builds and machine-validates a source-locked experience contract before approval: exact routes/navigation, copy provenance, atomic content responsibilities, and a real-content scoped-experience state storyboard.
 - Treats motion as a narrative and compositional system rather than a quantity of effects.
 - Preserves visually locked layouts and derives movement from observed crop, planes, reading order, handoffs, and negative space.
 - Chooses among stills, layered images, image sequences, short clips, video, 3D, particles, DOM animation, and sound according to their irreplaceable job, cost, continuity risk, performance, and fallback.
@@ -141,6 +142,7 @@ Unavailable optional skills are reported rather than silently imitated or instal
 - Proof, pricing, legal, forms, support, navigation, and other utility modes often need deliberate visual relief.
 - Reference mechanisms may transfer; recognizable surface identity does not.
 - A direction is not production-ready until its truthful assets, continuity, responsive route, fallbacks, and approvals are explicit.
+- A focused artifact cannot become an approved direction for a broader canonical scope while any remaining required surface, content, route, or copy provenance is unresolved.
 - A built site is not finished until the exact rendered surface is verified chronologically across relevant routes, inputs, viewports, loading, utility, and fallback states.
 
 ## Provenance

@@ -1,6 +1,6 @@
 # Production
 
-Production turns an approved direction into the smallest truthful system that can deliver it. Select the substrate from the first dependency that must be reliable; do not select a stack, generator, or effect because it is familiar or impressive. This reference supplies build-readiness inputs. It does not certify a rendered experience; use `QUALITY-rendered-*` for that verdict.
+Production turns an approved direction into the smallest truthful system that can deliver it. Begin from the exact approved version of the passed [experience contract](experience-contract.md): route inventory, copy provenance, atomic responsibility map, and complete state storyboard are immutable acceptance inputs unless the user explicitly approves a `SCOPE-CHANGE-*` amendment. Production cannot invent missing public copy, create decorative routes, restore responsibilities omitted by the concept, or reduce a broader scoped experience to one approved fragment. Select the substrate from the first dependency that must be reliable; do not select a stack, generator, or effect because it is familiar or impressive. This reference supplies build-readiness inputs. It does not certify a rendered experience; use `QUALITY-rendered-*` for that verdict.
 
 ## 1. Choose the production substrate
 
@@ -49,7 +49,7 @@ Approve a numbered contact sheet or canonical model/views before any interpolati
 
 ## 4. Specify scenes, space, and camera
 
-Write a shot manifest only for meaningful segments. Each `SHOT-*` record contains: page mode and visitor/business job; start and end state; dominant and supporting mechanism; source and continuity reference; framing/depth/topology; copy-safe/interface state; input contract (scroll span, hold, release, reversibility); desktop/mobile/fallback treatment; method; dependency and approval status; load implication; and entry/exit transition. Merge or delete a scene that changes no state or performs no distinct job.
+Write a shot manifest only for meaningful segments. Each `SHOT-*` record must cite its governing `STATE-ID`, `RESP-ID`, `ROUTE-ID`, and every applicable `COPY-ID`, then contain: surface mode and visitor/business job; start and end state; dominant and supporting mechanism; source and continuity reference; framing/depth/topology; copy-safe/interface state; input contract (scroll span, hold, release, reversibility); desktop/mobile/fallback treatment; method; dependency and approval status; load implication; and entry/exit transition. Merge or delete a scene that changes no state or performs no distinct job.
 
 When the visitor must believe a coherent space, add `PROD-topology`: adjacency, entry/exit direction, scale, landmarks, windows/views, object placement, and return state. A mood board is not topology.
 
@@ -77,4 +77,4 @@ Build authorization names the target surface, approved direction, visual lock, a
 
 ## `PROD-build-readiness` verdict
 
-Mark build-ready only when the approved direction, dependency order, substrate, asset audit, required bible/contact sheet/topology/camera records, manifest, responsive and fallback treatments, approval state, risks, and realistic implementation route agree. Mark the material unknown that blocks any of those claims; continue unaffected reversible planning. Production readiness never substitutes for rendered chronological proof.
+Mark build-ready only when the exact approved JSON passes the bundled validator with `--phase build` and the approved direction, all four experience-contract artifacts, dependency order, substrate, asset audit, required bible/contact sheet/topology/camera records, manifest, responsive and fallback treatments, approval state, risks, and realistic implementation route agree. Every `ROUTE-ID`, `RESP-ID`, `COPY-ID`, and `STATE-ID` must have an implementation owner and verification target. Mark the material unknown that blocks any of those claims; continue unaffected reversible planning. Production readiness never substitutes for rendered chronological proof.
