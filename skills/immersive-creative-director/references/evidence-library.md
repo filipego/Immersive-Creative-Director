@@ -154,6 +154,17 @@ This is the mandatory index to the skill's design evidence. Read every record on
 - Excluded: Hostinger sponsor/tutorial interval approximately 13:32–16:32.
 - Directly observed limits: tutorial's exact generator/service is not required; spatial lesson derives from the documented failure.
 
+### `EVID-video-still-first-previsualization`
+
+- Source: [ubH1ulaK-t4](https://www.youtube.com/watch?v=ubH1ulaK-t4) — “How I Build $10K CINEMATIC Websites With Claude Code”
+- Supports: continuity-dependent generated motion should begin with one truthful canonical visual anchor, a complete numbered still-state board, and explicit adjacent transition edges; motion generation and website assembly follow those approvals rather than inventing the world inside a long clip.
+- Use when: generated products, characters, objects, environments, camera journeys, image sequences, transition clips, or video must remain coherent across connected states.
+- Demonstrated process: authentic source reference → approved anchor still → consecutive scene stills → pair each adjacent state → generate one transition per edge → visually review/regenerate defective edges → assemble approved assets → implement scroll behavior → re-art-direct mobile assets → test load/performance.
+- Demonstrated failure boundary: one transition remained visually ambiguous even after the agent claimed it was fixed. Provider/model narration is not review evidence; first, intermediate, last, and neighboring handoff frames must be inspected directly, with simplification or fallback when regeneration fails.
+- Process boundary: the source's product, five exact scenes, negative prompt, Claude workflow, Higgsfield integration, and named models are demonstration-specific. Codex/OpenAI image generation is the default still-previsualization route when authorized; any later video provider is optional and approval-gated.
+- Excluded: sponsor/provider setup approximately 01:38–06:43 and provider promotion/outro approximately 24:08–25:56.
+- Directly observed limits: one linear product sequence and one implementation stack; the adjacent-edge method generalizes, while state count and surface identity do not.
+
 ## Evidence clusters
 
 Use these clusters to retrieve corroboration without loading every record.
@@ -172,6 +183,7 @@ Use these clusters to retrieve corroboration without loading every record.
 | How should references transfer without copying? | `EVID-video-reference-transfer` | all website surface exclusions |
 | How should Codex iterate rendered work? | `EVID-video-creative-skill-process`, `EVID-video-reference-transfer` | Design Loop/Impeccable orchestration |
 | What does generated spatial continuity require? | `EVID-video-spatial-production` | `EVID-site-mesh3d`, `EVID-site-pear` |
+| What must precede connected generated motion? | `EVID-video-still-first-previsualization` | `EVID-video-spatial-production`, `EVID-video-reference-transfer`, `EVID-site-pear` |
 
 ## Evidence update rule
 

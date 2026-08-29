@@ -40,6 +40,22 @@ Use these exact top-level keys and record keys; the tables below explain their m
   "contractId": "CONTRACT-*",
   "version": 1,
   "status": "exploration | approval-candidate | approved",
+  "previsualization": {
+    "required": true,
+    "reason": "...",
+    "motionDependencies": [{
+      "id": "MOTION-DEPENDENCY-*",
+      "method": "layered-stills | image-sequence | short-clip | long-video | 3d | procedural | existing-authentic-video | semantic-dom-svg | none",
+      "generated": true,
+      "fromStateId": "STATE-*",
+      "toStateId": "STATE-*",
+      "shotIds": ["SHOT-*"],
+      "authority": "approved storyboard/decision source"
+    }],
+    "contractStateIds": ["STATE-*"],
+    "manifestId": "pending | not-applicable | PREVIS-*",
+    "verdict": "needs work | strong | reject"
+  },
   "canonicalScope": {
     "target": "...",
     "sourceEvidence": ["source#location"],
@@ -92,6 +108,20 @@ Use these exact top-level keys and record keys; the tables below explain their m
 }
 ```
 
+The `previsualization` decision is mandatory on every contract. Inventory exactly
+one motion dependency for every nonterminal causal handoff in every surviving
+storyboard, including provider-free, static, semantic, authentic, and generated
+methods. The validator rejects missing, duplicate, and invented pairs. It computes
+applicability from those records: if any handoff is `generated`, `required` must be
+`true` and `contractStateIds` must exactly equal the union of its affected approved
+survivor endpoints. `image-sequence`, `short-clip`, and `long-video` are always
+generated here; supplied footage uses `existing-authentic-video`. During direction
+approval the manifest may remain `pending`, because concept approval is not
+production authority. Before build, it must name the exact `PREVIS-*` manifest and
+be `strong`. When no handoff qualifies, use `required: false`, an empty state list,
+`manifestId: "not-applicable"`, and a `strong` reasoned verdict. Never omit or
+falsify the dependency inventory to evade the still-first gate.
+
 Copy provenance and `authorityType` must pair exactly:
 
 | Provenance | Required `authorityType` |
@@ -109,8 +139,12 @@ python3 scripts/validate_experience_contract.py /absolute/path/IMMERSIVE-EXPERIE
 Run it again before build handoff:
 
 ```bash
-python3 scripts/validate_experience_contract.py /absolute/path/IMMERSIVE-EXPERIENCE-CONTRACT.json --phase build
+python3 scripts/validate_experience_contract.py /absolute/path/IMMERSIVE-EXPERIENCE-CONTRACT.json --previsualization /absolute/path/IMMERSIVE-PREVISUALIZATION.json --phase build
 ```
+
+Omit `--previsualization` only when the contract's validated applicability record is
+`required: false`. When it is required, the build validator loads and fully validates
+the exact linked manifest rather than trusting a `PREVIS-*` string.
 
 Resolve `scripts/` relative to the installed skill directory. Exit code zero and a `PASS` line are mandatory. On `FAIL`, preserve the exact errors in the protocol ledger, correct the contract or report the blocked evidence/decision, and rerun. Manual confidence, a quality-gate narrative, a compact response, or a specialist opinion cannot substitute for validator success. If the validator runtime is unavailable, advancement is blocked.
 
@@ -199,6 +233,8 @@ Completion requires:
 3. Every claimed immersive passage contains at least three consecutive, causally linked state rows with different information or meaning—not three animation keyframes of one still idea.
 4. Calm/native-scroll sections still receive intentional states and causal handoffs; they cannot become a generic remainder after one directed passage.
 5. Each surviving territory receives a complete chronology using real evidence before presentation. A fragment-only study may be labeled `exploratory fragment`; it cannot represent a broader direction, approved concept, winning territory, or production basis.
+
+This storyboard proves semantic and experiential chronology; it is not visual endpoint approval. When connected generated motion is later authorized, every dependent `STATE-ID`/`SHOT-*` endpoint must map to a rendered `PREVIS-STATE-*` still in the separate [previsualization.md](previsualization.md) manifest. Non-empty composition prose, `assetIds`, or an approved hero image cannot substitute for that visual state board.
 
 ## Advancement gate
 

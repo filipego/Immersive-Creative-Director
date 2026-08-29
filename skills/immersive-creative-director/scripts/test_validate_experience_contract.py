@@ -23,6 +23,33 @@ def valid_contract():
         "contractId": "CONTRACT-test-surface",
         "version": 1,
         "status": "approval-candidate",
+        "previsualization": {
+            "required": False,
+            "reason": "This fixture uses no continuity-dependent generated motion",
+            "motionDependencies": [
+                {
+                    "id": "MOTION-DEPENDENCY-opening-proof",
+                    "method": "none",
+                    "generated": False,
+                    "fromStateId": "STATE-opening",
+                    "toStateId": "STATE-proof",
+                    "shotIds": [],
+                    "authority": "Approved survivor causal handoff",
+                },
+                {
+                    "id": "MOTION-DEPENDENCY-proof-resolution",
+                    "method": "semantic-dom-svg",
+                    "generated": False,
+                    "fromStateId": "STATE-proof",
+                    "toStateId": "STATE-resolution",
+                    "shotIds": [],
+                    "authority": "Approved survivor causal handoff",
+                },
+            ],
+            "contractStateIds": [],
+            "manifestId": "not-applicable",
+            "verdict": "strong",
+        },
         "canonicalScope": {
             "target": "Complete target experience",
             "sourceEvidence": ["source.md#required-surface"],
@@ -239,6 +266,107 @@ class ExperienceContractValidatorTests(unittest.TestCase):
         result = run_validator(contract, phase="build")
         self.assertNotEqual(result.returncode, 0)
         self.assertIn("placeholder", result.stdout.lower())
+
+    def test_build_rejects_required_previsualization_without_manifest(self):
+        contract = valid_contract()
+        contract["status"] = "approved"
+        contract["previsualization"] = {
+            "required": True,
+            "reason": "Approved concept requires connected generated motion",
+            "motionDependencies": [
+                {
+                    "id": "MOTION-DEPENDENCY-opening-proof",
+                    "method": "short-clip",
+                    "generated": True,
+                    "fromStateId": "STATE-opening",
+                    "toStateId": "STATE-proof",
+                    "shotIds": ["SHOT-opening-proof"],
+                    "authority": "Approved survivor storyboard and motion plan",
+                },
+                {
+                    "id": "MOTION-DEPENDENCY-proof-resolution",
+                    "method": "short-clip",
+                    "generated": True,
+                    "fromStateId": "STATE-proof",
+                    "toStateId": "STATE-resolution",
+                    "shotIds": ["SHOT-proof-resolution"],
+                    "authority": "Approved survivor storyboard and motion plan",
+                },
+            ],
+            "contractStateIds": ["STATE-opening", "STATE-proof", "STATE-resolution"],
+            "manifestId": "pending",
+            "verdict": "needs work",
+        }
+        result = run_validator(contract, phase="build")
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("previsualization", result.stdout.lower())
+
+    def test_rejects_false_not_applicable_claim_for_connected_generated_motion(self):
+        contract = valid_contract()
+        contract["previsualization"]["motionDependencies"] = [
+            {
+                "id": "MOTION-DEPENDENCY-opening-proof",
+                "method": "long-video",
+                "generated": True,
+                "fromStateId": "STATE-opening",
+                "toStateId": "STATE-proof",
+                "shotIds": ["SHOT-opening-proof"],
+                "authority": "Survivor storyboard requires connected generated video",
+            },
+            {
+                "id": "MOTION-DEPENDENCY-proof-resolution",
+                "method": "none",
+                "generated": False,
+                "fromStateId": "STATE-proof",
+                "toStateId": "STATE-resolution",
+                "shotIds": [],
+                "authority": "Approved survivor causal handoff",
+            },
+        ]
+        result = run_validator(contract)
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("computed connected generated-motion", result.stdout)
+
+    def test_rejects_previsualization_state_from_rejected_territory(self):
+        contract = valid_contract()
+        contract["storyboards"].append(
+            {
+                "territoryId": "TERRITORY-rejected",
+                "survivor": False,
+                "coverage": "opening-to-resolution",
+                "states": [{"id": "STATE-rejected", "order": 1}],
+            }
+        )
+        contract["previsualization"] = {
+            "required": True,
+            "reason": "Invalidly points at a rejected territory",
+            "motionDependencies": [
+                {
+                    "id": "MOTION-DEPENDENCY-opening-rejected",
+                    "method": "short-clip",
+                    "generated": True,
+                    "fromStateId": "STATE-opening",
+                    "toStateId": "STATE-rejected",
+                    "shotIds": ["SHOT-opening-rejected"],
+                    "authority": "Rejected territory",
+                },
+                {
+                    "id": "MOTION-DEPENDENCY-proof-resolution",
+                    "method": "none",
+                    "generated": False,
+                    "fromStateId": "STATE-proof",
+                    "toStateId": "STATE-resolution",
+                    "shotIds": [],
+                    "authority": "Approved survivor causal handoff",
+                },
+            ],
+            "contractStateIds": ["STATE-opening", "STATE-rejected"],
+            "manifestId": "pending",
+            "verdict": "needs work",
+        }
+        result = run_validator(contract)
+        self.assertNotEqual(result.returncode, 0)
+        self.assertIn("unknown survivor STATE-ID STATE-rejected", result.stdout)
 
 
 if __name__ == "__main__":

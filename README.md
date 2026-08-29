@@ -15,6 +15,7 @@ The bundled corpus is the skill's sole source of truth for design taste and crea
 - Treats motion as a narrative and compositional system rather than a quantity of effects.
 - Preserves visually locked layouts and derives movement from observed crop, planes, reading order, handoffs, and negative space.
 - Chooses among stills, layered images, image sequences, short clips, video, 3D, particles, DOM animation, and sound according to their irreplaceable job, cost, continuity risk, performance, and fallback.
+- Runs a machine-validated still-first previsualization pipeline for connected generated motion: source-authority lock → canonical anchor → rendered state board → adjacent transition graph → conditional external-provider/media approval → reviewed outputs → build.
 - Re-art-directs the experience for mobile and preserves narrative parity for reduced motion.
 - Keeps concept, source assets, paid media, visual changes, implementation, and release approvals separate.
 - Studies complete websites and videos through **Immersive Discovery**, admitting only evidence that changes a future decision.
@@ -40,8 +41,12 @@ Immersive-Creative-Director/
         ├── SKILL.md
         ├── agents/
         │   └── openai.yaml
+        ├── scripts/
+        │   ├── validate_experience_contract.py
+        │   └── validate_previsualization.py
         └── references/
             ├── evidence-library.md
+            ├── previsualization.md
             ├── reference-corpus.md
             └── ...
 ```
@@ -148,6 +153,8 @@ Unavailable optional skills are reported rather than silently imitated or instal
 ## Provenance
 
 The skill was developed from a curated corpus of award-winning websites, educational videos, explicit creative preferences, production decisions, and matched RED/GREEN behavioral scenarios. The installed package contains both the detailed reference corpus and its distilled operating judgment. References are evidence for transferable mechanisms and quality—not a catalog of surfaces to copy.
+
+The current repository stores link-, chronology-, and timestamp-based written evidence. It does **not** currently bundle website screenshots, video frames, or other copyrighted visual-reference files.
 
 ## License
 

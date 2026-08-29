@@ -21,6 +21,19 @@ VERDICTS = {"strong", "needs work", "reject"}
 STATUSES = {"exploration", "approval-candidate", "approved"}
 ROUTE_STATUSES = {"required", "existing", "optional", "forbidden", "blocked"}
 PARITY_FIELDS = ("desktop", "mobile", "reducedMotion", "fallback")
+MOTION_METHODS = {
+    "layered-stills",
+    "image-sequence",
+    "short-clip",
+    "long-video",
+    "3d",
+    "procedural",
+    "existing-authentic-video",
+    "semantic-dom-svg",
+    "none",
+}
+GENERATED_MEDIA_METHODS = {"image-sequence", "short-clip", "long-video"}
+NON_GENERATED_METHODS = {"existing-authentic-video", "semantic-dom-svg", "none"}
 
 
 def present(value):
@@ -79,6 +92,7 @@ def validate_contract(contract, phase):
             "contractId",
             "version",
             "status",
+            "previsualization",
             "canonicalScope",
             "routes",
             "copy",
@@ -320,6 +334,183 @@ def validate_contract(contract, phase):
     if phase in {"approval", "build"} and not survivor_states:
         errors.append("storyboards: no surviving whole-experience territory")
 
+    survivor_state_ids = {
+        state.get("id")
+        for states in survivor_states
+        for state in states
+        if isinstance(state, dict) and present(state.get("id"))
+    }
+    expected_dependency_pairs = {
+        (state.get("id"), state.get("causalHandoff"))
+        for states in survivor_states
+        for state in states
+        if isinstance(state, dict)
+        and present(state.get("id"))
+        and present(state.get("causalHandoff"))
+        and state.get("causalHandoff") != "terminal"
+    }
+
+    previsualization = contract.get("previsualization")
+    require_fields(
+        previsualization,
+        (
+            "required",
+            "reason",
+            "motionDependencies",
+            "contractStateIds",
+            "manifestId",
+            "verdict",
+        ),
+        "previsualization",
+        errors,
+    )
+    if isinstance(previsualization, dict):
+        required = previsualization.get("required")
+        if not isinstance(required, bool):
+            errors.append("previsualization.required: must be true or false")
+        require_list(previsualization, "contractStateIds", "previsualization", errors)
+        require_list(previsualization, "motionDependencies", "previsualization", errors)
+        dependencies = (
+            previsualization.get("motionDependencies", [])
+            if isinstance(previsualization.get("motionDependencies"), list)
+            else []
+        )
+        dependency_ids = set()
+        dependency_pairs = set()
+        computed_required_state_ids = set()
+        for index, dependency in enumerate(dependencies):
+            path = f"previsualization.motionDependencies[{index}]"
+            require_fields(
+                dependency,
+                (
+                    "id",
+                    "method",
+                    "generated",
+                    "fromStateId",
+                    "toStateId",
+                    "shotIds",
+                    "authority",
+                ),
+                path,
+                errors,
+            )
+            if not isinstance(dependency, dict):
+                continue
+            dependency_id = dependency.get("id")
+            if present(dependency_id):
+                if dependency_id in dependency_ids:
+                    errors.append(f"{path}.id: duplicate ID {dependency_id}")
+                dependency_ids.add(dependency_id)
+                if not dependency_id.startswith("MOTION-DEPENDENCY-"):
+                    errors.append(f"{path}.id: must use MOTION-DEPENDENCY-* format")
+            if dependency.get("method") not in MOTION_METHODS:
+                errors.append(f"{path}.method: invalid method")
+            require_list(dependency, "shotIds", path, errors)
+            shot_ids = dependency.get("shotIds", [])
+            if len(shot_ids) != len(set(shot_ids)):
+                errors.append(f"{path}.shotIds: duplicate SHOT-ID")
+            for shot_id in shot_ids:
+                if not present(shot_id) or not shot_id.startswith("SHOT-"):
+                    errors.append(f"{path}.shotIds: invalid SHOT-ID {shot_id}")
+            if not isinstance(dependency.get("generated"), bool):
+                errors.append(f"{path}.generated: must be true or false")
+            pair = (dependency.get("fromStateId"), dependency.get("toStateId"))
+            if pair in dependency_pairs:
+                errors.append(
+                    f"{path}: duplicate survivor handoff {pair[0]}->{pair[1]}"
+                )
+            dependency_pairs.add(pair)
+            for field, state_id in (
+                ("fromStateId", pair[0]),
+                ("toStateId", pair[1]),
+            ):
+                if state_id not in survivor_state_ids:
+                    errors.append(f"{path}.{field}: unknown survivor STATE-ID {state_id}")
+            if dependency.get("method") in GENERATED_MEDIA_METHODS and dependency.get(
+                "generated"
+            ) is not True:
+                errors.append(
+                    f"{path}.generated: {dependency.get('method')} must be true; use "
+                    "existing-authentic-video for supplied motion"
+                )
+            if dependency.get("method") in NON_GENERATED_METHODS and dependency.get(
+                "generated"
+            ) is not False:
+                errors.append(
+                    f"{path}.generated: {dependency.get('method')} must be false"
+                )
+            if dependency.get("generated") is True:
+                if not shot_ids:
+                    errors.append(f"{path}.shotIds: generated handoff needs governing SHOT-IDs")
+                computed_required_state_ids.update(pair)
+        missing_dependency_pairs = expected_dependency_pairs - dependency_pairs
+        extra_dependency_pairs = dependency_pairs - expected_dependency_pairs
+        for start, end in sorted(missing_dependency_pairs):
+            errors.append(
+                f"previsualization.motionDependencies: missing survivor handoff {start}->{end}"
+            )
+        for start, end in sorted(extra_dependency_pairs, key=lambda item: str(item)):
+            errors.append(
+                f"previsualization.motionDependencies: unapproved survivor handoff {start}->{end}"
+            )
+        linked_state_ids = previsualization.get("contractStateIds", [])
+        if len(linked_state_ids) != len(set(linked_state_ids)):
+            errors.append("previsualization.contractStateIds: duplicate STATE-ID")
+        for state_id in linked_state_ids:
+            if state_id not in survivor_state_ids:
+                errors.append(
+                    f"previsualization.contractStateIds: unknown survivor STATE-ID {state_id}"
+                )
+        computed_required = bool(computed_required_state_ids)
+        if required is not computed_required:
+            errors.append(
+                "previsualization.required: must equal the computed connected generated-motion "
+                "dependency decision"
+            )
+        if set(linked_state_ids) != computed_required_state_ids:
+            errors.append(
+                "previsualization.contractStateIds: must exactly equal the connected generated "
+                "motion dependency STATE-IDs"
+            )
+        if required is False:
+            if linked_state_ids:
+                errors.append(
+                    "previsualization.contractStateIds: must be empty when not required"
+                )
+            if previsualization.get("manifestId") != "not-applicable":
+                errors.append(
+                    "previsualization.manifestId: must be not-applicable when not required"
+                )
+            if previsualization.get("verdict") != "strong":
+                errors.append(
+                    "previsualization.verdict: not-applicable decision must be strong"
+                )
+        elif required is True:
+            if not linked_state_ids:
+                errors.append(
+                    "previsualization.contractStateIds: required generated continuity needs "
+                    "at least one mapped STATE-ID"
+                )
+            if previsualization.get("verdict") not in VERDICTS:
+                errors.append("previsualization.verdict: invalid verdict")
+            manifest_id = previsualization.get("manifestId")
+            if manifest_id != "pending" and not (
+                present(manifest_id) and manifest_id.startswith("PREVIS-")
+            ):
+                errors.append(
+                    "previsualization.manifestId: required previsualization needs pending "
+                    "or a PREVIS-* manifest"
+                )
+            if phase == "build":
+                if not present(manifest_id) or not manifest_id.startswith("PREVIS-"):
+                    errors.append(
+                        "previsualization.manifestId: build requires a linked PREVIS-* manifest"
+                    )
+                if previsualization.get("verdict") != "strong":
+                    errors.append(
+                        "previsualization.verdict: build requires strong previsualization"
+                    )
+
     mapped_required = []
     unmapped_required = []
     for index, responsibility in enumerate(responsibilities):
@@ -434,6 +625,11 @@ def parse_args():
         default="approval",
         help="Validation strictness (default: approval)",
     )
+    parser.add_argument(
+        "--previsualization",
+        type=Path,
+        help="Required at build when the contract links a PREVIS-* manifest",
+    )
     return parser.parse_args()
 
 
@@ -449,6 +645,31 @@ def main():
         return 1
 
     errors = validate_contract(contract, args.phase)
+    contract_previs = contract.get("previsualization", {}) if isinstance(contract, dict) else {}
+    if args.phase == "build" and contract_previs.get("required") is True:
+        if args.previsualization is None:
+            errors.append(
+                "previsualization: build requires --previsualization with the linked manifest"
+            )
+        else:
+            try:
+                manifest = json.loads(args.previsualization.read_text(encoding="utf-8"))
+            except FileNotFoundError:
+                errors.append(
+                    f"previsualization: linked manifest file not found: {args.previsualization}"
+                )
+            except (OSError, json.JSONDecodeError) as error:
+                errors.append(f"previsualization: cannot read linked manifest JSON: {error}")
+            else:
+                from validate_previsualization import validate_manifest
+
+                manifest_errors = validate_manifest(
+                    manifest,
+                    contract,
+                    "build",
+                    args.previsualization.parent,
+                )
+                errors.extend(f"previsualization: {error}" for error in manifest_errors)
     if errors:
         print("FAIL")
         for error in errors:

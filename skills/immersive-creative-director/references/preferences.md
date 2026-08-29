@@ -50,7 +50,7 @@ Create three structurally distinct territories internally, reject the weakest, p
 
 ### `PREF-media-posture` — hard tool-choice rule plus strong medium default
 
-Use Codex/OpenAI directly where appropriate. Choose media by narrative job, value, continuity risk, control, cost, tool, scope, and fallback. Prefer authentic assets, generated stills, layers, sequences, or short clips when they provide better control; use continuous video only when temporal motion is necessary. Do not assume an external vendor, a budget limit, or a paid generator.
+Use Codex/OpenAI directly where appropriate. Choose media by narrative job, value, continuity risk, control, cost, tool, scope, and fallback. Prefer authentic assets, generated stills, layers, sequences, or short clips when they provide better control; use continuous video only when temporal motion is necessary. For connected generated motion, still-first previsualization is a hard dependency: “media-first” may mean approved media before interface assembly, but never video before approved visual endpoints. Do not assume an external vendor, a budget limit, or a paid generator.
 
 ### `PREF-approval-boundaries` — hard operating rule
 

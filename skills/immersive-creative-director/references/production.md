@@ -47,7 +47,13 @@ For continuity-critical production, create a proportional asset bible. It names 
 
 Approve a numbered contact sheet or canonical model/views before any interpolation, dependent transition, or long-motion generation. Prompt resemblance is not continuity evidence.
 
-## 4. Specify scenes, space, and camera
+## 4. Execute still-first previsualization for generated continuity
+
+When generated motion depends on connected visual states, execute [previsualization.md](previsualization.md) as a blocking production protocol. Create the versioned `IMMERSIVE-PREVISUALIZATION.json`; map every dependent contract/shot endpoint to an inspectable still; approve the complete numbered state board; define every adjacent transition edge; then choose and approve the medium. Add named provider/media approval only for external/video edges. One authentic source image or canonical model view can anchor identity, but it cannot stand in for missing scene-state stills.
+
+The selected production substrate may determine whether interface structure, media, or spatial truth is established first. It never changes this dependency inside generated motion: **approved visual endpoints precede interpolation and video**. A media-led experience may create its approved state board before interface assembly; an interface-led experience may establish the static surface first; both must pass the previsualization `state-board` phase before transition planning, `motion` phase before any planned edge generation, and `build` phase before implementation consumes the generated motion.
+
+## 5. Specify scenes, space, and camera
 
 Write a shot manifest only for meaningful segments. Each `SHOT-*` record must cite its governing `STATE-ID`, `RESP-ID`, `ROUTE-ID`, and every applicable `COPY-ID`, then contain: surface mode and visitor/business job; start and end state; dominant and supporting mechanism; source and continuity reference; framing/depth/topology; copy-safe/interface state; input contract (scroll span, hold, release, reversibility); desktop/mobile/fallback treatment; method; dependency and approval status; load implication; and entry/exit transition. Merge or delete a scene that changes no state or performs no distinct job.
 
@@ -55,17 +61,17 @@ When the visitor must believe a coherent space, add `PROD-topology`: adjacency, 
 
 When virtual travel is promised, add `PROD-camera-path`: named route, start/end framing, direction, lens and height, thresholds, speed logic, occlusion, copy moments, and resolution/return. “Cinematic fly-through” is not a camera path. Generate dependent movement only after these records and the contact sheet agree.
 
-## 5. Art-direct responsive and fallback experiences
+## 6. Art-direct responsive and fallback experiences
 
 For every relevant page mode, specify desktop and mobile framing, focal anchor, crop, density, scene count, controls/input, asset variant, loading/performance ceiling, and conversion/utility continuity. Mobile is a separate production, not a scaled desktop crop. Record intentional differences and their preserved narrative job.
 
 Define a fallback for unavailable heavy media and a reduced-motion/static route that retains opening-to-resolution order, required evidence, orientation, and conversion. If the story only works with the preferred GPU, warm cache, or one desktop crop, it is not production-ready. Preserve usable semantics and controls underneath the experiential layer.
 
-## 6. Choose fidelity honestly
+## 7. Choose fidelity honestly
 
 Use `PROD-lean` for existing assets, generated stills, layered depth, compact sequences/clips, and one concentrated peak over a strong editorial/utility base. Use `PROD-studio` for coordinated still sets, responsive variants, several approved transitions, richer custom behavior, limited world work with a named job, and deeper rendered iteration. Use `PROD-flagship` for continuity-controlled film, extensive frame systems, custom worlds/fields/spatial audio, separately produced responsive versions, and corresponding performance and approval work. Tier describes coordination and fidelity, never a presumed budget or creative merit.
 
-## 7. Keep approval payloads distinct
+## 8. Keep approval payloads distinct
 
 Direction approval names the protected kernel, coherence source, visitor/business job, story score, peak/resolution, intended page modes, ambition, and risks. It permits reversible planning, not continuity-dependent production.
 
@@ -77,4 +83,4 @@ Build authorization names the target surface, approved direction, visual lock, a
 
 ## `PROD-build-readiness` verdict
 
-Mark build-ready only when the exact approved JSON passes the bundled validator with `--phase build` and the approved direction, all four experience-contract artifacts, dependency order, substrate, asset audit, required bible/contact sheet/topology/camera records, manifest, responsive and fallback treatments, approval state, risks, and realistic implementation route agree. Every `ROUTE-ID`, `RESP-ID`, `COPY-ID`, and `STATE-ID` must have an implementation owner and verification target. Mark the material unknown that blocks any of those claims; continue unaffected reversible planning. Production readiness never substitutes for rendered chronological proof.
+Mark build-ready only when the exact approved experience-contract JSON passes its bundled validator with `--phase build`; every applicable still-first previsualization manifest passes `validate_previsualization.py /absolute/path/IMMERSIVE-PREVISUALIZATION.json --contract /absolute/path/IMMERSIVE-EXPERIENCE-CONTRACT.json --phase build`; and the approved direction, all four experience-contract artifacts, dependency order, substrate, asset audit, required bible/contact sheet/topology/camera records, shot manifest, responsive and fallback treatments, approval state, risks, and realistic implementation route agree. Every `ROUTE-ID`, `RESP-ID`, `COPY-ID`, `STATE-ID`, `PREVIS-STATE-*`, and `PREVIS-EDGE-*` must have an implementation owner and verification target when applicable. Mark the material unknown that blocks any of those claims; continue unaffected reversible planning. Production readiness never substitutes for rendered chronological proof.
