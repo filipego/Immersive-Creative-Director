@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+._*
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Dependency and build artifacts
+node_modules/
+dist/
+build/
+coverage/
+*.log
+
+# Local editor and workspace state
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Codex and scratch material that does not belong in the public skill
+.codex/
+work/
+scratch/
+tmp/
+*.tmp
+
+# Presentation previews and intermediate rendering files
+docs/rendered/
+docs/montage.*
+docs/*.layout.json

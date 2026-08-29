@@ -1,0 +1,4 @@
+interface:
+  display_name: "Immersive Creative Director"
+  short_description: "Direct original immersive website experiences"
+  default_prompt: "Use $immersive-creative-director to develop and critique an original immersive direction for this website."
