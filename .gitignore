@@ -30,6 +30,7 @@ tmp/
 *.tmp
 
 # Presentation previews and intermediate rendering files
+docs/*.pptx
 docs/rendered/
 docs/montage.*
 docs/*.layout.json

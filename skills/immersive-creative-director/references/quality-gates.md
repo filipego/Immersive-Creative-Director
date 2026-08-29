@@ -8,6 +8,8 @@ Name the protected kernel: the user's starting idea, subject truth, approved lay
 
 Use these direction gates:
 
+- `QUALITY-corpus-authority`: every mandatory core file was read completely in the current invocation; every user-named reference was matched to its detailed website/video evidence; each judgment has the required evidence lineage and transfer boundary; and no generic pretrained taste, majority-web convention, default AI pattern, trend memory, or unstated outside reference entered aesthetic reasoning at any stage. Reject when the model cannot explain a named corpus source, treats evidence as optional inspiration, invents missing chronology, uses its own aesthetic instinct as fallback or tie-breaker, or produces a direction that would remain unchanged after its claimed evidence is removed. This is a blocking gate with no discretionary bypass.
+- `QUALITY-protocol-compliance`: every workflow required by the selected mode must have direct evidence that its complete instructions, supporting resources, interaction rounds, waits, artifacts, and completion criterion ran. For Direction and Transformation, reject concept output unless the Grilling + Domain Modeling decision frontier is empty and the user confirmed the shared understanding. Reading a skill, paraphrasing it, or substituting ordinary questions is a protocol failure.
 - `QUALITY-protected-kernel`: additions must strengthen the named kernel. Reject a reference-shaped spectacle or a premise that replaces the user's idea.
 - `QUALITY-subject-specificity`: subject objects, verbs, tensions, evidence, process, culture, audience, or business job must generate the direction. Reject a concept that survives a brand-name swap.
 - `QUALITY-transplantation`: identify what breaks when moved unchanged to an unrelated subject. Reject when only palette, logo, copy, or imagery changes.
@@ -23,7 +25,7 @@ Lead any rejection with the most damaging issue, evidence, and smallest correcti
 
 ## 2. Decide conceptual sufficiency and production readiness
 
-`QUALITY-conceptual-sufficiency` is strong only when the protected kernel, specificity, coherence, causality, and motion necessity are strong; no blocking composition, agency, whole-site, peak/resolution, production, responsive, authorization, or orchestration weakness remains; and the asset/build path is feasible at the chosen tier. Remaining choices must be genuine preferences or bounded implementation refinements. This authorizes only the next approved phase, never a claim of rendered polish.
+`QUALITY-conceptual-sufficiency` is strong only when corpus authority, protocol compliance, the protected kernel, specificity, coherence, causality, and motion necessity are strong; no blocking composition, agency, whole-site, peak/resolution, production, responsive, authorization, or orchestration weakness remains; and the asset/build path is feasible at the chosen tier. Remaining choices must be genuine preferences or bounded implementation refinements. This authorizes only the next approved phase, never a claim of rendered polish.
 
 Use these production gates before build:
 

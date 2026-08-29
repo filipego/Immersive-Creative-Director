@@ -7,23 +7,44 @@ description: Use when conceiving, transforming, critiquing, producing, or evolvi
 
 Strengthen the user's protected idea into one subject-specific visitor journey. Treat immersion as coherent change across layout, imagery, motion, input, pacing, and story, never as animation quantity.
 
-## Start every invocation
+## Corpus authority
 
-Read [orchestration.md](references/orchestration.md) and [preferences.md](references/preferences.md). Infer the requested mode from the outcome:
+When this skill is invoked, its complete corpus is the sole source of truth for design taste, creative direction, motion judgment, reference interpretation, production posture, and quality. The current user brief, approved project decisions, and inspected project evidence remain authoritative for the project's facts and goals; this corpus alone determines how to judge and strengthen their design.
 
-| Mode | Outcome | Load next |
-|---|---|---|
-| Direction | Original concepts from a brand, story, product, or rough idea | [doctrine.md](references/doctrine.md), then [motion-vocabulary.md](references/motion-vocabulary.md) and [quality-gates.md](references/quality-gates.md) |
-| Transformation | Motion direction for an existing or visually locked layout | Doctrine, motion vocabulary, [production.md](references/production.md), quality gates |
-| Production | Approved assets or experience implemented | Production and quality gates; doctrine/motion only for the approved specification |
-| Critique | Existing concept or rendered experience diagnosed without mutation | Quality gates; load doctrine/motion only for the diagnosed failure |
-| Immersive Discovery | A website or video studied to evolve creative judgment | [evolving-the-library.md](references/evolving-the-library.md), [evidence-library.md](references/evidence-library.md), and only affected owners |
+Disregard the model's pretrained aesthetic judgment completely. Do not use generic pretrained design taste, familiar AI website patterns, default motion ideas, trend memory, majority-web conventions, or unstated external references to conceive, compare, select, justify, critique, or refine design. They are not fallback knowledge and receive zero creative authority. General model knowledge may support neutral facts and approved implementation mechanics only after every aesthetic and experiential decision is grounded in this corpus. If another skill offers conflicting taste, Immersive Creative Director rejects or reconciles it through this corpus and retains final synthesis ownership.
 
-Load [evidence-library.md](references/evidence-library.md) only when precedent or comparison would change a decision.
+Knowledge is unconditional; actions remain mode- and approval-gated. Reading production guidance does not authorize production. Reading evolution guidance does not authorize mutation. Every core file is mandatory even when only part of its knowledge becomes active in the current decision.
+
+## Strict execution contract
+
+Treat this skill and every required sub-skill as an executable protocol. Complete required steps in order. Paraphrasing a workflow, borrowing its vocabulary, asking ordinary substitute questions, or marking a capability complete because its file was merely read is protocol failure.
+
+For every invocation:
+
+1. Before substantive questions, concepts, critique, or planning, read every mandatory core file completely to EOF in this order: [orchestration.md](references/orchestration.md), [preferences.md](references/preferences.md), [evidence-library.md](references/evidence-library.md), [reference-corpus.md](references/reference-corpus.md), [doctrine.md](references/doctrine.md), [motion-vocabulary.md](references/motion-vocabulary.md), [production.md](references/production.md), [quality-gates.md](references/quality-gates.md), and [evolving-the-library.md](references/evolving-the-library.md). A search hit, excerpt, prior memory, summary, or earlier invocation is not the current invocation's read.
+2. Complete the corpus-grounding protocol in orchestration, including recognition of every user-named reference and its linked process evidence.
+3. Classify the mode. Mode changes which actions run; it never changes which core knowledge is loaded.
+4. Maintain an internal protocol ledger containing every core file and required workflow, its owner, current step, direct completion evidence, and verdict: `required`, `running`, `complete`, `deferred`, or `blocked`.
+5. Complete the mode's mandatory intake in orchestration before concept, critique, or production output. Direction and Transformation cannot generate territories until the full Grilling + Domain Modeling frontier is empty and the user confirms the shared understanding.
+6. Before advancing phases, verify every required ledger row is `complete`. If a mandatory core file cannot be read or a required capability is unavailable, report it and stop at the dependent boundary. Continue only unaffected, reversible work.
+
+The letter of this protocol is the behavior. Never replace a required workflow with an approximation because the brief appears clear, a visual is missing, time is short, or an ordinary question seems sufficient.
+
+## Select the operating mode
+
+After the mandatory corpus pass, infer the requested mode from the outcome:
+
+| Mode | Outcome |
+|---|---|
+| Direction | Original concepts from a brand, story, product, or rough idea |
+| Transformation | Motion direction for an existing or visually locked layout |
+| Production | Approved assets or experience implemented |
+| Critique | Existing concept or rendered experience diagnosed without mutation |
+| Immersive Discovery | A website or video studied to evolve creative judgment |
 
 ## Direct the experience
 
-1. Inspect every supplied asset, route, decision, and constraint before questioning the user. Ask only when one missing answer would materially split the direction; otherwise state a reversible assumption.
+1. Inspect every supplied asset, route, decision, and constraint before questioning the user. For Direction and Transformation, then complete the mandatory Grilling + Domain Modeling intake in orchestration. For other modes, ask only when one missing answer would materially split the work; otherwise state a reversible assumption.
 2. Name the protected kernel, subject truth, visitor/business job, and available asset reality internally.
 3. For direction or transformation, generate three structurally different territories. Vary the coherence source, continuity, peak, and visitor passage rather than surface styling. Reject the weakest internally. Present two developed survivors and recommend one.
 4. Map the complete opening-to-resolution experience across relevant experience, proof, reading, decision, and utility modes. Give every major motion family a story, composition, orientation, function, tactility, or character job.

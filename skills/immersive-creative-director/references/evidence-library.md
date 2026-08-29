@@ -1,82 +1,185 @@
-# Evidence library
+# Mandatory Evidence Index
 
-Use these records as bounded precedents. Retrieve one to three only when precedent changes a concept, mechanism, production, critique, contradiction, or evolution decision. Each ID carries a transferable judgment, a use condition, a surface boundary, and an observation limit. The record informs reasoning internally; a reference name never becomes a style command. `evolving-the-library.md` owns intake and disposition.
+This is the mandatory index to the skill's design evidence. Read every record on every invocation, then use [reference-corpus.md](reference-corpus.md) for full chronology, route/state observations, timestamps, mechanisms, limitations, and Filipe's reactions. These sources are the skill's design memory and taste evidence, not an optional mood board.
 
-## Coherence, continuity, and page modes
+## Use policy
+
+- Read the complete index and full corpus before any design question or judgment.
+- Consider every record, then select the required active evidence lineage defined in `orchestration.md`.
+- Cite the transferable judgment internally, never use a reference name as a style command.
+- Every record includes a surface exclusion. Recognizable identity is provenance, not vocabulary.
+- Evidence limitations constrain claims. A production standard may exceed observed reference behavior, but must be labeled derived rather than attributed to the site.
+
+## Website records
 
 ### `EVID-site-son-daven`
 
-**Decision:** A credible material law can change role across type, imagery, thresholds, navigation, and resolution while reading/archive routes reduce intensity without leaving the world. **Use:** material-derived identity and varied page modes. **Surface boundary:** retain no regional imagery, woven marks, totem, palette, or architecture. **Limit:** desktop observation only; mobile and reduced motion unobserved.
+- Source: [Son Daven](https://sondaven.com/en)
+- Supports: one brand material can become type, imagery, mask, threshold, navigation scene, and final resolution; page modes can reduce spectacle without leaving the world.
+- Use when: seeking a coherence source from a real material/cultural property; designing motif variation; connecting immersive landing and restrained article/archive routes.
+- Polish evidence: motion prepares the next scene; density alternates; motif roles change; long reading and documentary pages inherit lower-intensity identity; footer resolves as a scene.
+- Reject/correct: material used as a filter; repeated wipe timing; motif over legibility; unrelated parallax layered above the law.
+- Never copy: regional folk imagery, exact woven vertical marks, animal totem, black/bone palette, architectural content.
+- Directly observed limits: desktop only; mobile/reduced-motion behavior not inspected.
 
 ### `EVID-site-lando-norris`
 
-**Decision:** A real identity tension can organize image relationships, typography voices, accent behavior, route modes, and opening-to-closing change. **Use:** people or brands with authentic dualities and distinct performance/editorial/data/utility routes. **Surface boundary:** retain no driver/helmet identity, lime accent, contours, portraits, or collage grammar. **Limit:** desktop only; mobile and reduced motion unobserved.
+- Source: [Lando Norris](https://landonorris.com/)
+- Supports: a productive identity tension can govern image relationships, typography voices, accent masks, route modes, and an opening-to-closing transformation.
+- Use when: a person/brand contains real dualities; media identities differ across performance, personal, data, and utility routes.
+- Polish evidence: face/helmet proposition resolves as complete figure; lime and contour motifs change role; technical, editorial, calendar, and legal pages behave differently but return to one identity.
+- Reject/correct: random accent rectangles; race clichés; floating collage without art-directed relationships; one landing-page behavior forced onto all routes.
+- Never copy: driver/helmet identity, fluorescent lime, exact contour graphics, portraits, signature collage.
+- Directly observed limits: desktop only; mobile/reduced-motion behavior not inspected.
 
 ### `EVID-site-indigo`
 
-**Decision:** A ceremonial score can repeat across chapters while focus, density, emotion, and composition meaningfully vary. **Use:** collections, editions, or recurring acts. **Surface boundary:** retain no jewelry story, portrait crop, wordmark, maker panel, or chapter sequence. **Limit:** desktop; sound present but unevaluated; mobile and reduced motion unobserved.
+- Source: [Indigo Laboratory](https://indigo-laboratory.it/)
+- Supports: a ceremonial narrative score can repeat across chapters while composition, density, emotional tone, and product focus vary.
+- Use when: collections, editions, chapters, products, or recurring acts need cohesion without template monotony.
+- Polish evidence: one dominant focus; dense/sparse cadence; product match-cut anchor; stable chapter rail; overlays continue editorial geometry; cumulative resolution.
+- Reject/correct: identical image motion across chapters; decorative floating cutouts; conventional product cards; audio without chapter meaning.
+- Never copy: jewelry narratives, portrait crops, fractured wordmark, violet maker panel, exact five-chapter treatment.
+- Directly observed limits: desktop; sound present but not evaluated; mobile/reduced-motion not inspected.
 
 ### `EVID-site-noth`
 
-**Decision:** Image distance, crop, field inversion, and negative space can provide restrained camera editing while independent projects remain dominant. **Use:** portfolios and case studies needing spatial movement with a quiet shell. **Surface boundary:** retain no monochrome shell, elevator figure, surreal objects, type, or project sequence. **Limit:** desktop; audio, mobile, and reduced motion unobserved.
+- Source: [Noth.in](https://www.noth.in/)
+- Supports: apparent image distance, crop, field inversion, and negative space can function as restrained camera editing while independent project worlds remain dominant.
+- Use when: portfolios, studios, galleries, or case studies need spatial movement without animating interface chrome.
+- Polish evidence: distant→editorial→near→environmental→exit relationships; neutral shell; project-specific art direction; intentional silence; direct next-project loop.
+- Reject/correct: identical zoom amplitude; blank space without payoff; floating captions/cards; studio identity overwhelming client work.
+- Never copy: stark black/white shell, elevator figure, surreal objects, exact typography or project sequences.
+- Directly observed limits: desktop; audio identified but not evaluated; mobile/reduced-motion not inspected.
 
 ### `EVID-site-mr-black`
 
-**Decision:** Bounded pinned transformations can retain near-linear scroll, visible orientation, readable proof, and utility. **Use:** one focused staged transformation amid commercial evidence. **Surface boundary:** retain no mascot, uniform, franchise narrative, palette, or paper/typewriter treatment. **Limit:** desktop; mobile/reduced motion unobserved and form submission not performed.
+- Source: [Mr Black Franchise Case](https://mrblack-case.dolganev.com/)
+- Supports: authored pinned transformations can coexist with near-linear physical scroll progress, visible orientation, readable proof, and utility.
+- Use when: strong scroll staging must not feel coercive; one persistent object changes commercial roles; data/proof and spectacle coexist.
+- Polish evidence: measured wheel progress; bounded holds; one main transformation per pinned scene; persistent navigation; legal overlays and form inherit the world.
+- Reject/correct: covert wheel damping; pinning without a job; hidden progress; repeated object rotation; financial animation that prevents comparison.
+- Never copy: cup mascot, uniforms, burnt orange/bone/charcoal identity, franchise copy, paper/typewriter surface.
+- Directly observed limits: desktop; mobile/reduced-motion not inspected; form submission not performed.
 
 ### `EVID-site-santioni`
 
-**Decision:** Object-state causality, evolving symbols, camera shifts, and a meaningful participation event can make discovery ritualized. **Use:** products with real threshold, making, transformation, or release verbs. **Surface boundary:** retain no pilgrimage myth, temple, engraving, color portal, or pour sequence. **Limit:** desktop fixed-stage observation; touch, keyboard, reduced motion, and sound composition unobserved.
+- Source: [Santioni Spirits](https://santionispirits.com/)
+- Supports: object-state causality, evolving symbols, panel-scale camera changes, and a meaningful participation event can turn product discovery into ritual.
+- Use when: brand/product story contains threshold, temptation, transformation, pouring/making, release, or other causal verbs.
+- Polish evidence: red circle changes meaning; blue spirit connects product and transformation; hold action causes the peak; Collection reuses mythology differently; ending decrescendos.
+- Reject/correct: illustration used as substitute for causality; arbitrary hold-to-reveal; independent panel motion; interaction after narrative resolution.
+- Never copy: saint/pilgrimage mythology, temple, engraving style, red portal, electric-blue spirit, exact pour sequence.
+- Directly observed limits: desktop fixed-stage experience; mobile/touch/keyboard/reduced-motion and sound composition not evaluated.
 
 ### `EVID-site-become-a-yogi`
 
-**Decision:** Quiet structure can store energy for one contained-to-environmental media peak, then release into useful routes. **Use:** authentic media that turns explanation into embodiment or invitation. **Surface boundary:** retain no yoga imagery, palette, rounded editorial shell, or lineage composition. **Limit:** desktop; media sound/content, mobile, touch, keyboard, and reduced motion unobserved.
-
-## Structural mechanisms
+- Source: [Become a Yogi](https://www.become-a-yogi.com/)
+- Supports: restraint stores energy for one earned contained-to-environmental media conversion, followed by release into useful content; route intensity follows task.
+- Use when: explanation should become embodiment/community/invitation; existing authentic media can carry an emotional peak.
+- Polish evidence: long quiet cream fields; lineage/map systems; contained community video expands/darkens/holds; training, articles, contact, map, and modal remain task-appropriate.
+- Reject/correct: every image goes fullscreen; static space without payoff; cinematic forms/articles; dark overlay solely for giant copy.
+- Never copy: yoga/body imagery, cream/black/orange shell, rounded editorial treatment, exact lineage composition.
+- Directly observed limits: desktop; embedded media content/sound not studied; mobile/touch/keyboard/reduced-motion not inspected.
 
 ### `EVID-site-mesh3d`
 
-**Decision:** A field earns immersion when terrain, depth, scale, transition, data state, and destination share a spatial contract, followed by a calm product surface. **Use:** multiplicity, data, community, terrain, or catalogue accumulation. **Surface boundary:** retain no lime terrain, fragmented type, vortex, gallery artwork, or state sequence. **Limit:** representative records only; mobile, touch, keyboard, traversal, reduced motion, and sound unobserved.
+- Source: [Mesh3D — The State of the Gallery](https://mesh3d.gallery/the-state-of-the-gallery)
+- Supports: a particle field earns immersion through structural jobs—terrain, depth, scale, transition, data state, and destination—while a calmer product surface follows.
+- Use when: multiplicity, data, community, catalogue accumulation, terrain, or spatial statistics can determine a field.
+- Polish evidence: shared camera for field/type/images; changing density/topology; legibility voids; rare proof planes; progress prompts; vortex becomes actual gallery exit; catalogue/cinema retain utility.
+- Reject/correct: screen-space sparkle; uniform density; arbitrary screenshot planes; repeated type explosions; tunnel without destination.
+- Never copy: toxic-lime particle terrain, fragmented silver type, exact states, tunnel, gallery artwork.
+- Directly observed limits: representative records rather than every catalogue item; mobile/touch/keyboard report traversal/reduced-motion/sound not evaluated.
 
 ### `EVID-site-haoqi`
 
-**Decision:** A stable grid and usable project shell can license concentrated playful interaction without obscuring project comprehension. **Use:** personal portfolios that need bounded character. **Surface boundary:** retain no blue toy world, stickers, tubular letters, pixel objects, or tunnels. **Limit:** protected content was not bypassed; mobile, touch, reduced motion, and soundtrack composition unobserved.
+- Source: [Haoqi Design](https://haoqi.design/)
+- Supports: rigorous structure and calm case-study utility can license concentrated play, tactile character, theme/sound states, and personal mischief.
+- Use when: a portfolio or personal brand wants surprise without sacrificing project comprehension.
+- Polish evidence: stable grid/utilities; play concentrated in threshold/contact moments; project pages reduce intensity; theme and sound controls remain legible.
+- Reject/correct: random sticker/blobs/cursor toys; play in every section; protected interaction bypass; project work overwhelmed by author toys.
+- Never copy: electric-blue toy world, stickers, tubular 3D letters, pixel objects, signature tunnels/objects.
+- Directly observed limits: protected employer content not bypassed; mobile/touch/reduced-motion and soundtrack composition not evaluated.
 
 ### `EVID-site-ride-radian`
 
-**Decision:** A path becomes narrative infrastructure when milestones, geometry, proof, progress, invariant product, and arrival share meaning; utility routes can stay calm. **Use:** actual chronology, journey, process, geography, or dependencies. **Surface boundary:** retain no bike, forest world, coordinate system, step rail, or product imagery. **Limit:** desktop; remaining configurator, mobile, touch, keyboard, reduced motion, and sound unobserved.
+- Source: [Ride Radian](https://www.rideradian.com/)
+- Supports: a drawn path becomes narrative infrastructure when geometry, milestones, proof, progress, invariant product, and arrival share meaning.
+- Use when: chronology, journey, process, geography, dependencies, or product expedition can determine the route.
+- Polish evidence: milestone-first geometry; bike remains invariant across inspection/environment; long route has chapters/progress; conversion arrives as destination; utility routes calm down.
+- Reject/correct: arbitrary SVG path; evenly spaced dates; line obscuring copy; motion blur when inspection matters; cinematic support/legal/specification pages.
+- Never copy: yellow enduro bike, forest world, exact path/coordinate treatment, 50-step rail, product imagery.
+- Directly observed limits: desktop; remaining configurator views, mobile/touch/keyboard/reduced-motion/sound not evaluated.
 
 ### `EVID-site-pear`
 
-**Decision:** A metaphor with enough verbs can carry a causal object-state chain, business model, selection, progress, form, and closing exchange. **Use:** business/story relationships that can map honestly to objects, actions, evidence, and conversion. **Surface boundary:** retain no fruit/tree, classical imagery, palette, graft/build/prune sequence, or constellation form. **Limit:** desktop; mobile, touch, keyboard, reduced motion, load, and performance unobserved; substrate only partly inferable.
+- Source: [Pear](https://pear.no/)
+- Supports: one metaphor with enough verbs can carry a long causal object-state chain, business model, selection, progress, FAQ/form integration, and closing value exchange.
+- Use when: a real metaphor can map business/story ideas to objects, actions, camera states, evidence, and conversion without surface imitation.
+- Polish evidence: every scroll beat changes action/meaning; grid/chapter rail orient extreme length; material transitions bridge worlds; form constellation resolves into cultivation; final watering/pruning summarizes partnership.
+- Reject/correct: vague long “immersive video”; inconsistent AI characters/objects; decorative constellation; classical imagery used only for luxury; no chapter orientation.
+- Never copy: pears/tree, classical figures, ultramarine/gold/parchment palette, graft/cut/build/prune sequence, constellation form.
+- Directly observed limits: desktop; mobile/touch/keyboard/reduced-motion/load/performance not inspected; implementation substrate only partly inferable from live output.
 
-## Process precedents
+## Educational/process records
 
 ### `EVID-video-creative-skill-process`
 
-**Decision:** Direction is a decision system: evidence shapes the journey, assets follow art direction, and rendered chronological critique includes deletion. **Use:** conversational direction, asset decisions, and render/revision loops. **Surface boundary:** retain no creator workflow or product claims. **Limit:** one demonstrated project; validate principles against the active task.
+- Source: [QUI6Ug4cHnE](https://www.youtube.com/watch?v=QUI6Ug4cHnE&t=2s)
+- Supports: an immersive-design skill should be a decision system; intake and real evidence shape the journey; assets follow art direction; rendered chronological critique and deletion are creative work.
+- Use when: designing the conversational Codex workflow, concept interview, asset decision, render/revision loop, and stopping behavior.
+- Demonstrated failures: bland first hero; nowrap/readability issue; camera crossing page margin; empty peak opening; dead space; overly fast map; stale/wrong content; compressed meaningful scene.
+- Process boundary: source product/Claude workflow is translated to Codex desktop/OpenAI; “few prompts” is not a quality standard.
+- Excluded: commercial and creator promotion.
+- Directly observed limits: one demonstrated project/workflow; principles require validation across pressure scenarios.
 
 ### `EVID-video-reference-transfer`
 
-**Decision:** Transfer whole mechanics rather than skin; media-first can be valid when media is the substrate; responsive art direction needs explicit critique. **Use:** reference translation, media sequences, world-derived controls, and desktop/mobile framing. **Surface boundary:** retain no source visual grammar or tool prescription. **Limit:** named external media tooling is optional; retain method only.
+- Source: [39IlNR-P3-Q](https://www.youtube.com/watch?v=39IlNR-P3-Q)
+- Supports: study whole reference mechanics rather than skin; media-first is valid when media is the substrate; interface geometry should grow from the world; editorial relief and responsive art direction require explicit critique.
+- Use when: references, video/image sequences, concept-derived controls, Pear mechanism transfer, desktop/mobile crop decisions, and screenshot-grounded fixes are relevant.
+- Demonstrated transfer: Pear's causal architecture becomes Aurea's distinct myth/memory world without pears/classical blue-gold copying.
+- Demonstrated failures: copy disappears early; desktop spacing issue; mobile starts too far from subject; control/heading scale and density require re-art-direction.
+- Excluded: pre-roll commercial and creator outro.
+- Directly observed limits: external media generator named by source is optional; method, not tool, is retained.
 
 ### `EVID-video-spatial-production`
 
-**Decision:** Spatial travel needs approved stills, a topology/floor plan, and a camera-path contract; long video/3D is a conditional production choice. **Use:** architecture, interiors, property, product worlds, fly-throughs, or generated environments. **Surface boundary:** retain no tutorial workflow or vendor assumptions. **Limit:** lesson is process evidence from a documented failure, not a claim about a universal production tool.
+- Source: [GJxchJkk4Lk](https://www.youtube.com/watch?v=GJxchJkk4Lk)
+- Supports: interface/static base first when utility frames the experience; approve stills before dependent animation; coherent camera travel requires topology/floor plan and camera-path contract.
+- Use when: property, architecture, interior, product world, spatial fly-through, generated room/environment, or long transition production is proposed.
+- Demonstrated failures: source still introduced an invented sauna; no floor plan caused random room placement; polished result required multiple attempts despite “few prompts” framing.
+- Process boundary: long video/3D is not automatically superior; staged stills and selective transitions preserve continuity and cost control.
+- Excluded: Hostinger sponsor/tutorial interval approximately 13:32–16:32.
+- Directly observed limits: tutorial's exact generator/service is not required; spatial lesson derives from the documented failure.
 
-## Retrieval clusters
+## Evidence clusters
 
-| Decision question | Retrieve |
-|---|---|
-| Identity as a motion law | `EVID-site-son-daven`, `EVID-site-lando-norris` |
-| Authored scroll with agency | `EVID-site-mr-black`, `EVID-site-indigo` |
-| Camera through project media | `EVID-site-noth`, `EVID-site-pear` |
-| Repeated chapters with variation | `EVID-site-indigo`, `EVID-site-pear` |
-| Meaningful participation | `EVID-site-santioni`, `EVID-site-haoqi` |
-| Quiet buildup to one peak | `EVID-site-become-a-yogi`, `EVID-site-indigo` |
-| Structural field | `EVID-site-mesh3d` |
-| Narrative path | `EVID-site-ride-radian`, `EVID-site-pear` |
-| Reference transfer | `EVID-video-reference-transfer` |
-| Spatial-production continuity | `EVID-video-spatial-production` |
+Use these clusters to retrieve corroboration without loading every record.
 
-Observed limits are constraints on claims, not missing polish. A production standard can exceed them only when presented as a derived requirement rather than attributed behavior.
+| Question | Primary IDs | Boundary/corroboration IDs |
+|---|---|---|
+| Can identity become a motion law? | `EVID-site-son-daven`, `EVID-site-lando-norris` | `EVID-site-indigo` |
+| Can scroll feel authored without coercion? | `EVID-site-mr-black` | `EVID-site-indigo`, `EVID-site-ride-radian` |
+| Can imagery create camera travel without UI animation? | `EVID-site-noth` | `EVID-site-pear`, `EVID-video-spatial-production` |
+| Can repeated chapters avoid templating? | `EVID-site-indigo` | `EVID-site-pear`, `EVID-site-lando-norris` |
+| Can interaction cause narrative meaning? | `EVID-site-santioni` | `EVID-site-haoqi`, `EVID-site-pear` |
+| Can quiet layouts amplify one peak? | `EVID-site-become-a-yogi` | `EVID-site-indigo`, `EVID-video-reference-transfer` |
+| When are particles structural? | `EVID-site-mesh3d` | `EVID-video-reference-transfer` |
+| When is a path real narrative infrastructure? | `EVID-site-ride-radian` | `EVID-site-pear` |
+| How can a whole metaphor carry conversion? | `EVID-site-pear` | `EVID-site-santioni` |
+| How should references transfer without copying? | `EVID-video-reference-transfer` | all website surface exclusions |
+| How should Codex iterate rendered work? | `EVID-video-creative-skill-process`, `EVID-video-reference-transfer` | Design Loop/Impeccable orchestration |
+| What does generated spatial continuity require? | `EVID-video-spatial-production` | `EVID-site-mesh3d`, `EVID-site-pear` |
+
+## Evidence update rule
+
+New sources do not create another long record automatically. Apply the intake template and then:
+
+- **Add:** create one stable `EVID-*` record only for a new decision-changing lesson.
+- **Merge:** append the source as corroboration/qualification to an existing record or cluster.
+- **Counterexample:** preserve the failure and the doctrine boundary it changes.
+- **Reject:** retain minimum external provenance; no installed evidence record.
+
+Any update must name affected doctrine/motion/production/quality/preference records and regression scenarios. A source that changes no future judgment remains outside the installed library.

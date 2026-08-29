@@ -4,6 +4,8 @@ An evolving Codex skill for conceiving, transforming, critiquing, producing, and
 
 It replaces generic AI motion suggestions—automatic text reveals, arbitrary parallax, floating cards, decorative particles, and effect-heavy GSAP recipes—with subject-specific creative direction grounded in layout, imagery, motion, input, pacing, production reality, and story.
 
+The bundled corpus is the skill's sole source of truth for design taste and creative judgment. Every invocation must read the complete corpus before asking design questions, generating concepts, critiquing work, or planning production. Generic pretrained taste, majority-web conventions, default AI patterns, and unstated outside references receive no aesthetic authority.
+
 ## What it does
 
 - Generates three structurally different creative territories, rejects the weakest, develops two, and recommends one.
@@ -38,6 +40,9 @@ Immersive-Creative-Director/
         ├── agents/
         │   └── openai.yaml
         └── references/
+            ├── evidence-library.md
+            ├── reference-corpus.md
+            └── ...
 ```
 
 Only `skills/immersive-creative-director` is the installable skill. Repository documentation remains outside the runtime package.
@@ -115,7 +120,7 @@ Study this complete website or video and tell me whether it should change the sk
 
 ## How it works with other skills
 
-Immersive Creative Director is the synthesis owner. It dynamically invokes complete installed skills only when their predicates are met:
+Immersive Creative Director is the synthesis owner. Its complete internal corpus is mandatory on every invocation. After that grounding pass, it invokes complete installed execution skills according to the active mode and approved phase:
 
 - **Impeccable** for substantive visual judgment and anti-generic critique.
 - **Design DNA** for separating transferable mechanisms from recognizable reference identity.
@@ -140,7 +145,7 @@ Unavailable optional skills are reported rather than silently imitated or instal
 
 ## Provenance
 
-The skill was developed from a closed reference corpus of award-winning websites, educational videos, explicit creative preferences, production decisions, and 25 matched RED/GREEN behavioral scenarios. The installed package contains distilled operating judgment, not a research archive or a catalog of styles to copy.
+The skill was developed from a curated corpus of award-winning websites, educational videos, explicit creative preferences, production decisions, and matched RED/GREEN behavioral scenarios. The installed package contains both the detailed reference corpus and its distilled operating judgment. References are evidence for transferable mechanisms and quality—not a catalog of surfaces to copy.
 
 ## License
 
