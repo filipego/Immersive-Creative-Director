@@ -90,6 +90,10 @@ def validate(skill_root):
         if not overview.is_file() or not jpeg_is_complete(overview):
             errors.append(f"{reference_id}: missing or undecodable overview {overview}")
 
+        motion_strip = corpus_root / "motion-strips" / f"{reference_id}.jpg"
+        if not motion_strip.is_file() or not jpeg_is_complete(motion_strip):
+            errors.append(f"{reference_id}: missing or undecodable motion strip {motion_strip}")
+
     if observed_total != 321 or manifest.get("frameCount") != 321:
         errors.append(
             f"website visual-taste corpus must contain 321 frames; observed {observed_total}, "
@@ -107,6 +111,15 @@ def validate(skill_root):
             if reference_id not in readable:
                 errors.append(f"readable manifest omits {reference_id}")
 
+    motion_manifest = skill_root / "references" / "motion-reference-manifest.md"
+    if not motion_manifest.is_file():
+        errors.append("missing references/motion-reference-manifest.md")
+    else:
+        readable = motion_manifest.read_text()
+        for reference_id in EXPECTED_COUNTS:
+            if reference_id not in readable:
+                errors.append(f"motion manifest omits {reference_id}")
+
     return errors
 
 
@@ -121,7 +134,7 @@ def main():
         for error in errors:
             print(f"- {error}")
         return 1
-    print("Visual taste corpus valid: 11 websites, 321 frames, 11 overview sheets.")
+    print("Visual taste corpus valid: 11 websites, 321 frames, 11 overview sheets, 11 motion strips.")
     return 0
 
 

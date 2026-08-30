@@ -41,10 +41,16 @@ class VisualCorpusValidationTests(unittest.TestCase):
             EXPECTED_REFERENCES,
         )
         self.assertEqual(manifest["frameCount"], 321)
+        strip_root = SKILL_ROOT / "assets" / "visual-taste-corpus" / "motion-strips"
+        self.assertEqual(
+            {path.stem for path in strip_root.glob("*.jpg")},
+            EXPECTED_REFERENCES,
+        )
 
     def test_entrypoint_makes_visual_grounding_blocking(self):
         entrypoint = (SKILL_ROOT / "SKILL.md").read_text()
         self.assertIn("visual-reference-manifest.md", entrypoint)
+        self.assertIn("motion-reference-manifest.md", entrypoint)
         self.assertIn("validate_visual_corpus.py", entrypoint)
         self.assertIn("view_image", entrypoint)
         self.assertIn("Visual Grounding Ledger", entrypoint)

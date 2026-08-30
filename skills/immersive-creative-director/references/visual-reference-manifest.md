@@ -12,7 +12,7 @@ Before questions, concepts, critique, or production planning:
 2. Use `view_image` to inspect every website overview below during the current invocation.
 3. Complete an internal **Visual Grounding Ledger** with one row per website: `reference ID`, `overview inspected`, `written evidence read`, `transferable mechanism`, `surface identity excluded`, `detailed frames inspected`, and `verdict`.
 4. Mark all eleven rows `complete`. A user-named website, selected mechanism, or disputed judgment also requires chronological inspection of its detailed frame directory and matching manifest entries.
-5. Ground every territory, critique, and motion decision in completed website rows plus their written evidence. Transfer mechanisms; exclude recognizable subject matter, palette, artwork, type identity, and exact choreography.
+5. Read [motion-reference-manifest.md](motion-reference-manifest.md) and inspect the local chronological strip for every selected website mechanism. Ground every territory, critique, and motion decision in completed website rows plus written and applicable motion evidence. Transfer mechanisms; exclude recognizable subject matter, palette, artwork, type identity, and exact choreography.
 
 If an overview cannot be inspected or validation fails, stop at the design boundary. The process-video corpus cannot fill a missing visual row.
 
@@ -33,3 +33,5 @@ If an overview cannot be inspected or validation fails, stop at the design bound
 | `site-pear` | [Pear](https://pear.no/) | 35 | `../assets/visual-taste-corpus/overviews/site-pear.jpg` | `../assets/visual-taste-corpus/frames/site-pear/` | `EVID-site-pear` |
 
 Still frames establish composition, hierarchy, density, continuity, state changes, and visible interaction consequences. Written website chronology supplies timing, input mapping, scene causality, route coverage, and limitations. Both are required for website-grounded judgment.
+
+The local strips preserve chronological state evidence independently of live-site availability. They never replace live observation for exact timing, easing, input feel, or interactive response.

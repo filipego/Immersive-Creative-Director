@@ -16,6 +16,9 @@ The bundled corpus is the skill's sole source of truth for design taste and crea
 - Preserves visually locked layouts and derives movement from observed crop, planes, reading order, handoffs, and negative space.
 - Chooses among stills, layered images, image sequences, short clips, video, 3D, particles, DOM animation, and sound according to their irreplaceable job, cost, continuity risk, performance, and fallback.
 - Runs a machine-validated still-first previsualization pipeline for connected generated motion: source-authority lock → canonical anchor → rendered state board → adjacent transition graph → conditional external-provider/media approval → reviewed outputs → build.
+- Persists an executable direction-run control plane so corpus grounding, intake, references, territories, Scrollcraft reconciliation, approvals, and quality gates cannot exist only in model memory.
+- Requires universal visual development after concept approval: a complete five-role system board plus the highest-risk representative motion study, even when no generated video is used.
+- Requires a project-specific performance/device budget and verified dependency compatibility before build.
 - Re-art-directs the experience for mobile and preserves narrative parity for reduced motion.
 - Keeps concept, source assets, paid media, visual changes, implementation, and release approvals separate.
 - Studies complete websites and videos through **Immersive Discovery**, admitting only evidence that changes a future decision.
@@ -43,6 +46,10 @@ Immersive-Creative-Director/
         │   └── openai.yaml
         ├── scripts/
         │   ├── validate_experience_contract.py
+        │   ├── validate_direction_run.py
+        │   ├── validate_visual_development.py
+        │   ├── validate_performance_budget.py
+        │   ├── validate_dependencies.py
         │   ├── validate_previsualization.py
         │   ├── validate_process_corpus.py
         │   └── validate_visual_corpus.py
@@ -50,6 +57,7 @@ Immersive-Creative-Director/
         │   ├── visual-taste-corpus/
         │   │   ├── manifest.json
         │   │   ├── overviews/       # 11 website overview sheets
+        │   │   ├── motion-strips/   # 11 durable chronological strips
         │   │   └── frames/          # 321 chronological website captures
         │   └── process-corpus/
         │       ├── manifest.json
@@ -58,6 +66,13 @@ Immersive-Creative-Director/
         │       └── frames/          # 72 secondary demonstration captures
         └── references/
             ├── evidence-library.md
+            ├── execution-contract.md
+            ├── visual-development.md
+            ├── performance-budget.md
+            ├── dependencies.md
+            ├── scrollcraft-adapter.md
+            ├── motion-reference-manifest.md
+            ├── behavioral-regression-suite.md
             ├── previsualization.md
             ├── process-reference-manifest.md
             ├── reference-corpus.md
