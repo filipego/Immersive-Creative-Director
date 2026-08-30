@@ -1,0 +1,3691 @@
+{
+  "schemaVersion": 1,
+  "recoveredFrom": [
+    {
+      "label": "primary-reference-research-session",
+      "start": "2026-08-29T00:43:00.000Z",
+      "end": "2026-08-29T01:48:00.000Z"
+    },
+    {
+      "label": "still-first-video-follow-up-session",
+      "start": "2026-08-29T21:31:00.000Z",
+      "end": "2026-08-29T21:39:00.000Z"
+    }
+  ],
+  "generatedAt": "2026-08-30T04:01:39.913Z",
+  "frameCount": 393,
+  "references": [
+    {
+      "id": "site-sondaven",
+      "name": "Son Daven",
+      "source": "https://sondaven.com/en",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/site-sondaven/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 104372,
+          "sha256": "31f02fa79a0a47a17adaa059c907e41f338da71faf9d05e5b791366cc41379d0",
+          "capturedAt": "2026-08-29T00:43:28.949Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 2,
+          "file": "frames/site-sondaven/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 102460,
+          "sha256": "a95f5bb008b01ad934c5561cf41d72a614f36247fefaade3092a6af903b1415c",
+          "capturedAt": "2026-08-29T00:43:52.314Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 3,
+          "file": "frames/site-sondaven/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 108110,
+          "sha256": "eb8ddd02829442e65c7dd566e5278a4e1f2bf71496deb3867504ce4db86e4882",
+          "capturedAt": "2026-08-29T00:43:52.314Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 4,
+          "file": "frames/site-sondaven/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 81712,
+          "sha256": "5ade2c0371e5ebd292f2073167b91998d202583326d759c8f3dff2ab565f6118",
+          "capturedAt": "2026-08-29T00:43:52.314Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 5,
+          "file": "frames/site-sondaven/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 99590,
+          "sha256": "a0e80c86bf80558f961c3add0f23602bba8a191758f7ee9fcad3c00e4c8c0fef",
+          "capturedAt": "2026-08-29T00:43:52.314Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 6,
+          "file": "frames/site-sondaven/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 136755,
+          "sha256": "ce1081b7f542f4df1da77fb24b607763755e774e52db16248e044e9381493233",
+          "capturedAt": "2026-08-29T00:43:59.679Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 7,
+          "file": "frames/site-sondaven/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 77343,
+          "sha256": "f8eb307e7d75c12d94500d11d2b47a96e6ddb061ea6b3a76e0edc9b0cf62959c",
+          "capturedAt": "2026-08-29T00:44:13.840Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 8,
+          "file": "frames/site-sondaven/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 86946,
+          "sha256": "20f6f10b44a93f0c15897c538fa52d86a16c1a59674a3086d5541782a60bdf33",
+          "capturedAt": "2026-08-29T00:44:13.840Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 9,
+          "file": "frames/site-sondaven/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 67083,
+          "sha256": "03eef7e1a2d32f8655ee7716f4c31673f1d676a5124ea128ae5003682abac263",
+          "capturedAt": "2026-08-29T00:44:13.840Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 10,
+          "file": "frames/site-sondaven/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 118153,
+          "sha256": "5d5b71d51152845d08e1bfd107c60fccbfaa290941506b360955f8cc3da72bf1",
+          "capturedAt": "2026-08-29T00:44:13.840Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 11,
+          "file": "frames/site-sondaven/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 31459,
+          "sha256": "51317dc3801699bf66726f523e77bc6e3ffdc6b9d8117c507aaae8e9568e757d",
+          "capturedAt": "2026-08-29T00:44:28.967Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 12,
+          "file": "frames/site-sondaven/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 130340,
+          "sha256": "daf749fb4f17650d651f8ecf81e36271531500aba8b3b878a12153c6eacebc12",
+          "capturedAt": "2026-08-29T00:44:28.967Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 13,
+          "file": "frames/site-sondaven/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 143131,
+          "sha256": "c72f4a884f66797a4a3719647906c3857f333971d9fccabeb9743278f767216d",
+          "capturedAt": "2026-08-29T00:44:28.967Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 14,
+          "file": "frames/site-sondaven/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 88182,
+          "sha256": "0bbf21355f3af6603534663028a1734425a23aabc04654cc79ae6c5db01c3ad4",
+          "capturedAt": "2026-08-29T00:44:28.967Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 15,
+          "file": "frames/site-sondaven/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 184647,
+          "sha256": "bc8262ec356d11211f63e6a1790bbb4e776a4854e213896159bfe8fb1b1b9ec4",
+          "capturedAt": "2026-08-29T00:44:43.450Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 16,
+          "file": "frames/site-sondaven/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 101443,
+          "sha256": "587def6ed94a65a791ef5ec399770a01cab835bb7e3ddaeda0ecf2054eacf0a0",
+          "capturedAt": "2026-08-29T00:44:43.450Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 17,
+          "file": "frames/site-sondaven/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 74487,
+          "sha256": "ccc4035670972c9b7859505e9a7356c261a9c6028bdb1240c7b939da5dceb0cc",
+          "capturedAt": "2026-08-29T00:44:43.450Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 18,
+          "file": "frames/site-sondaven/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 77026,
+          "sha256": "6b5b13cfc829ed261c46a9abd5aa24902a23cef45bebca17691f216977f0201e",
+          "capturedAt": "2026-08-29T00:44:43.450Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 19,
+          "file": "frames/site-sondaven/frame-019.jpg",
+          "mime": "image/jpeg",
+          "bytes": 142053,
+          "sha256": "4a5250fcf299b6fc0ccf5f277e6266e7528e01af46bf3b0857b5d9d1765220ed",
+          "capturedAt": "2026-08-29T00:44:58.972Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 20,
+          "file": "frames/site-sondaven/frame-020.jpg",
+          "mime": "image/jpeg",
+          "bytes": 111332,
+          "sha256": "4908148a82f7582d891492fe5ccc4c3f3bb1c6f7e29f768ed38e9d9c438743a6",
+          "capturedAt": "2026-08-29T00:44:58.972Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 21,
+          "file": "frames/site-sondaven/frame-021.jpg",
+          "mime": "image/jpeg",
+          "bytes": 142328,
+          "sha256": "ac6da4c26715f1e45e1a6dbb9b0b09c2c1249120e86ec238a354071b1f03d1c4",
+          "capturedAt": "2026-08-29T00:44:58.972Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 22,
+          "file": "frames/site-sondaven/frame-022.jpg",
+          "mime": "image/jpeg",
+          "bytes": 97456,
+          "sha256": "815859fecfd812d5c5170055fbc0a98bef48ca86fdd22c9ef0b0b8a10b7edfe0",
+          "capturedAt": "2026-08-29T00:44:58.972Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 23,
+          "file": "frames/site-sondaven/frame-023.jpg",
+          "mime": "image/jpeg",
+          "bytes": 52727,
+          "sha256": "37a4c330b0663542315ec96e30a495f4566c3ecc34e5fc7f52674b01099b2871",
+          "capturedAt": "2026-08-29T00:45:10.849Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 24,
+          "file": "frames/site-sondaven/frame-024.jpg",
+          "mime": "image/jpeg",
+          "bytes": 67298,
+          "sha256": "f68d7687365fa7f9622a47ef6ea476d57c70484a29f8584f83caeef8e4ff733b",
+          "capturedAt": "2026-08-29T00:45:10.849Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 25,
+          "file": "frames/site-sondaven/frame-025.jpg",
+          "mime": "image/jpeg",
+          "bytes": 86648,
+          "sha256": "30b450f6a48de7e2381d0d1b3ed4957b5553f07576e63924078dcf1fc16de6b3",
+          "capturedAt": "2026-08-29T00:45:10.849Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 26,
+          "file": "frames/site-sondaven/frame-026.jpg",
+          "mime": "image/jpeg",
+          "bytes": 47003,
+          "sha256": "1ecbd5cca82168dedc23aa6d0ddfeaf27e40fdf417799e9e572659af7b584a74",
+          "capturedAt": "2026-08-29T00:46:45.722Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 27,
+          "file": "frames/site-sondaven/frame-027.jpg",
+          "mime": "image/jpeg",
+          "bytes": 97499,
+          "sha256": "c2b1c6a36537fbfa5e9f7693e1055e67803966ae6326fac3930afcfea9f04f0c",
+          "capturedAt": "2026-08-29T00:46:59.113Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 28,
+          "file": "frames/site-sondaven/frame-028.jpg",
+          "mime": "image/jpeg",
+          "bytes": 78557,
+          "sha256": "eb942cafa8e32b35f865fb569d4bc80281a27a7319edfde0efbba4a76095be98",
+          "capturedAt": "2026-08-29T00:47:10.428Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 29,
+          "file": "frames/site-sondaven/frame-029.jpg",
+          "mime": "image/jpeg",
+          "bytes": 74254,
+          "sha256": "2f39ab15b4c7f81b92664d50eeb6238056fcd8fc1fc19e0718e5cc82454bf837",
+          "capturedAt": "2026-08-29T00:47:10.428Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 30,
+          "file": "frames/site-sondaven/frame-030.jpg",
+          "mime": "image/jpeg",
+          "bytes": 86609,
+          "sha256": "0f287289c611b0df80e9f7bc4d0d814f8e6116746eb168cf0a8de3795a4e0de4",
+          "capturedAt": "2026-08-29T00:47:10.428Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 31,
+          "file": "frames/site-sondaven/frame-031.jpg",
+          "mime": "image/jpeg",
+          "bytes": 69307,
+          "sha256": "d64fe2770a0471d6204b184fdb9c1439c91e81de2421015822124d34f50144c4",
+          "capturedAt": "2026-08-29T00:47:28.073Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 32,
+          "file": "frames/site-sondaven/frame-032.jpg",
+          "mime": "image/jpeg",
+          "bytes": 71659,
+          "sha256": "dc5bf4040f644e6ee062877486318dd152a4b53e241e158e2c266b3fcbae09a3",
+          "capturedAt": "2026-08-29T00:47:45.398Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 33,
+          "file": "frames/site-sondaven/frame-033.jpg",
+          "mime": "image/jpeg",
+          "bytes": 80976,
+          "sha256": "9d439062bcd0eb48d006ace6e84e899528705947c00e9e985a0a8a171cb73350",
+          "capturedAt": "2026-08-29T00:47:45.398Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 34,
+          "file": "frames/site-sondaven/frame-034.jpg",
+          "mime": "image/jpeg",
+          "bytes": 69850,
+          "sha256": "9e2dd4a0bc60a7211a27cc515392bb6c508dad2080bab1a8a1a04277cc400e80",
+          "capturedAt": "2026-08-29T00:47:45.398Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 35,
+          "file": "frames/site-sondaven/frame-035.jpg",
+          "mime": "image/jpeg",
+          "bytes": 104510,
+          "sha256": "8f124c71bd0dcc7e6948af5c91e1137a8115d8fbba80f033f3bb6b507c02cd62",
+          "capturedAt": "2026-08-29T00:47:45.398Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 36,
+          "file": "frames/site-sondaven/frame-036.jpg",
+          "mime": "image/jpeg",
+          "bytes": 73036,
+          "sha256": "60c39d654425a2e590a05b92012f355b96ce3301d9c4e2c066a352381517d2f4",
+          "capturedAt": "2026-08-29T00:47:45.398Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 37,
+          "file": "frames/site-sondaven/frame-037.jpg",
+          "mime": "image/jpeg",
+          "bytes": 88386,
+          "sha256": "b0a35d1924f1285c8af51cbf92655c65b66a23e87bb2694a40caef8c522cf0d5",
+          "capturedAt": "2026-08-29T00:47:45.398Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 38,
+          "file": "frames/site-sondaven/frame-038.jpg",
+          "mime": "image/jpeg",
+          "bytes": 68368,
+          "sha256": "8642ddf5e88ebd61966f5ccaef2e3d8ed152c40b2892b8112a94cae28c7cc4e8",
+          "capturedAt": "2026-08-29T00:48:28.340Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 39,
+          "file": "frames/site-sondaven/frame-039.jpg",
+          "mime": "image/jpeg",
+          "bytes": 62006,
+          "sha256": "80c1f1c79e185154748d4c1f7b90ea0f9b66408d6711361ed8fb18fdafd16adb",
+          "capturedAt": "2026-08-29T00:48:28.340Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 40,
+          "file": "frames/site-sondaven/frame-040.jpg",
+          "mime": "image/jpeg",
+          "bytes": 68672,
+          "sha256": "26cebc853c396129177a32eb917f73fc1165b165da4a5c17da7f8b20243a3859",
+          "capturedAt": "2026-08-29T00:48:28.340Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 41,
+          "file": "frames/site-sondaven/frame-041.jpg",
+          "mime": "image/jpeg",
+          "bytes": 89091,
+          "sha256": "71e5a2f312d72fbb408c84d9a63a7234fc14972d9cef8fe3ee637c299420d818",
+          "capturedAt": "2026-08-29T00:48:28.340Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 42,
+          "file": "frames/site-sondaven/frame-042.jpg",
+          "mime": "image/jpeg",
+          "bytes": 84287,
+          "sha256": "60fef0394281a828d4746025782c8ba34184cb88dabefb257ce3ed8a19519044",
+          "capturedAt": "2026-08-29T00:48:28.340Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 43,
+          "file": "frames/site-sondaven/frame-043.jpg",
+          "mime": "image/jpeg",
+          "bytes": 71751,
+          "sha256": "837145f9e0c72da8164e6e41b501132d1a4ae466ae9317ea5a8a562eb356a8df",
+          "capturedAt": "2026-08-29T00:48:28.340Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 44,
+          "file": "frames/site-sondaven/frame-044.jpg",
+          "mime": "image/jpeg",
+          "bytes": 61665,
+          "sha256": "1b75ab731ff8c33f30959ff9dfab0cf0149090b88634562884b5304807687f7b",
+          "capturedAt": "2026-08-29T00:48:48.359Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 45,
+          "file": "frames/site-sondaven/frame-045.jpg",
+          "mime": "image/jpeg",
+          "bytes": 86312,
+          "sha256": "99f37e03226eb878261ca3bb830d7aad37276c6c84c1e90a82a13cf3517234ac",
+          "capturedAt": "2026-08-29T00:48:48.359Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 46,
+          "file": "frames/site-sondaven/frame-046.jpg",
+          "mime": "image/jpeg",
+          "bytes": 85720,
+          "sha256": "c2a2ba3a320db03a19428ef7cef367cb4d36a2cae3e913be8baf8644ddef82a9",
+          "capturedAt": "2026-08-29T00:50:28.537Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 47,
+          "file": "frames/site-sondaven/frame-047.jpg",
+          "mime": "image/jpeg",
+          "bytes": 54735,
+          "sha256": "685416e615ddbed5431affa157256f410cd843d3986a95a197f255a8919d491e",
+          "capturedAt": "2026-08-29T00:50:28.537Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 48,
+          "file": "frames/site-sondaven/frame-048.jpg",
+          "mime": "image/jpeg",
+          "bytes": 86110,
+          "sha256": "2632105e5bd8b6e3d817f518b046509f4af9b7601804c2842eeb181681edda1c",
+          "capturedAt": "2026-08-29T00:50:28.537Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 49,
+          "file": "frames/site-sondaven/frame-049.jpg",
+          "mime": "image/jpeg",
+          "bytes": 83395,
+          "sha256": "cf0822637a691d09add22eb4ce2a5e1bff3f6b71765ec0bcb9b929504ab90c3b",
+          "capturedAt": "2026-08-29T00:50:28.537Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 50,
+          "file": "frames/site-sondaven/frame-050.jpg",
+          "mime": "image/jpeg",
+          "bytes": 67472,
+          "sha256": "bee8d87c783660b6cac83f234e54a6691e62e3e8e029e44b6ce8abb4a89d1854",
+          "capturedAt": "2026-08-29T00:50:28.537Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 51,
+          "file": "frames/site-sondaven/frame-051.jpg",
+          "mime": "image/jpeg",
+          "bytes": 88030,
+          "sha256": "f978eeccccdda299fe282a35307272f7e9b0d1f76996b361085c05cb80abf4f6",
+          "capturedAt": "2026-08-29T00:50:28.537Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 52,
+          "file": "frames/site-sondaven/frame-052.jpg",
+          "mime": "image/jpeg",
+          "bytes": 118636,
+          "sha256": "d1110a9e8722142360e1af41a6857bfb564c65245f172c4921a279031ca0e66c",
+          "capturedAt": "2026-08-29T00:50:49.233Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 53,
+          "file": "frames/site-sondaven/frame-053.jpg",
+          "mime": "image/jpeg",
+          "bytes": 98318,
+          "sha256": "3db7b23c9729d9f912ae52437a63c86828faf61a0c9d18f1638705b1448988a2",
+          "capturedAt": "2026-08-29T00:51:12.622Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 54,
+          "file": "frames/site-sondaven/frame-054.jpg",
+          "mime": "image/jpeg",
+          "bytes": 131472,
+          "sha256": "3bf5002f976615f9004de1c27010ddeee13d55ec0dcecb0eaf4da48e3ffeb7af",
+          "capturedAt": "2026-08-29T00:51:24.777Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 55,
+          "file": "frames/site-sondaven/frame-055.jpg",
+          "mime": "image/jpeg",
+          "bytes": 125543,
+          "sha256": "d2b98718a14d528c97d9a3b9d3bc752c253ba119c7de5a5052311b53efe6ec9e",
+          "capturedAt": "2026-08-29T00:51:24.777Z",
+          "captureTitle": "Untitled capture sequence"
+        }
+      ],
+      "frameCount": 55,
+      "overview": "overviews/site-sondaven.jpg"
+    },
+    {
+      "id": "site-lando-norris",
+      "name": "Lando Norris",
+      "source": "https://landonorris.com/",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/site-lando-norris/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 83459,
+          "sha256": "048924ba29af1094fb549be14945de347b8d63f3d6770c1d1a0afbd7248871ab",
+          "capturedAt": "2026-08-29T00:52:16.493Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 2,
+          "file": "frames/site-lando-norris/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 35670,
+          "sha256": "b7405dca578c07d8bcda99cc4815531ce941847b16120a5ff17728e780571a41",
+          "capturedAt": "2026-08-29T00:52:36.157Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 3,
+          "file": "frames/site-lando-norris/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 73188,
+          "sha256": "7d16d1024a70a503be770aa33268b9970a7bd5ddfef90521e5c99530f128eddf",
+          "capturedAt": "2026-08-29T00:52:36.157Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 4,
+          "file": "frames/site-lando-norris/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 87940,
+          "sha256": "75b359a7e282e5aecea2cf218c3e13b4c77dcd6a748621bced12c8ecd2623ac7",
+          "capturedAt": "2026-08-29T00:52:36.157Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 5,
+          "file": "frames/site-lando-norris/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 60094,
+          "sha256": "68f932c8be999f05f380296a95db276aec7dd21c4642abee6ade82a3755c0570",
+          "capturedAt": "2026-08-29T00:52:36.157Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 6,
+          "file": "frames/site-lando-norris/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 36302,
+          "sha256": "2544f86231fc0771aa40d4471157f8c3dbbba01f6925a9ac29057e4bd0aff54d",
+          "capturedAt": "2026-08-29T00:52:36.157Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 7,
+          "file": "frames/site-lando-norris/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 83195,
+          "sha256": "d5ddeee3c8c9848397c6484ff7f2423a2d262680e028dffdaa4c1e26277a571f",
+          "capturedAt": "2026-08-29T00:52:36.157Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 8,
+          "file": "frames/site-lando-norris/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 80554,
+          "sha256": "ff12530355f8748b59a3d1ec7306b1e37cac0f791cce13f718702d892438cadd",
+          "capturedAt": "2026-08-29T00:53:18.595Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 9,
+          "file": "frames/site-lando-norris/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 101610,
+          "sha256": "0414b61596d594e7aeea96cb585f1ba9b5039c531527ccf36c614dfb82a1c226",
+          "capturedAt": "2026-08-29T00:53:43.354Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 10,
+          "file": "frames/site-lando-norris/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 51223,
+          "sha256": "6aef946d3f6f275353f19009395f5f7502f1d40c43df6dafbad8d49c49fff542",
+          "capturedAt": "2026-08-29T00:53:43.354Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 11,
+          "file": "frames/site-lando-norris/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 95420,
+          "sha256": "92d5e54d9228ad89fe29d9a817cb2f1cb5051a7deaef8b67f4e3852a55ab3113",
+          "capturedAt": "2026-08-29T00:53:43.354Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 12,
+          "file": "frames/site-lando-norris/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 81382,
+          "sha256": "ea5ac28178a359e1b26ee81ffa57ec4da5da86ef4051d7920c676b619332f8ec",
+          "capturedAt": "2026-08-29T00:54:18.799Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 13,
+          "file": "frames/site-lando-norris/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 79909,
+          "sha256": "d27116e354c38860b00f453ffc9ac81e7ef84a31647843be10b57de5e28a76d4",
+          "capturedAt": "2026-08-29T00:54:18.799Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 14,
+          "file": "frames/site-lando-norris/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 87305,
+          "sha256": "3104aaf0064ea3fc08530463f293c8ff10244a8ad0405341fdba769eea07f01d",
+          "capturedAt": "2026-08-29T00:54:18.799Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 15,
+          "file": "frames/site-lando-norris/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 78855,
+          "sha256": "c8a87a6c171bcdad5e2dff2f45cf8a6f7ede68083e7ef41890698286d3da268b",
+          "capturedAt": "2026-08-29T00:54:18.799Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 16,
+          "file": "frames/site-lando-norris/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 46462,
+          "sha256": "3bbaf5402d4ba92d171b404d70a3399b3cd83fbb9e3a74ebe04207d5445dc817",
+          "capturedAt": "2026-08-29T00:54:18.799Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 17,
+          "file": "frames/site-lando-norris/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 91538,
+          "sha256": "3d65aa3b1690dbfb654fb2b9e53ea23b6fb554c0c8fc7f15fe3072b1a329fa25",
+          "capturedAt": "2026-08-29T00:54:18.799Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 18,
+          "file": "frames/site-lando-norris/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 61164,
+          "sha256": "5265456c2234be9709f2efc74a24aced228fafd89812ee3b662721d96dac9d9f",
+          "capturedAt": "2026-08-29T00:54:46.966Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 19,
+          "file": "frames/site-lando-norris/frame-019.jpg",
+          "mime": "image/jpeg",
+          "bytes": 77048,
+          "sha256": "8480b394954354aacd308f9fa0fd0a20629881bdf9ec58721c994b09a973ccfb",
+          "capturedAt": "2026-08-29T00:54:46.966Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 20,
+          "file": "frames/site-lando-norris/frame-020.jpg",
+          "mime": "image/jpeg",
+          "bytes": 85801,
+          "sha256": "6aa022fac67d4f92a18ca4da6373b87bd440feafee1cd2b8515f5eb46824dfd5",
+          "capturedAt": "2026-08-29T00:54:46.966Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 21,
+          "file": "frames/site-lando-norris/frame-021.jpg",
+          "mime": "image/jpeg",
+          "bytes": 102200,
+          "sha256": "f94aaf0f261224e541061cccf76719cd1cc8ca5e6d851a501287899b1c8ba0bd",
+          "capturedAt": "2026-08-29T00:54:46.966Z",
+          "captureTitle": "Untitled capture sequence"
+        },
+        {
+          "index": 22,
+          "file": "frames/site-lando-norris/frame-022.jpg",
+          "mime": "image/jpeg",
+          "bytes": 75280,
+          "sha256": "9624570f5f79ddcf101fb7a1b6c7c105b95be35180034ef7b51d3dad838518d5",
+          "capturedAt": "2026-08-29T00:54:46.966Z",
+          "captureTitle": "Untitled capture sequence"
+        }
+      ],
+      "frameCount": 22,
+      "overview": "overviews/site-lando-norris.jpg"
+    },
+    {
+      "id": "site-indigo-laboratory",
+      "name": "Indigo Laboratory",
+      "source": "https://indigo-laboratory.it/",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/site-indigo-laboratory/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 93196,
+          "sha256": "62f0088ad6ce2a9c0804fbe800510b61bea204e89801acae03576943d11537f3",
+          "capturedAt": "2026-08-29T00:57:28.502Z",
+          "captureTitle": "Experience Indigo’s later story chapters with real navigation"
+        },
+        {
+          "index": 2,
+          "file": "frames/site-indigo-laboratory/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 88028,
+          "sha256": "61454e7d98e319ad7ff4dd0c69fd722039e0bb42d34a7891922520b273a55eaf",
+          "capturedAt": "2026-08-29T00:57:28.502Z",
+          "captureTitle": "Experience Indigo’s later story chapters with real navigation"
+        },
+        {
+          "index": 3,
+          "file": "frames/site-indigo-laboratory/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 90374,
+          "sha256": "6dbde79fd4819f167d33046a2618ed81b5981008b47166781c2c5fe61221a101",
+          "capturedAt": "2026-08-29T00:57:28.502Z",
+          "captureTitle": "Experience Indigo’s later story chapters with real navigation"
+        },
+        {
+          "index": 4,
+          "file": "frames/site-indigo-laboratory/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 81393,
+          "sha256": "26a2a0177cf22933e111405860a0b64f77d011cc63b21040f3740086bbaff6b1",
+          "capturedAt": "2026-08-29T00:57:28.502Z",
+          "captureTitle": "Experience Indigo’s later story chapters with real navigation"
+        },
+        {
+          "index": 5,
+          "file": "frames/site-indigo-laboratory/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 86231,
+          "sha256": "9b04e1e92327dd5bf69b708f8d751fd5f6366c74deef80cc18436862fdb9cd3f",
+          "capturedAt": "2026-08-29T00:57:57.295Z",
+          "captureTitle": "Capture Indigo’s maker/contact overlays and final scene"
+        },
+        {
+          "index": 6,
+          "file": "frames/site-indigo-laboratory/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 64023,
+          "sha256": "b487c8786793c1906444f6ed2f78dd1dc1e8f8d23bdfc82af1d9898bfe20dc78",
+          "capturedAt": "2026-08-29T00:57:57.295Z",
+          "captureTitle": "Capture Indigo’s maker/contact overlays and final scene"
+        },
+        {
+          "index": 7,
+          "file": "frames/site-indigo-laboratory/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 53316,
+          "sha256": "4de9ce16b4e39d9b67051e94bc31aefcd1b1de890f7ce00e4b6d373e1f377dc6",
+          "capturedAt": "2026-08-29T00:57:57.295Z",
+          "captureTitle": "Capture Indigo’s maker/contact overlays and final scene"
+        },
+        {
+          "index": 8,
+          "file": "frames/site-indigo-laboratory/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 86993,
+          "sha256": "2fdcde465d296533262868cd7eec55c0a597b3620dc097fc287bd710863467b6",
+          "capturedAt": "2026-08-29T00:58:36.860Z",
+          "captureTitle": "Observe Indigo’s chapter motion through real scrolling"
+        },
+        {
+          "index": 9,
+          "file": "frames/site-indigo-laboratory/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 55913,
+          "sha256": "d58b2ce29b06f0c2a2aa4575a30311ebf0be95ce920e97412afe747f50c96169",
+          "capturedAt": "2026-08-29T00:58:36.860Z",
+          "captureTitle": "Observe Indigo’s chapter motion through real scrolling"
+        },
+        {
+          "index": 10,
+          "file": "frames/site-indigo-laboratory/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 84177,
+          "sha256": "45f5f2c843654aad760e6e91d51cb61956fe27c1111e781e4aa42832d36b909a",
+          "capturedAt": "2026-08-29T00:58:36.860Z",
+          "captureTitle": "Observe Indigo’s chapter motion through real scrolling"
+        },
+        {
+          "index": 11,
+          "file": "frames/site-indigo-laboratory/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 78766,
+          "sha256": "af8915273ca9c853390ec328e910404b96919dbed43b137c693cff230e92fba2",
+          "capturedAt": "2026-08-29T00:58:36.860Z",
+          "captureTitle": "Observe Indigo’s chapter motion through real scrolling"
+        }
+      ],
+      "frameCount": 11,
+      "overview": "overviews/site-indigo-laboratory.jpg"
+    },
+    {
+      "id": "site-noth",
+      "name": "Noth.in",
+      "source": "https://www.noth.in/",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/site-noth/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 15135,
+          "sha256": "3ff34d8988cf050ef94babe77f1db926c1fbe937d4b922ccbab3dacc74c10f9f",
+          "capturedAt": "2026-08-29T00:59:49.886Z",
+          "captureTitle": "Traverse the Noth.in homepage in the Codex in-app Browser"
+        },
+        {
+          "index": 2,
+          "file": "frames/site-noth/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 7348,
+          "sha256": "57f9fbea0aeee47ff395d541f96c9c198a751cd50339b653c4e907151ea1b535",
+          "capturedAt": "2026-08-29T00:59:49.886Z",
+          "captureTitle": "Traverse the Noth.in homepage in the Codex in-app Browser"
+        },
+        {
+          "index": 3,
+          "file": "frames/site-noth/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 82912,
+          "sha256": "0b27ba2916d2515f6fc90d5c22600e66a3aa167914a35f1e06bf4b149cdc2fbb",
+          "capturedAt": "2026-08-29T00:59:49.886Z",
+          "captureTitle": "Traverse the Noth.in homepage in the Codex in-app Browser"
+        },
+        {
+          "index": 4,
+          "file": "frames/site-noth/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 79672,
+          "sha256": "adc6d46cc11375051f4c9e2bccaa768b5ec6a17a0a3e6991951c72af652327b8",
+          "capturedAt": "2026-08-29T01:00:18.284Z",
+          "captureTitle": "Experience Noth.in’s homepage through real scroll input"
+        },
+        {
+          "index": 5,
+          "file": "frames/site-noth/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 92225,
+          "sha256": "39d1363e0ecdfa4f7386ddf376452e3bff1bf96f493056cb01fec5cb3aaec032",
+          "capturedAt": "2026-08-29T01:00:18.284Z",
+          "captureTitle": "Experience Noth.in’s homepage through real scroll input"
+        },
+        {
+          "index": 6,
+          "file": "frames/site-noth/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 46062,
+          "sha256": "38428f093468ce02176d0d871d49c028ee271889abe2ddac96b36f22fd0661e9",
+          "capturedAt": "2026-08-29T01:00:18.284Z",
+          "captureTitle": "Experience Noth.in’s homepage through real scroll input"
+        },
+        {
+          "index": 7,
+          "file": "frames/site-noth/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 54099,
+          "sha256": "a3ff32aef1e624b4d04159127739350a4cd8312420dc7532fc937b473693fd7f",
+          "capturedAt": "2026-08-29T01:00:18.284Z",
+          "captureTitle": "Experience Noth.in’s homepage through real scroll input"
+        },
+        {
+          "index": 8,
+          "file": "frames/site-noth/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 91193,
+          "sha256": "30cc75191626b9a6c7ee5853b1288063092168bcd3471f7b24784253d142a08c",
+          "capturedAt": "2026-08-29T01:00:18.284Z",
+          "captureTitle": "Experience Noth.in’s homepage through real scroll input"
+        },
+        {
+          "index": 9,
+          "file": "frames/site-noth/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 42876,
+          "sha256": "a1ac4c8a69807636aa23e69c45f94b66ef0c28147d436a156def52b951c98a90",
+          "capturedAt": "2026-08-29T01:00:18.284Z",
+          "captureTitle": "Experience Noth.in’s homepage through real scroll input"
+        },
+        {
+          "index": 10,
+          "file": "frames/site-noth/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 43740,
+          "sha256": "a8a24eccc1fac52f7ea1f6c480b20f3b8d446ac058fe13c1e7e2e0ad04b8b1fc",
+          "capturedAt": "2026-08-29T01:00:27.395Z",
+          "captureTitle": "Inspect Noth.in’s full-screen navigation state"
+        },
+        {
+          "index": 11,
+          "file": "frames/site-noth/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 73093,
+          "sha256": "cd64c2920705152c1068dbbcbd5447bf01e3a7a9fd6898452ccebcfffe8cd979",
+          "capturedAt": "2026-08-29T01:00:47.756Z",
+          "captureTitle": "Traverse Noth.in’s complete works index"
+        },
+        {
+          "index": 12,
+          "file": "frames/site-noth/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 12968,
+          "sha256": "771eb98e6dddcb7124df7755107efbb8fe227fdae652da8a9c0b717ffb6d16ec",
+          "capturedAt": "2026-08-29T01:00:47.756Z",
+          "captureTitle": "Traverse Noth.in’s complete works index"
+        },
+        {
+          "index": 13,
+          "file": "frames/site-noth/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 13465,
+          "sha256": "3f16cfda7802de891973eabf9e64f2454c30a417ce87a4ac23b0dc62548ff4a1",
+          "capturedAt": "2026-08-29T01:00:47.756Z",
+          "captureTitle": "Traverse Noth.in’s complete works index"
+        },
+        {
+          "index": 14,
+          "file": "frames/site-noth/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 64881,
+          "sha256": "ad377036701be077a11b5f1cf1020df0346b12e18b59c2039ce32821764c5abe",
+          "capturedAt": "2026-08-29T01:01:08.465Z",
+          "captureTitle": "Traverse Noth.in’s Utopia case study"
+        },
+        {
+          "index": 15,
+          "file": "frames/site-noth/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 7153,
+          "sha256": "866956176ec6b2d06279e31422949a90c95ea4835ebc3b3f3da8cbaa88a784d7",
+          "capturedAt": "2026-08-29T01:01:08.465Z",
+          "captureTitle": "Traverse Noth.in’s Utopia case study"
+        },
+        {
+          "index": 16,
+          "file": "frames/site-noth/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 105085,
+          "sha256": "0a2ab809760ad709251a5b5fb120eeb6eb6676095b6914e44c2f5ccfba306479",
+          "capturedAt": "2026-08-29T01:01:08.465Z",
+          "captureTitle": "Traverse Noth.in’s Utopia case study"
+        },
+        {
+          "index": 17,
+          "file": "frames/site-noth/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 52378,
+          "sha256": "692f7592ec0406ef31897e3eae8321e2d8d9f594bffbb6c3be89d7901ab83303",
+          "capturedAt": "2026-08-29T01:01:27.576Z",
+          "captureTitle": "Traverse Noth.in’s Aurbse case study"
+        },
+        {
+          "index": 18,
+          "file": "frames/site-noth/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 89395,
+          "sha256": "a8b84f248e4a331362c5b20203fc944b9641ecfb95e3423527b6b079171d6805",
+          "capturedAt": "2026-08-29T01:01:27.576Z",
+          "captureTitle": "Traverse Noth.in’s Aurbse case study"
+        },
+        {
+          "index": 19,
+          "file": "frames/site-noth/frame-019.jpg",
+          "mime": "image/jpeg",
+          "bytes": 102447,
+          "sha256": "8990e85b2518492ea8d901b4311d211146e238e17aae600b63d21f01c609d754",
+          "capturedAt": "2026-08-29T01:01:27.576Z",
+          "captureTitle": "Traverse Noth.in’s Aurbse case study"
+        },
+        {
+          "index": 20,
+          "file": "frames/site-noth/frame-020.jpg",
+          "mime": "image/jpeg",
+          "bytes": 46879,
+          "sha256": "59555171c33b0095bcb2ea1392c259641e6c85d0d231e71b18d12b2a2f0d21d1",
+          "capturedAt": "2026-08-29T01:01:45.774Z",
+          "captureTitle": "Traverse Noth.in’s In_Cognita case study"
+        },
+        {
+          "index": 21,
+          "file": "frames/site-noth/frame-021.jpg",
+          "mime": "image/jpeg",
+          "bytes": 6353,
+          "sha256": "bac01a9ab585034f39aea6d3228685e3f7e79f50aa747d70e479159e039621bc",
+          "capturedAt": "2026-08-29T01:01:45.774Z",
+          "captureTitle": "Traverse Noth.in’s In_Cognita case study"
+        },
+        {
+          "index": 22,
+          "file": "frames/site-noth/frame-022.jpg",
+          "mime": "image/jpeg",
+          "bytes": 63400,
+          "sha256": "44662024321f931f866222a572896d13bab4f55f7d38a9834fbfc931146c4ce7",
+          "capturedAt": "2026-08-29T01:01:45.774Z",
+          "captureTitle": "Traverse Noth.in’s In_Cognita case study"
+        },
+        {
+          "index": 23,
+          "file": "frames/site-noth/frame-023.jpg",
+          "mime": "image/jpeg",
+          "bytes": 42932,
+          "sha256": "a56c8c1a6712e1159b122ab9f81c86f345726d9c06a021c4d9da8f5dbd3c6155",
+          "capturedAt": "2026-08-29T01:02:07.158Z",
+          "captureTitle": "Traverse Noth.in’s LGM case study"
+        },
+        {
+          "index": 24,
+          "file": "frames/site-noth/frame-024.jpg",
+          "mime": "image/jpeg",
+          "bytes": 6589,
+          "sha256": "3fd704eb7245d55c31eab8687d872fa94d6f202c45b702ef3a83c98453cdf732",
+          "capturedAt": "2026-08-29T01:02:07.158Z",
+          "captureTitle": "Traverse Noth.in’s LGM case study"
+        },
+        {
+          "index": 25,
+          "file": "frames/site-noth/frame-025.jpg",
+          "mime": "image/jpeg",
+          "bytes": 57855,
+          "sha256": "aec5a2048d01ea5eb172318cfd3958d6a54302eedd9ff40ec6d9b0f069569321",
+          "capturedAt": "2026-08-29T01:02:07.158Z",
+          "captureTitle": "Traverse Noth.in’s LGM case study"
+        },
+        {
+          "index": 26,
+          "file": "frames/site-noth/frame-026.jpg",
+          "mime": "image/jpeg",
+          "bytes": 55463,
+          "sha256": "c47754ba35f3c9f6495d9e5e2a9f3cb420929292116ae5401828896f2abfe403",
+          "capturedAt": "2026-08-29T01:02:24.972Z",
+          "captureTitle": "Traverse Noth.in’s Haptify case study"
+        },
+        {
+          "index": 27,
+          "file": "frames/site-noth/frame-027.jpg",
+          "mime": "image/jpeg",
+          "bytes": 28522,
+          "sha256": "ee83d8934ce1fe1fdd802fc3ddb8930939fa32bad8c084261c835fd8cdba733a",
+          "capturedAt": "2026-08-29T01:02:24.972Z",
+          "captureTitle": "Traverse Noth.in’s Haptify case study"
+        },
+        {
+          "index": 28,
+          "file": "frames/site-noth/frame-028.jpg",
+          "mime": "image/jpeg",
+          "bytes": 30731,
+          "sha256": "e316e7d1c60ff41031d43d58299694d4150478e60516a87ecaad0911f1db2526",
+          "capturedAt": "2026-08-29T01:02:24.972Z",
+          "captureTitle": "Traverse Noth.in’s Haptify case study"
+        },
+        {
+          "index": 29,
+          "file": "frames/site-noth/frame-029.jpg",
+          "mime": "image/jpeg",
+          "bytes": 45435,
+          "sha256": "7e13970a10001d2981c8fd73dfc74f8230f3511a15f4a673aaf401804e49a724",
+          "capturedAt": "2026-08-29T01:02:41.620Z",
+          "captureTitle": "Traverse Noth.in’s Mova case study"
+        },
+        {
+          "index": 30,
+          "file": "frames/site-noth/frame-030.jpg",
+          "mime": "image/jpeg",
+          "bytes": 14211,
+          "sha256": "48548356f686f824ee57a8e8928dbc7cfd9ae0b71799210471d4b80cd1c323c8",
+          "capturedAt": "2026-08-29T01:02:41.620Z",
+          "captureTitle": "Traverse Noth.in’s Mova case study"
+        },
+        {
+          "index": 31,
+          "file": "frames/site-noth/frame-031.jpg",
+          "mime": "image/jpeg",
+          "bytes": 18603,
+          "sha256": "50c5d78dbad348997f92dea045ccefe7489b39c774d7fce333f6af82daced509",
+          "capturedAt": "2026-08-29T01:02:41.620Z",
+          "captureTitle": "Traverse Noth.in’s Mova case study"
+        },
+        {
+          "index": 32,
+          "file": "frames/site-noth/frame-032.jpg",
+          "mime": "image/jpeg",
+          "bytes": 48094,
+          "sha256": "5083b1c1d08cb847d5f87fcbe418acb16d4204341da8b9b96b78d744b425e6ac",
+          "capturedAt": "2026-08-29T01:03:00.009Z",
+          "captureTitle": "Traverse Noth.in’s France Chimie case study"
+        },
+        {
+          "index": 33,
+          "file": "frames/site-noth/frame-033.jpg",
+          "mime": "image/jpeg",
+          "bytes": 28266,
+          "sha256": "27853ff6727f1d0906fd9730a91f7fc175ef485ff85f6e7f12b9777df9ef3d34",
+          "capturedAt": "2026-08-29T01:03:00.009Z",
+          "captureTitle": "Traverse Noth.in’s France Chimie case study"
+        },
+        {
+          "index": 34,
+          "file": "frames/site-noth/frame-034.jpg",
+          "mime": "image/jpeg",
+          "bytes": 58011,
+          "sha256": "e37c750f85b7934414c0ff0492a7837fe0c6684d9e10aed33e9165b183a10c41",
+          "capturedAt": "2026-08-29T01:03:00.009Z",
+          "captureTitle": "Traverse Noth.in’s France Chimie case study"
+        },
+        {
+          "index": 35,
+          "file": "frames/site-noth/frame-035.jpg",
+          "mime": "image/jpeg",
+          "bytes": 56142,
+          "sha256": "e3c2e4fb94c823a73a8f3188e8b5045dfb4e3350df8a73cab099e051de49c485",
+          "capturedAt": "2026-08-29T01:03:22.597Z",
+          "captureTitle": "Observe Noth.in’s case-study image scaling through real scrolling"
+        },
+        {
+          "index": 36,
+          "file": "frames/site-noth/frame-036.jpg",
+          "mime": "image/jpeg",
+          "bytes": 20564,
+          "sha256": "38b22241f2ba36fcfdcdf75df1cdb137dcfd8bd783593b9a48ea5b623cdfa79d",
+          "capturedAt": "2026-08-29T01:03:22.597Z",
+          "captureTitle": "Observe Noth.in’s case-study image scaling through real scrolling"
+        },
+        {
+          "index": 37,
+          "file": "frames/site-noth/frame-037.jpg",
+          "mime": "image/jpeg",
+          "bytes": 57709,
+          "sha256": "38c24fc47a9c0de334ec44bbc7d89ca33b42486adc863336e4689bb671d41256",
+          "capturedAt": "2026-08-29T01:03:22.597Z",
+          "captureTitle": "Observe Noth.in’s case-study image scaling through real scrolling"
+        },
+        {
+          "index": 38,
+          "file": "frames/site-noth/frame-038.jpg",
+          "mime": "image/jpeg",
+          "bytes": 53445,
+          "sha256": "c66926f3940a933dbae994953e2ce41a1faf9eaca850436242308e1e22de08fd",
+          "capturedAt": "2026-08-29T01:03:22.597Z",
+          "captureTitle": "Observe Noth.in’s case-study image scaling through real scrolling"
+        },
+        {
+          "index": 39,
+          "file": "frames/site-noth/frame-039.jpg",
+          "mime": "image/jpeg",
+          "bytes": 45010,
+          "sha256": "deab163e42ff78539bf2830ad392bf83fe4bf7f70fcede70be2643973a94bbe8",
+          "capturedAt": "2026-08-29T01:03:22.597Z",
+          "captureTitle": "Observe Noth.in’s case-study image scaling through real scrolling"
+        },
+        {
+          "index": 40,
+          "file": "frames/site-noth/frame-040.jpg",
+          "mime": "image/jpeg",
+          "bytes": 175487,
+          "sha256": "a9f35e38d9089f47b639551b8b2fc374ee6f1b4fb44f81bf570dd24e36e631ef",
+          "capturedAt": "2026-08-29T01:03:22.597Z",
+          "captureTitle": "Observe Noth.in’s case-study image scaling through real scrolling"
+        }
+      ],
+      "frameCount": 40,
+      "overview": "overviews/site-noth.jpg"
+    },
+    {
+      "id": "site-mr-black",
+      "name": "Mr Black case",
+      "source": "https://mrblack-case.dolganev.com/",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/site-mr-black/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 121660,
+          "sha256": "d1a9e32b6ce605da703878f2f2fea586839ddec610c7c7f9fc675a956c4e5be7",
+          "capturedAt": "2026-08-29T01:04:33.448Z",
+          "captureTitle": "Traverse the Mr Black case experience in the Codex in-app Browser"
+        },
+        {
+          "index": 2,
+          "file": "frames/site-mr-black/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 126704,
+          "sha256": "0a9ac0619dd6b60d93d8dc749f33a9295cfcaebfb5a58f88fcf9d572a2cf0ea4",
+          "capturedAt": "2026-08-29T01:04:33.448Z",
+          "captureTitle": "Traverse the Mr Black case experience in the Codex in-app Browser"
+        },
+        {
+          "index": 3,
+          "file": "frames/site-mr-black/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 109846,
+          "sha256": "4cac3c1f485d13d196e84abade29c3dd877212b16b6968cf16017996f96a1d2d",
+          "capturedAt": "2026-08-29T01:04:33.448Z",
+          "captureTitle": "Traverse the Mr Black case experience in the Codex in-app Browser"
+        },
+        {
+          "index": 4,
+          "file": "frames/site-mr-black/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 118295,
+          "sha256": "5064c6fd49267ae6f2fbecbf86442e17b38865cff4fe1ed7073f369b5c5aa669",
+          "capturedAt": "2026-08-29T01:05:31.119Z",
+          "captureTitle": "Measure Mr Black’s scroll takeover with real wheel input"
+        },
+        {
+          "index": 5,
+          "file": "frames/site-mr-black/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 153684,
+          "sha256": "4eb7122489e0a6e268192e968697afaba4cf26084205e62878a3a6dbabbeb4e1",
+          "capturedAt": "2026-08-29T01:05:31.119Z",
+          "captureTitle": "Measure Mr Black’s scroll takeover with real wheel input"
+        },
+        {
+          "index": 6,
+          "file": "frames/site-mr-black/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 112452,
+          "sha256": "c69414cf9d315c309d2df3fdc0d6c150b81d8ecdd4bcfe8b60a07eb82c084f08",
+          "capturedAt": "2026-08-29T01:05:31.119Z",
+          "captureTitle": "Measure Mr Black’s scroll takeover with real wheel input"
+        },
+        {
+          "index": 7,
+          "file": "frames/site-mr-black/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 100029,
+          "sha256": "6e39e99fd15d6948609f664958b2936fb5956307c3378bf8d2349a2c317fb5e5",
+          "capturedAt": "2026-08-29T01:05:31.119Z",
+          "captureTitle": "Measure Mr Black’s scroll takeover with real wheel input"
+        },
+        {
+          "index": 8,
+          "file": "frames/site-mr-black/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 108579,
+          "sha256": "4f5a7074768093b0750f0355315d30c7d2ff4f432200072f9ad19b76f4a41437",
+          "capturedAt": "2026-08-29T01:05:31.119Z",
+          "captureTitle": "Measure Mr Black’s scroll takeover with real wheel input"
+        },
+        {
+          "index": 9,
+          "file": "frames/site-mr-black/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 139069,
+          "sha256": "0a886ce6e5c21b8473705a312ffcd4e4aa4fa33aa695acd38b6e6c98163bc416",
+          "capturedAt": "2026-08-29T01:05:31.119Z",
+          "captureTitle": "Measure Mr Black’s scroll takeover with real wheel input"
+        },
+        {
+          "index": 10,
+          "file": "frames/site-mr-black/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 110687,
+          "sha256": "d0b2b61c69da7d248563033abb567051899f4f70f405e947d1641701d7067d49",
+          "capturedAt": "2026-08-29T01:05:31.119Z",
+          "captureTitle": "Measure Mr Black’s scroll takeover with real wheel input"
+        },
+        {
+          "index": 11,
+          "file": "frames/site-mr-black/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 113626,
+          "sha256": "6643d6480225f9f40ef42faa98a2f2b1c7bad7083f11865b4693d7d552e77fdf",
+          "capturedAt": "2026-08-29T01:05:31.119Z",
+          "captureTitle": "Measure Mr Black’s scroll takeover with real wheel input"
+        },
+        {
+          "index": 12,
+          "file": "frames/site-mr-black/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 128588,
+          "sha256": "6084847e10cc467b5d1197394694ea814ef55101ed749e694a4b9a620260712e",
+          "capturedAt": "2026-08-29T01:06:14.525Z",
+          "captureTitle": "Inspect Mr Black’s FAQ and legal overlays"
+        },
+        {
+          "index": 13,
+          "file": "frames/site-mr-black/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 69072,
+          "sha256": "ec85bba5c406a8d6de59e7d6ed7cbf70cf7bc065d03616ed41ce7659de6e2d71",
+          "capturedAt": "2026-08-29T01:06:28.588Z",
+          "captureTitle": "Inspect Mr Black’s legal reading overlays"
+        },
+        {
+          "index": 14,
+          "file": "frames/site-mr-black/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 73435,
+          "sha256": "1ebd5eb1711ac560feeb19b4dd89563c7c2bea77939a532d3bcf410b10b130cc",
+          "capturedAt": "2026-08-29T01:06:38.042Z",
+          "captureTitle": "Inspect Mr Black’s privacy policy overlay"
+        }
+      ],
+      "frameCount": 14,
+      "overview": "overviews/site-mr-black.jpg"
+    },
+    {
+      "id": "site-santioni-spirits",
+      "name": "Santioni Spirits",
+      "source": "https://santionispirits.com/",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/site-santioni-spirits/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 21327,
+          "sha256": "c1713ecf2ba6565e98b2573adac1440ba0db7e14c3d19af749d4e7e921442d43",
+          "capturedAt": "2026-08-29T01:08:26.617Z",
+          "captureTitle": "Traverse Santioni Spirits from opening to final scene"
+        },
+        {
+          "index": 2,
+          "file": "frames/site-santioni-spirits/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 21333,
+          "sha256": "5bd8ebc4c9b29f0076ccac1330ca98efe08e61bd61e3f0e2bc3dcfc243464581",
+          "capturedAt": "2026-08-29T01:08:26.617Z",
+          "captureTitle": "Traverse Santioni Spirits from opening to final scene"
+        },
+        {
+          "index": 3,
+          "file": "frames/site-santioni-spirits/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 95799,
+          "sha256": "39bafe69881dacff8a778c687c27614509480bc57adf9d95f76eb4c0843b9c39",
+          "capturedAt": "2026-08-29T01:08:46.745Z",
+          "captureTitle": "Enter and traverse Santioni’s immersive experience"
+        },
+        {
+          "index": 4,
+          "file": "frames/site-santioni-spirits/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 137975,
+          "sha256": "185f55193b9c72cc18a6950630f1f0dcd2932399ed0a4cce6695dd7c701f570e",
+          "capturedAt": "2026-08-29T01:09:13.945Z",
+          "captureTitle": "Advance through Santioni’s fixed-stage narrative scene by scene"
+        },
+        {
+          "index": 5,
+          "file": "frames/site-santioni-spirits/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 112376,
+          "sha256": "79c264c2e960f16fa34de2736c861a71dec7038ce95684a00264c2e2518bf528",
+          "capturedAt": "2026-08-29T01:09:13.945Z",
+          "captureTitle": "Advance through Santioni’s fixed-stage narrative scene by scene"
+        },
+        {
+          "index": 6,
+          "file": "frames/site-santioni-spirits/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 155407,
+          "sha256": "75b6d13a8029c91541e95b1581b0ab49dc7045f27a612947155c9527fdb03d02",
+          "capturedAt": "2026-08-29T01:09:13.945Z",
+          "captureTitle": "Advance through Santioni’s fixed-stage narrative scene by scene"
+        },
+        {
+          "index": 7,
+          "file": "frames/site-santioni-spirits/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 221553,
+          "sha256": "ebc3e2072970393752697d098623b6e27919da0c8ace08d85e70a11bac826f3f",
+          "capturedAt": "2026-08-29T01:09:13.945Z",
+          "captureTitle": "Advance through Santioni’s fixed-stage narrative scene by scene"
+        },
+        {
+          "index": 8,
+          "file": "frames/site-santioni-spirits/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 71363,
+          "sha256": "c2aa3a2e9669f097993ee45a31c963eddd49f9057d2a56437b51431c49b0a2de",
+          "capturedAt": "2026-08-29T01:09:13.945Z",
+          "captureTitle": "Advance through Santioni’s fixed-stage narrative scene by scene"
+        },
+        {
+          "index": 9,
+          "file": "frames/site-santioni-spirits/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 116404,
+          "sha256": "db84e49e3acb78a6eea97c7d9abb7f8587afc66edd57915de2091ce1cca0e265",
+          "capturedAt": "2026-08-29T01:09:13.945Z",
+          "captureTitle": "Advance through Santioni’s fixed-stage narrative scene by scene"
+        },
+        {
+          "index": 10,
+          "file": "frames/site-santioni-spirits/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 203942,
+          "sha256": "14841262ca33f05ef7da91c44290a295a0377dbc60d16d9b50a31c97bc96a50c",
+          "capturedAt": "2026-08-29T01:09:13.945Z",
+          "captureTitle": "Advance through Santioni’s fixed-stage narrative scene by scene"
+        },
+        {
+          "index": 11,
+          "file": "frames/site-santioni-spirits/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 64050,
+          "sha256": "cd41c67bbe5e9639b3139d7cf21818937e2c86e0c3e6ceee2939b6e1d97cf79e",
+          "capturedAt": "2026-08-29T01:09:13.945Z",
+          "captureTitle": "Advance through Santioni’s fixed-stage narrative scene by scene"
+        },
+        {
+          "index": 12,
+          "file": "frames/site-santioni-spirits/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 67708,
+          "sha256": "1ff7bbdb5f647211b09c33b70ac4f9971d8600e892cb8b775fa122ddd8fb3548",
+          "capturedAt": "2026-08-29T01:09:13.945Z",
+          "captureTitle": "Advance through Santioni’s fixed-stage narrative scene by scene"
+        },
+        {
+          "index": 13,
+          "file": "frames/site-santioni-spirits/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 68037,
+          "sha256": "1b47652f262e55f117497036fd871adf3e7528c3d7b0c9a197a17f40bfc7324e",
+          "capturedAt": "2026-08-29T01:09:13.945Z",
+          "captureTitle": "Advance through Santioni’s fixed-stage narrative scene by scene"
+        },
+        {
+          "index": 14,
+          "file": "frames/site-santioni-spirits/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 157911,
+          "sha256": "f810762f8f144a0b5b1d933d8e9cb76c47788e230547d7cf4db8195d68eecb14",
+          "capturedAt": "2026-08-29T01:10:00.986Z",
+          "captureTitle": "Restart and traverse Santioni’s Collection story"
+        },
+        {
+          "index": 15,
+          "file": "frames/site-santioni-spirits/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 65176,
+          "sha256": "ec5e4bd877c67c7a9e3bfad135bbf7db77e1c796b01fa13900f7dd8c6c207aa7",
+          "capturedAt": "2026-08-29T01:10:00.986Z",
+          "captureTitle": "Restart and traverse Santioni’s Collection story"
+        },
+        {
+          "index": 16,
+          "file": "frames/site-santioni-spirits/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 71814,
+          "sha256": "25b117228b9ef56d47818c16388b164ddcc979524ab45ddffb44c893789f4cac",
+          "capturedAt": "2026-08-29T01:10:00.986Z",
+          "captureTitle": "Restart and traverse Santioni’s Collection story"
+        },
+        {
+          "index": 17,
+          "file": "frames/site-santioni-spirits/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 68223,
+          "sha256": "079a2b1af04f21f06a5944080916f1ac33e9f4c2b1bbc882894ed16ed65cd824",
+          "capturedAt": "2026-08-29T01:10:00.986Z",
+          "captureTitle": "Restart and traverse Santioni’s Collection story"
+        },
+        {
+          "index": 18,
+          "file": "frames/site-santioni-spirits/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 68462,
+          "sha256": "8f20ff4781facd74d248e1902f41161a77bd47ca7e5486ae98682d6b9dac30e7",
+          "capturedAt": "2026-08-29T01:10:00.986Z",
+          "captureTitle": "Restart and traverse Santioni’s Collection story"
+        },
+        {
+          "index": 19,
+          "file": "frames/site-santioni-spirits/frame-019.jpg",
+          "mime": "image/jpeg",
+          "bytes": 153967,
+          "sha256": "c01a5315f5591707cb4eaf19122d77d36e9a3a0dac23efe348aabd4f01f3efde",
+          "capturedAt": "2026-08-29T01:10:00.986Z",
+          "captureTitle": "Restart and traverse Santioni’s Collection story"
+        },
+        {
+          "index": 20,
+          "file": "frames/site-santioni-spirits/frame-020.jpg",
+          "mime": "image/jpeg",
+          "bytes": 334302,
+          "sha256": "4762dab0e37a02cca95aaeaec445ba4a6dd7c91b57c32ce2d6887a75adee5f16",
+          "capturedAt": "2026-08-29T01:10:00.986Z",
+          "captureTitle": "Restart and traverse Santioni’s Collection story"
+        },
+        {
+          "index": 21,
+          "file": "frames/site-santioni-spirits/frame-021.jpg",
+          "mime": "image/jpeg",
+          "bytes": 329532,
+          "sha256": "5858198897a2563172096cde2e98b81407a7919490a46406a117c4d7468ce690",
+          "capturedAt": "2026-08-29T01:10:00.986Z",
+          "captureTitle": "Restart and traverse Santioni’s Collection story"
+        },
+        {
+          "index": 22,
+          "file": "frames/site-santioni-spirits/frame-022.jpg",
+          "mime": "image/jpeg",
+          "bytes": 190798,
+          "sha256": "7423e778e752c588174c29b36abe53b923a396bdc30191eac66eab212b1f863c",
+          "capturedAt": "2026-08-29T01:10:00.986Z",
+          "captureTitle": "Restart and traverse Santioni’s Collection story"
+        },
+        {
+          "index": 23,
+          "file": "frames/site-santioni-spirits/frame-023.jpg",
+          "mime": "image/jpeg",
+          "bytes": 181884,
+          "sha256": "04c202042d6fc87e7fcca70c3b93da5440484ed5201afef2e8eef384445a40ab",
+          "capturedAt": "2026-08-29T01:10:25.647Z",
+          "captureTitle": "Reach and inspect Santioni’s flavor selector states"
+        },
+        {
+          "index": 24,
+          "file": "frames/site-santioni-spirits/frame-024.jpg",
+          "mime": "image/jpeg",
+          "bytes": 180117,
+          "sha256": "ed53c9e89084500be485d00e0686e6031f6e4bbe49e2360b0b7bb01cc2896899",
+          "capturedAt": "2026-08-29T01:10:25.647Z",
+          "captureTitle": "Reach and inspect Santioni’s flavor selector states"
+        },
+        {
+          "index": 25,
+          "file": "frames/site-santioni-spirits/frame-025.jpg",
+          "mime": "image/jpeg",
+          "bytes": 180104,
+          "sha256": "04a6b4e6c1e7e1118786b5dffbf2bc0f0889a3dbdffa079e074606ffde262290",
+          "capturedAt": "2026-08-29T01:10:25.647Z",
+          "captureTitle": "Reach and inspect Santioni’s flavor selector states"
+        },
+        {
+          "index": 26,
+          "file": "frames/site-santioni-spirits/frame-026.jpg",
+          "mime": "image/jpeg",
+          "bytes": 180103,
+          "sha256": "b18beceafa06ca6c1363276fc538c1e9dad9819f578d0ad7c1eac5ba989e83a7",
+          "capturedAt": "2026-08-29T01:10:25.647Z",
+          "captureTitle": "Reach and inspect Santioni’s flavor selector states"
+        },
+        {
+          "index": 27,
+          "file": "frames/site-santioni-spirits/frame-027.jpg",
+          "mime": "image/jpeg",
+          "bytes": 180130,
+          "sha256": "520b7a9efcc052c51d4f9eaa9a3973b7958591fcc6355db1f8053bebcd572a4e",
+          "capturedAt": "2026-08-29T01:10:25.647Z",
+          "captureTitle": "Reach and inspect Santioni’s flavor selector states"
+        },
+        {
+          "index": 28,
+          "file": "frames/site-santioni-spirits/frame-028.jpg",
+          "mime": "image/jpeg",
+          "bytes": 182779,
+          "sha256": "ea89b248d4a5fc48616e7798ebd3f5dfc56b852988061e2ede75de3535f95398",
+          "capturedAt": "2026-08-29T01:10:39.141Z",
+          "captureTitle": "Return to Santioni’s flavor-choice scene"
+        },
+        {
+          "index": 29,
+          "file": "frames/site-santioni-spirits/frame-029.jpg",
+          "mime": "image/jpeg",
+          "bytes": 183823,
+          "sha256": "5aaa778977d90f623269521b7877496e4f9a391be24c61bc81a8a7d2e5d684a5",
+          "capturedAt": "2026-08-29T01:11:00.930Z",
+          "captureTitle": "Compare Santioni’s two product-flavor states"
+        },
+        {
+          "index": 30,
+          "file": "frames/site-santioni-spirits/frame-030.jpg",
+          "mime": "image/jpeg",
+          "bytes": 183265,
+          "sha256": "36a5a7925d8362e1cc34d748b13a7bd23058f9b53463e01de34dc58aad974e28",
+          "capturedAt": "2026-08-29T01:11:00.930Z",
+          "captureTitle": "Compare Santioni’s two product-flavor states"
+        }
+      ],
+      "frameCount": 30,
+      "overview": "overviews/site-santioni-spirits.jpg"
+    },
+    {
+      "id": "site-become-a-yogi",
+      "name": "Become a Yogi",
+      "source": "https://www.become-a-yogi.com/",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/site-become-a-yogi/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 194048,
+          "sha256": "af3a7dfae2a5b60bb5237b9122ba3a78e522ba956252eedaa2ce65c37e7b0224",
+          "capturedAt": "2026-08-29T01:12:16.053Z",
+          "captureTitle": "Traverse Become a Yogi from opening to final scene"
+        },
+        {
+          "index": 2,
+          "file": "frames/site-become-a-yogi/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 178027,
+          "sha256": "e9b73cd714b5581dd5cb927984f0cffff4f8af45644635158e8d123c3bf87c64",
+          "capturedAt": "2026-08-29T01:12:16.053Z",
+          "captureTitle": "Traverse Become a Yogi from opening to final scene"
+        },
+        {
+          "index": 3,
+          "file": "frames/site-become-a-yogi/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 108054,
+          "sha256": "09f06428ef71f2e0eb223357c9be8d63f0e1be4b2dfbb7575dd2f572798381dc",
+          "capturedAt": "2026-08-29T01:12:16.053Z",
+          "captureTitle": "Traverse Become a Yogi from opening to final scene"
+        },
+        {
+          "index": 4,
+          "file": "frames/site-become-a-yogi/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 148255,
+          "sha256": "24f7fa20c04d5b15717a51c3fe2dfedab6ac351ae7bc243b76cf859098919e30",
+          "capturedAt": "2026-08-29T01:13:19.381Z",
+          "captureTitle": "Inspect Become a Yogi menu"
+        },
+        {
+          "index": 5,
+          "file": "frames/site-become-a-yogi/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 195355,
+          "sha256": "161fc2123a640fe199c2a91974bccbea917896cf604914b2a7d94cd809ed2f4a",
+          "capturedAt": "2026-08-29T01:13:34.989Z",
+          "captureTitle": "Observe Become a Yogi scroll transitions"
+        },
+        {
+          "index": 6,
+          "file": "frames/site-become-a-yogi/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 136953,
+          "sha256": "117a19461ca6423b0e5e3a1c6ae8df4064e273646d10657d42399693fea7875a",
+          "capturedAt": "2026-08-29T01:13:34.989Z",
+          "captureTitle": "Observe Become a Yogi scroll transitions"
+        },
+        {
+          "index": 7,
+          "file": "frames/site-become-a-yogi/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 60035,
+          "sha256": "e3a952e39c6ca184e663f87828581170b00dda51cf1f5035d5446bc0fdd4eb09",
+          "capturedAt": "2026-08-29T01:13:34.989Z",
+          "captureTitle": "Observe Become a Yogi scroll transitions"
+        },
+        {
+          "index": 8,
+          "file": "frames/site-become-a-yogi/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 127194,
+          "sha256": "80a881d849fd4d047b585bc287fb6814adc74610362ef6c8139d0cb9e8429f4a",
+          "capturedAt": "2026-08-29T01:13:34.989Z",
+          "captureTitle": "Observe Become a Yogi scroll transitions"
+        },
+        {
+          "index": 9,
+          "file": "frames/site-become-a-yogi/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 206372,
+          "sha256": "e575cecbef30d32c5a67d1cdeee600da036bc25a2552e79203c0ed752baf6b86",
+          "capturedAt": "2026-08-29T01:13:34.989Z",
+          "captureTitle": "Observe Become a Yogi scroll transitions"
+        },
+        {
+          "index": 10,
+          "file": "frames/site-become-a-yogi/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 151439,
+          "sha256": "032e7a1b7ae9329a6c8a2d4320df0897f97aea424fd697ffbebb55bb79e9585c",
+          "capturedAt": "2026-08-29T01:13:34.989Z",
+          "captureTitle": "Observe Become a Yogi scroll transitions"
+        },
+        {
+          "index": 11,
+          "file": "frames/site-become-a-yogi/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 156918,
+          "sha256": "54d06d1c81ea251e224c65b96cb02e398e1bfc71c0265f59fb706576afc9c625",
+          "capturedAt": "2026-08-29T01:13:34.989Z",
+          "captureTitle": "Observe Become a Yogi scroll transitions"
+        },
+        {
+          "index": 12,
+          "file": "frames/site-become-a-yogi/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 129177,
+          "sha256": "415e26b9ddbe5e82b457d634de2ef5e0ac245909755196251b92e81b4552590c",
+          "capturedAt": "2026-08-29T01:13:55.974Z",
+          "captureTitle": "Inspect Become a Yogi internal pages"
+        },
+        {
+          "index": 13,
+          "file": "frames/site-become-a-yogi/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 62119,
+          "sha256": "8129b1cad5c08561f2d339fb4d746c74d4d8491c8c755d248fdf2e8babf054f6",
+          "capturedAt": "2026-08-29T01:13:55.974Z",
+          "captureTitle": "Inspect Become a Yogi internal pages"
+        },
+        {
+          "index": 14,
+          "file": "frames/site-become-a-yogi/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 53029,
+          "sha256": "54f3b52ef34fe039716ff9d33232ffe11082737f6d1ee8f7935d57fa3a287ab5",
+          "capturedAt": "2026-08-29T01:13:55.974Z",
+          "captureTitle": "Inspect Become a Yogi internal pages"
+        },
+        {
+          "index": 15,
+          "file": "frames/site-become-a-yogi/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 103739,
+          "sha256": "5e5bd9314e54d0ab7082f8e97b0d2f3828e3e05ebfd973a95f997dbf73fff716",
+          "capturedAt": "2026-08-29T01:13:55.974Z",
+          "captureTitle": "Inspect Become a Yogi internal pages"
+        },
+        {
+          "index": 16,
+          "file": "frames/site-become-a-yogi/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 103739,
+          "sha256": "5e5bd9314e54d0ab7082f8e97b0d2f3828e3e05ebfd973a95f997dbf73fff716",
+          "capturedAt": "2026-08-29T01:13:55.974Z",
+          "captureTitle": "Inspect Become a Yogi internal pages"
+        },
+        {
+          "index": 17,
+          "file": "frames/site-become-a-yogi/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 103739,
+          "sha256": "5e5bd9314e54d0ab7082f8e97b0d2f3828e3e05ebfd973a95f997dbf73fff716",
+          "capturedAt": "2026-08-29T01:13:55.974Z",
+          "captureTitle": "Inspect Become a Yogi internal pages"
+        },
+        {
+          "index": 18,
+          "file": "frames/site-become-a-yogi/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 101720,
+          "sha256": "6c14ab807ffa04181861882f746625a7309d80559691ea2476346273fa832a73",
+          "capturedAt": "2026-08-29T01:13:55.974Z",
+          "captureTitle": "Inspect Become a Yogi internal pages"
+        },
+        {
+          "index": 19,
+          "file": "frames/site-become-a-yogi/frame-019.jpg",
+          "mime": "image/jpeg",
+          "bytes": 102066,
+          "sha256": "2c11bbf792c64c5d65e52b89b59e497c08225e186f8cc833bd16751fd21e2f8a",
+          "capturedAt": "2026-08-29T01:13:55.974Z",
+          "captureTitle": "Inspect Become a Yogi internal pages"
+        },
+        {
+          "index": 20,
+          "file": "frames/site-become-a-yogi/frame-020.jpg",
+          "mime": "image/jpeg",
+          "bytes": 123696,
+          "sha256": "c41bbdeca1fd9c39f1d4f8deb0901d0e33cf7458f07c075136652535f71a0f58",
+          "capturedAt": "2026-08-29T01:13:55.974Z",
+          "captureTitle": "Inspect Become a Yogi internal pages"
+        },
+        {
+          "index": 21,
+          "file": "frames/site-become-a-yogi/frame-021.jpg",
+          "mime": "image/jpeg",
+          "bytes": 114436,
+          "sha256": "8af194140985fe23325e722d598b0de02c661c428b34cecc2fe37df477607082",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 22,
+          "file": "frames/site-become-a-yogi/frame-022.jpg",
+          "mime": "image/jpeg",
+          "bytes": 50234,
+          "sha256": "b1bb709fb95d2b13193481726fefc97b233e4267fee9c1c55d5fd2155ed54e62",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 23,
+          "file": "frames/site-become-a-yogi/frame-023.jpg",
+          "mime": "image/jpeg",
+          "bytes": 88889,
+          "sha256": "c7cc0abda75961999a5a46e6dcab1b3424cdfd62e4876e407179a32f333eeb95",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 24,
+          "file": "frames/site-become-a-yogi/frame-024.jpg",
+          "mime": "image/jpeg",
+          "bytes": 50409,
+          "sha256": "6525b1fca2d2de1beb7934310c3d0cef3730d0d32290f37faf9550a0c065d6ee",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 25,
+          "file": "frames/site-become-a-yogi/frame-025.jpg",
+          "mime": "image/jpeg",
+          "bytes": 116913,
+          "sha256": "9de76f1fa19625b584104837ff4006239090881b327f391c2f8c566cb6503491",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 26,
+          "file": "frames/site-become-a-yogi/frame-026.jpg",
+          "mime": "image/jpeg",
+          "bytes": 50954,
+          "sha256": "46a0cc17adad73f9588316dc7031db6b115161a21f3c5db4adc121fe1b88ade4",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 27,
+          "file": "frames/site-become-a-yogi/frame-027.jpg",
+          "mime": "image/jpeg",
+          "bytes": 129597,
+          "sha256": "4ec87958669456fc52e2a8f9369663f49f4aac052665e1a0175c45bdbc60d64f",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 28,
+          "file": "frames/site-become-a-yogi/frame-028.jpg",
+          "mime": "image/jpeg",
+          "bytes": 51583,
+          "sha256": "b704ea238913437ec180d47a76db5c1f9806db2cbdbf1c1334872fd8117a9325",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 29,
+          "file": "frames/site-become-a-yogi/frame-029.jpg",
+          "mime": "image/jpeg",
+          "bytes": 123887,
+          "sha256": "2bfadb531fb511a9b3275b4601ca56139786172dafc0c4c384420f005b32b40e",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 30,
+          "file": "frames/site-become-a-yogi/frame-030.jpg",
+          "mime": "image/jpeg",
+          "bytes": 50340,
+          "sha256": "314039da37fd8959aa60f8ca4d3b4def63f6f289f9605960a9c8e7f1226c53b3",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 31,
+          "file": "frames/site-become-a-yogi/frame-031.jpg",
+          "mime": "image/jpeg",
+          "bytes": 92229,
+          "sha256": "a73db4d6a12370096cd953dc4df36cb3145e1fd5a209f72d66c165b8eaed20a4",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 32,
+          "file": "frames/site-become-a-yogi/frame-032.jpg",
+          "mime": "image/jpeg",
+          "bytes": 50857,
+          "sha256": "92565a243b56f7db05b17b09b31802ff254a9f61ef06cbea9916e837974f930b",
+          "capturedAt": "2026-08-29T01:14:24.798Z",
+          "captureTitle": "Traverse all Become a Yogi journal pages"
+        },
+        {
+          "index": 33,
+          "file": "frames/site-become-a-yogi/frame-033.jpg",
+          "mime": "image/jpeg",
+          "bytes": 137678,
+          "sha256": "5ecabfe8983e41c9aed24ecf33b95eab5ce92ca335d843950a1447ad4b71416b",
+          "capturedAt": "2026-08-29T01:14:37.675Z",
+          "captureTitle": "Observe article template pacing"
+        },
+        {
+          "index": 34,
+          "file": "frames/site-become-a-yogi/frame-034.jpg",
+          "mime": "image/jpeg",
+          "bytes": 172556,
+          "sha256": "d71890c73c0c7a5b4c0b4823a55538ba28ba437d87b4006e0465c7e6b93abbb0",
+          "capturedAt": "2026-08-29T01:14:37.675Z",
+          "captureTitle": "Observe article template pacing"
+        },
+        {
+          "index": 35,
+          "file": "frames/site-become-a-yogi/frame-035.jpg",
+          "mime": "image/jpeg",
+          "bytes": 201443,
+          "sha256": "300e35917991b80248c6daf8e6baff24ab0924571a7bd46b89c49176515da15c",
+          "capturedAt": "2026-08-29T01:14:37.675Z",
+          "captureTitle": "Observe article template pacing"
+        },
+        {
+          "index": 36,
+          "file": "frames/site-become-a-yogi/frame-036.jpg",
+          "mime": "image/jpeg",
+          "bytes": 75808,
+          "sha256": "793eb1bf3f346b35339f695f7df2ab871e6caea92680ebf7772f618689ccd706",
+          "capturedAt": "2026-08-29T01:14:37.675Z",
+          "captureTitle": "Observe article template pacing"
+        },
+        {
+          "index": 37,
+          "file": "frames/site-become-a-yogi/frame-037.jpg",
+          "mime": "image/jpeg",
+          "bytes": 109389,
+          "sha256": "56781acfd46746b2f601c22e3bac6223cc2baa1bf02a5cc26b9d017d7b2ecf32",
+          "capturedAt": "2026-08-29T01:15:22.719Z",
+          "captureTitle": "Verify Become a Yogi modal and slider states"
+        },
+        {
+          "index": 38,
+          "file": "frames/site-become-a-yogi/frame-038.jpg",
+          "mime": "image/jpeg",
+          "bytes": 104730,
+          "sha256": "f26cd32e0d9669152d8d037bbaf0393dc90044091e70bc09a1753ebe3e00f786",
+          "capturedAt": "2026-08-29T01:15:22.719Z",
+          "captureTitle": "Verify Become a Yogi modal and slider states"
+        }
+      ],
+      "frameCount": 38,
+      "overview": "overviews/site-become-a-yogi.jpg"
+    },
+    {
+      "id": "site-mesh3d",
+      "name": "Mesh3D — The State of the Gallery",
+      "source": "https://mesh3d.gallery/the-state-of-the-gallery",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/site-mesh3d/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 50514,
+          "sha256": "5130bb5a8400936acdc94b1f8ad224819ffdb9525f814d05204acfc8924f8605",
+          "capturedAt": "2026-08-29T01:16:50.002Z",
+          "captureTitle": "Inspect Mesh3D gallery experience"
+        },
+        {
+          "index": 2,
+          "file": "frames/site-mesh3d/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 107352,
+          "sha256": "831f278aca95cb3aca6ab28f9fa48440a5d6139897db097cd9d86a7988d560de",
+          "capturedAt": "2026-08-29T01:17:02.823Z",
+          "captureTitle": "Wait for Mesh3D scene to initialize"
+        },
+        {
+          "index": 3,
+          "file": "frames/site-mesh3d/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 115958,
+          "sha256": "edf0689f7d2e844427d90fa2c407747cbf6512a5d0a79cd492746f842100af09",
+          "capturedAt": "2026-08-29T01:17:25.225Z",
+          "captureTitle": "Traverse Mesh3D particle timeline"
+        },
+        {
+          "index": 4,
+          "file": "frames/site-mesh3d/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 75725,
+          "sha256": "4012b227965c144d538435d721c3cb10adcb66f7958903cd233302f746911511",
+          "capturedAt": "2026-08-29T01:17:25.225Z",
+          "captureTitle": "Traverse Mesh3D particle timeline"
+        },
+        {
+          "index": 5,
+          "file": "frames/site-mesh3d/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 137916,
+          "sha256": "10c1ee1769f5098a219e706869b794f425425550006dada5f79ebf418b49cb74",
+          "capturedAt": "2026-08-29T01:17:25.225Z",
+          "captureTitle": "Traverse Mesh3D particle timeline"
+        },
+        {
+          "index": 6,
+          "file": "frames/site-mesh3d/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 82707,
+          "sha256": "7ee0d3cdb383f0e0d107596e70dc6385fa4f6f00ff846063165d53c6e5756856",
+          "capturedAt": "2026-08-29T01:17:25.225Z",
+          "captureTitle": "Traverse Mesh3D particle timeline"
+        },
+        {
+          "index": 7,
+          "file": "frames/site-mesh3d/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 75367,
+          "sha256": "7ef457dd726698d5b174318f9f465ef548c9d156a2bb244a4ef27f132b15da5c",
+          "capturedAt": "2026-08-29T01:17:25.225Z",
+          "captureTitle": "Traverse Mesh3D particle timeline"
+        },
+        {
+          "index": 8,
+          "file": "frames/site-mesh3d/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 59494,
+          "sha256": "eb38ee9b7b1c0778e4e1821c630259f2ce9a22a4d579b7b5b7c60a8c76ef4ef3",
+          "capturedAt": "2026-08-29T01:17:25.225Z",
+          "captureTitle": "Traverse Mesh3D particle timeline"
+        },
+        {
+          "index": 9,
+          "file": "frames/site-mesh3d/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 72464,
+          "sha256": "7a5d189768e7fc7a15cce4418adab5a5ffa204219bf93ac0dbf5eb046a61aaaf",
+          "capturedAt": "2026-08-29T01:17:25.225Z",
+          "captureTitle": "Traverse Mesh3D particle timeline"
+        },
+        {
+          "index": 10,
+          "file": "frames/site-mesh3d/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 91601,
+          "sha256": "41b5c646f56c13fca134c67ccea77036a79cc31abf27ac72c81d7141a837c15e",
+          "capturedAt": "2026-08-29T01:17:25.225Z",
+          "captureTitle": "Traverse Mesh3D particle timeline"
+        },
+        {
+          "index": 11,
+          "file": "frames/site-mesh3d/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 86226,
+          "sha256": "94e8ea3a916a2f7e24c0c9f47a7a1f4badfa883bfd48f54ef0f8397c997c6300",
+          "capturedAt": "2026-08-29T01:17:25.225Z",
+          "captureTitle": "Traverse Mesh3D particle timeline"
+        },
+        {
+          "index": 12,
+          "file": "frames/site-mesh3d/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 85873,
+          "sha256": "a350420caae8cca3c58a2a192d96264522778897618b0344fd80f4b4e2d07ac4",
+          "capturedAt": "2026-08-29T01:17:25.225Z",
+          "captureTitle": "Traverse Mesh3D particle timeline"
+        },
+        {
+          "index": 13,
+          "file": "frames/site-mesh3d/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 95439,
+          "sha256": "be68cc7cdcdba01554843ec53dd56995a7fe322a2cf11dfbdafae101402185a7",
+          "capturedAt": "2026-08-29T01:17:54.961Z",
+          "captureTitle": "Complete Mesh3D particle journey"
+        },
+        {
+          "index": 14,
+          "file": "frames/site-mesh3d/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 93432,
+          "sha256": "61331817f366b88f8119ab7934a99b0e7d8963160ee25e978995de0fd517b10a",
+          "capturedAt": "2026-08-29T01:17:54.961Z",
+          "captureTitle": "Complete Mesh3D particle journey"
+        },
+        {
+          "index": 15,
+          "file": "frames/site-mesh3d/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 87839,
+          "sha256": "5e207fe60fe4326a1f7446395b6c283d1a530ea0d0f8dcaf7ca9344a974812f5",
+          "capturedAt": "2026-08-29T01:17:54.961Z",
+          "captureTitle": "Complete Mesh3D particle journey"
+        },
+        {
+          "index": 16,
+          "file": "frames/site-mesh3d/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 90895,
+          "sha256": "53bfb7bc9882f390aac7c2570e47f2fbd90ee2e0654de43f951596f0b67d66fc",
+          "capturedAt": "2026-08-29T01:17:54.961Z",
+          "captureTitle": "Complete Mesh3D particle journey"
+        },
+        {
+          "index": 17,
+          "file": "frames/site-mesh3d/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 98519,
+          "sha256": "f542f963cf2d589c90f68c1aae5e2073bf9223b3d71e6b115aa57660de4b1a09",
+          "capturedAt": "2026-08-29T01:17:54.961Z",
+          "captureTitle": "Complete Mesh3D particle journey"
+        },
+        {
+          "index": 18,
+          "file": "frames/site-mesh3d/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 94949,
+          "sha256": "92d448c4cced080e81fc18b063917a0a721a81459b6a285788d715c35758efd0",
+          "capturedAt": "2026-08-29T01:17:54.961Z",
+          "captureTitle": "Complete Mesh3D particle journey"
+        },
+        {
+          "index": 19,
+          "file": "frames/site-mesh3d/frame-019.jpg",
+          "mime": "image/jpeg",
+          "bytes": 93788,
+          "sha256": "2fe33b501653430fafe0d8f78f9555915c5caf9f0b02fe0125978aa633349e36",
+          "capturedAt": "2026-08-29T01:17:54.961Z",
+          "captureTitle": "Complete Mesh3D particle journey"
+        },
+        {
+          "index": 20,
+          "file": "frames/site-mesh3d/frame-020.jpg",
+          "mime": "image/jpeg",
+          "bytes": 87197,
+          "sha256": "ad894c787da23d3230c629dcaf1dc7383b238f72f8b1f769ec849c4607b3c046",
+          "capturedAt": "2026-08-29T01:17:54.961Z",
+          "captureTitle": "Complete Mesh3D particle journey"
+        },
+        {
+          "index": 21,
+          "file": "frames/site-mesh3d/frame-021.jpg",
+          "mime": "image/jpeg",
+          "bytes": 103416,
+          "sha256": "d7c5a17a8a2771d04fb9c04a851430008fe34bbe39740b21f914d302993d2801",
+          "capturedAt": "2026-08-29T01:17:54.961Z",
+          "captureTitle": "Complete Mesh3D particle journey"
+        },
+        {
+          "index": 22,
+          "file": "frames/site-mesh3d/frame-022.jpg",
+          "mime": "image/jpeg",
+          "bytes": 86995,
+          "sha256": "d4422fa8f772f4c8e1508b065de9223a2e34f2498adc7b3ef97e59070436526b",
+          "capturedAt": "2026-08-29T01:17:54.961Z",
+          "captureTitle": "Complete Mesh3D particle journey"
+        },
+        {
+          "index": 23,
+          "file": "frames/site-mesh3d/frame-023.jpg",
+          "mime": "image/jpeg",
+          "bytes": 159436,
+          "sha256": "5f0681eaa585237243baaa57443e74eea655104529d20bf646edfbb4e07b2114",
+          "capturedAt": "2026-08-29T01:18:12.097Z",
+          "captureTitle": "Map Mesh3D site pages"
+        },
+        {
+          "index": 24,
+          "file": "frames/site-mesh3d/frame-024.jpg",
+          "mime": "image/jpeg",
+          "bytes": 193922,
+          "sha256": "6f728127ad5f4f8f235537297ece26b2eaa564470d00c00178c0e2da6a53b5b1",
+          "capturedAt": "2026-08-29T01:18:12.097Z",
+          "captureTitle": "Map Mesh3D site pages"
+        },
+        {
+          "index": 25,
+          "file": "frames/site-mesh3d/frame-025.jpg",
+          "mime": "image/jpeg",
+          "bytes": 149126,
+          "sha256": "d54357b52a226c483094e8f825a0f72c082084f5d45f54cb6cd2582e092b402d",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 26,
+          "file": "frames/site-mesh3d/frame-026.jpg",
+          "mime": "image/jpeg",
+          "bytes": 22004,
+          "sha256": "45fbd368ac3b740c202e494f4c48d57bd159d2c16f3364f14eff96b8dbe8aa5f",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 27,
+          "file": "frames/site-mesh3d/frame-027.jpg",
+          "mime": "image/jpeg",
+          "bytes": 199331,
+          "sha256": "8c44a628f2c8af8457216e8d71f0e0a9838446dd634743b1237e2dd01d220440",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 28,
+          "file": "frames/site-mesh3d/frame-028.jpg",
+          "mime": "image/jpeg",
+          "bytes": 85207,
+          "sha256": "1d95f9f9ee8f2e9a57eaf71396928b6ecb6bad354486afa6c56eef1f76c11d22",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 29,
+          "file": "frames/site-mesh3d/frame-029.jpg",
+          "mime": "image/jpeg",
+          "bytes": 188290,
+          "sha256": "3f7da5fef247bec84d21cdd37f509667246dd7e4909d9fcaa96030f836fffd3d",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 30,
+          "file": "frames/site-mesh3d/frame-030.jpg",
+          "mime": "image/jpeg",
+          "bytes": 120581,
+          "sha256": "afd22d2ee0436567d68cd35074296a99a3933fbda2e4f0cf3bb48e74a6e09ff1",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 31,
+          "file": "frames/site-mesh3d/frame-031.jpg",
+          "mime": "image/jpeg",
+          "bytes": 115578,
+          "sha256": "6dd62ab2e7d8b40f13694689564dc58cd5d3a3502bafc2b39946cee8225c61ad",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 32,
+          "file": "frames/site-mesh3d/frame-032.jpg",
+          "mime": "image/jpeg",
+          "bytes": 87274,
+          "sha256": "a83e776ebb3e60e7ec654a05951a33eeab7683297e315e99617b7381065bcd34",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 33,
+          "file": "frames/site-mesh3d/frame-033.jpg",
+          "mime": "image/jpeg",
+          "bytes": 70385,
+          "sha256": "59e9798b51cdedcb138db57283e3b035573d59ce49cb96b03d4e267c018c554c",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 34,
+          "file": "frames/site-mesh3d/frame-034.jpg",
+          "mime": "image/jpeg",
+          "bytes": 74981,
+          "sha256": "5d1e6c38fd13d694a3116e9c5a6c45a13bcd20a6d6bd9aba1706ab57a8667822",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 35,
+          "file": "frames/site-mesh3d/frame-035.jpg",
+          "mime": "image/jpeg",
+          "bytes": 80874,
+          "sha256": "a1254c7e9961a6226339cc520b5f50b07651ade750716a19cb181ceb678ef118",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 36,
+          "file": "frames/site-mesh3d/frame-036.jpg",
+          "mime": "image/jpeg",
+          "bytes": 75744,
+          "sha256": "90b8c6fc9fa15b1750a82dc8b025a80b77e8e281d1910393031e5d4b0e5c0cb0",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 37,
+          "file": "frames/site-mesh3d/frame-037.jpg",
+          "mime": "image/jpeg",
+          "bytes": 130352,
+          "sha256": "231dc8bdf3ad6d5cc75dc9c715f9b62fc7df57091851edbff989dd30bc3f40da",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 38,
+          "file": "frames/site-mesh3d/frame-038.jpg",
+          "mime": "image/jpeg",
+          "bytes": 89909,
+          "sha256": "b941115a4859e328470964293d20966a01053ef830b4407fe53331289e04e3a4",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 39,
+          "file": "frames/site-mesh3d/frame-039.jpg",
+          "mime": "image/jpeg",
+          "bytes": 176584,
+          "sha256": "1e55f98ec6b9fe2b3a0ffb15f068b3e7372ddcd5b214f87a7824e4615b7f3cb1",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 40,
+          "file": "frames/site-mesh3d/frame-040.jpg",
+          "mime": "image/jpeg",
+          "bytes": 123289,
+          "sha256": "466ca82c68130b6cc6df9eb1fc28d05384e4da6ba69b6f997a38f56f3984c244",
+          "capturedAt": "2026-08-29T01:18:43.534Z",
+          "captureTitle": "Traverse Mesh3D primary routes"
+        },
+        {
+          "index": 41,
+          "file": "frames/site-mesh3d/frame-041.jpg",
+          "mime": "image/jpeg",
+          "bytes": 208481,
+          "sha256": "6ae2cae30c8c6f81f102b76bb691e7e9c3f2ebe0dd209e523877e4a2cb5731c1",
+          "capturedAt": "2026-08-29T01:19:52.494Z",
+          "captureTitle": "Read Mesh3D browser state"
+        },
+        {
+          "index": 42,
+          "file": "frames/site-mesh3d/frame-042.jpg",
+          "mime": "image/jpeg",
+          "bytes": 83135,
+          "sha256": "49379f1df3d2f6ab4abc4543cf695792951c21a175f159c72c1b8c3857a6fe33",
+          "capturedAt": "2026-08-29T01:19:59.890Z",
+          "captureTitle": "Open Mesh3D cinema mode"
+        },
+        {
+          "index": 43,
+          "file": "frames/site-mesh3d/frame-043.jpg",
+          "mime": "image/jpeg",
+          "bytes": 86351,
+          "sha256": "5c81aba688903aaaaf783d6aeb0f80d926fed264364685b26b9f861df24acc77",
+          "capturedAt": "2026-08-29T01:20:14.746Z",
+          "captureTitle": "Inspect Mesh3D maker profile and blog article"
+        },
+        {
+          "index": 44,
+          "file": "frames/site-mesh3d/frame-044.jpg",
+          "mime": "image/jpeg",
+          "bytes": 125938,
+          "sha256": "c31577ddd271ae9b34e8f8bb7d2fc12645795e86ffce718323229d04e533aa1d",
+          "capturedAt": "2026-08-29T01:20:23.328Z",
+          "captureTitle": "Traverse a Mesh3D editorial article"
+        }
+      ],
+      "frameCount": 44,
+      "overview": "overviews/site-mesh3d.jpg"
+    },
+    {
+      "id": "site-haoqi",
+      "name": "Haoqi Design",
+      "source": "https://haoqi.design/",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/site-haoqi/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 12560,
+          "sha256": "1670c262ea518945a2305ae7292290760635dc927eece99892989023281f780a",
+          "capturedAt": "2026-08-29T01:21:29.186Z",
+          "captureTitle": "Map Haoqi design site"
+        },
+        {
+          "index": 2,
+          "file": "frames/site-haoqi/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 138127,
+          "sha256": "3ff7d4619fb397b048c292701993aa90ee814982a0db7ac9b98da9153cb2b18e",
+          "capturedAt": "2026-08-29T01:21:41.218Z",
+          "captureTitle": "Observe Haoqi homepage after loading"
+        },
+        {
+          "index": 3,
+          "file": "frames/site-haoqi/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 299229,
+          "sha256": "7bd05e266cf1378127ed115a30ba88d1b8734ff97909802acee04e8602752a44",
+          "capturedAt": "2026-08-29T01:22:10.536Z",
+          "captureTitle": "Traverse Haoqi homepage with real scroll"
+        },
+        {
+          "index": 4,
+          "file": "frames/site-haoqi/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 94446,
+          "sha256": "8d4b96085db18a99fe72e5bb594be822cf5bb96b60f00ebe7e2c389585f91d4e",
+          "capturedAt": "2026-08-29T01:22:10.536Z",
+          "captureTitle": "Traverse Haoqi homepage with real scroll"
+        },
+        {
+          "index": 5,
+          "file": "frames/site-haoqi/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 102281,
+          "sha256": "03af135c05094e9ff7895e51c53b360e3571fad0172a53f8676e6667292c1229",
+          "capturedAt": "2026-08-29T01:22:10.536Z",
+          "captureTitle": "Traverse Haoqi homepage with real scroll"
+        },
+        {
+          "index": 6,
+          "file": "frames/site-haoqi/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 54299,
+          "sha256": "5498e87235413a59953e81193d0fb24d5535deb645183519dff7f41dbcc815ab",
+          "capturedAt": "2026-08-29T01:22:10.536Z",
+          "captureTitle": "Traverse Haoqi homepage with real scroll"
+        },
+        {
+          "index": 7,
+          "file": "frames/site-haoqi/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 150030,
+          "sha256": "ef467cff86db27dc06f13be420c2a83e69709d5df9a99314e11d1aad83e1e28a",
+          "capturedAt": "2026-08-29T01:22:10.536Z",
+          "captureTitle": "Traverse Haoqi homepage with real scroll"
+        },
+        {
+          "index": 8,
+          "file": "frames/site-haoqi/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 244879,
+          "sha256": "7016553defb677ae04c2013135d8fee4c83b8fff7fb67bac91f2f6a87c96dbc8",
+          "capturedAt": "2026-08-29T01:22:10.536Z",
+          "captureTitle": "Traverse Haoqi homepage with real scroll"
+        },
+        {
+          "index": 9,
+          "file": "frames/site-haoqi/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 386554,
+          "sha256": "2196a305ce722dc1290df71dcbe67c083d73a217dd7b530d66e5d9498fd1d14f",
+          "capturedAt": "2026-08-29T01:22:10.536Z",
+          "captureTitle": "Traverse Haoqi homepage with real scroll"
+        },
+        {
+          "index": 10,
+          "file": "frames/site-haoqi/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 570261,
+          "sha256": "73db7ec2845c3974e2e912945c3714f1c7e5b6733938f9aee1d1e82931549b25",
+          "capturedAt": "2026-08-29T01:22:10.536Z",
+          "captureTitle": "Traverse Haoqi homepage with real scroll"
+        },
+        {
+          "index": 11,
+          "file": "frames/site-haoqi/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 95139,
+          "sha256": "1535b73fb0ab51deb607b09c1b8b4744ad87c6a2ed4ade3d257375e88cafc859",
+          "capturedAt": "2026-08-29T01:22:10.536Z",
+          "captureTitle": "Traverse Haoqi homepage with real scroll"
+        },
+        {
+          "index": 12,
+          "file": "frames/site-haoqi/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 121563,
+          "sha256": "79b6fb7edcc0d2800736d0ed1b15ee54ed1934fbd90a83210a38a93960fd72e6",
+          "capturedAt": "2026-08-29T01:22:10.536Z",
+          "captureTitle": "Traverse Haoqi homepage with real scroll"
+        },
+        {
+          "index": 13,
+          "file": "frames/site-haoqi/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 121567,
+          "sha256": "30fe9988cf357a469c22a7f5bab407c2ceaabe9a1e96ebea0f099981e53b4cf6",
+          "capturedAt": "2026-08-29T01:22:10.536Z",
+          "captureTitle": "Traverse Haoqi homepage with real scroll"
+        },
+        {
+          "index": 14,
+          "file": "frames/site-haoqi/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 112248,
+          "sha256": "c169ef4e73c739b54080d7a9d171226c686d023ca5c27390a10a315405e32647",
+          "capturedAt": "2026-08-29T01:23:36.038Z",
+          "captureTitle": "Test Haoqi playful controls and protected-state interaction"
+        },
+        {
+          "index": 15,
+          "file": "frames/site-haoqi/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 135106,
+          "sha256": "0ac649ab8c5689113a50f0a10ce3a9924db15e24d070f3ba3b19b1569d7c116b",
+          "capturedAt": "2026-08-29T01:23:36.038Z",
+          "captureTitle": "Test Haoqi playful controls and protected-state interaction"
+        },
+        {
+          "index": 16,
+          "file": "frames/site-haoqi/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 150491,
+          "sha256": "83ae699238a154798e81f1a5205c8d33e125298a903090bcba086fe9ba8728ad",
+          "capturedAt": "2026-08-29T01:23:36.038Z",
+          "captureTitle": "Test Haoqi playful controls and protected-state interaction"
+        },
+        {
+          "index": 17,
+          "file": "frames/site-haoqi/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 94071,
+          "sha256": "940931368721178d516a5c3d89efc94b1bbbd8bd66c622cdbd3a0bb5fd129430",
+          "capturedAt": "2026-08-29T01:23:36.038Z",
+          "captureTitle": "Test Haoqi playful controls and protected-state interaction"
+        }
+      ],
+      "frameCount": 17,
+      "overview": "overviews/site-haoqi.jpg"
+    },
+    {
+      "id": "site-ride-radian",
+      "name": "Ride Radian",
+      "source": "https://www.rideradian.com/",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/site-ride-radian/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 88203,
+          "sha256": "8c344d33eb69b232aa6a454719b0378f0b831c0bb6008233a6f4195540cb6f4a",
+          "capturedAt": "2026-08-29T01:24:49.572Z",
+          "captureTitle": "Map Ride Radian site"
+        },
+        {
+          "index": 2,
+          "file": "frames/site-ride-radian/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 107888,
+          "sha256": "79fb28bd8871740a562ef45aca4f8f4a1052dc905a30edb768ed8b1983e8be71",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 3,
+          "file": "frames/site-ride-radian/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 145708,
+          "sha256": "8b31396ae0531e2e5c37b1eab16e39836c3885824e6fbe21409d05748575d170",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 4,
+          "file": "frames/site-ride-radian/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 176347,
+          "sha256": "e0cca9421f49e6f886e87092480ea0cdd25858df75a3b8d3cf394f7ed6291185",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 5,
+          "file": "frames/site-ride-radian/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 172529,
+          "sha256": "22fa72aac358805ee5a728831d204442f25f633f5c7467baa80052e74fe89ebb",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 6,
+          "file": "frames/site-ride-radian/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 93013,
+          "sha256": "f2f3d92ee09488d7cbc44c2b9116f312ed6fdc10af6c86644f81adcc7fd62930",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 7,
+          "file": "frames/site-ride-radian/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 148180,
+          "sha256": "7766691f90587339cec812a99532d6720e934367eb85eda9efc180d6082be80e",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 8,
+          "file": "frames/site-ride-radian/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 111922,
+          "sha256": "1e2f2d61d0476cb7923c418b9acc3e0cc154e32507b9110e3f4ce97adee4f2d6",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 9,
+          "file": "frames/site-ride-radian/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 105372,
+          "sha256": "9cccd39c47be444aa1d97538cfb829a87c3aed66f4858d0f9661f398eb851f05",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 10,
+          "file": "frames/site-ride-radian/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 200938,
+          "sha256": "28c2d7476fc84b2d0b2ba32eb494514ceaef974f9e14568880f631d8732d7348",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 11,
+          "file": "frames/site-ride-radian/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 190899,
+          "sha256": "13f35024879f4d11728850f8b637648d4b1c62e66eb7583eea0bc3658dc62bfa",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 12,
+          "file": "frames/site-ride-radian/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 189936,
+          "sha256": "d5b098751c95c8494386e810076bd1007e189987580fb974ba24a719c99af286",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 13,
+          "file": "frames/site-ride-radian/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 187236,
+          "sha256": "94ecdeb21f1008f14eff4f49e13c9c071821eae55de177371fe7f3c6be58a45e",
+          "capturedAt": "2026-08-29T01:25:08.761Z",
+          "captureTitle": "Traverse Ride Radian homepage and drawn path"
+        },
+        {
+          "index": 14,
+          "file": "frames/site-ride-radian/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 167806,
+          "sha256": "79133dea3a4e95877a5aca5d6bc66cb917b4279fc22b9ee174158b10ededbb85",
+          "capturedAt": "2026-08-29T01:27:36.633Z",
+          "captureTitle": "Capture the configurator’s visual stage"
+        },
+        {
+          "index": 15,
+          "file": "frames/site-ride-radian/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 193687,
+          "sha256": "8d808a49d49bd776482d5a33236a0a88c6d208c69bb57503c5cf17f76361402d",
+          "capturedAt": "2026-08-29T01:27:43.009Z",
+          "captureTitle": "Test the configurator’s twelve product views"
+        }
+      ],
+      "frameCount": 15,
+      "overview": "overviews/site-ride-radian.jpg"
+    },
+    {
+      "id": "site-pear",
+      "name": "Pear",
+      "source": "https://pear.no/",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/site-pear/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 240468,
+          "sha256": "adcb9cb352ff18848c5fb0f3a97504e1a326d0e4892acd9d54e825f361d02022",
+          "capturedAt": "2026-08-29T01:29:31.109Z",
+          "captureTitle": "Open Pear in the Codex in-app Browser"
+        },
+        {
+          "index": 2,
+          "file": "frames/site-pear/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 98002,
+          "sha256": "e81f54e47df4980c570d145b02638ff61ca301b531dee50871e8a2fc4b492182",
+          "capturedAt": "2026-08-29T01:29:42.973Z",
+          "captureTitle": "Traverse Pear’s opening movement"
+        },
+        {
+          "index": 3,
+          "file": "frames/site-pear/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 105443,
+          "sha256": "695dd9a06e93599ab1640c200692e104daf558d76ac0b765135adf2c761024cb",
+          "capturedAt": "2026-08-29T01:29:42.973Z",
+          "captureTitle": "Traverse Pear’s opening movement"
+        },
+        {
+          "index": 4,
+          "file": "frames/site-pear/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 230432,
+          "sha256": "41314718ea49e5f14bcf1fb389dbbaefe89265624bf48b2cfa309647d7ad0427",
+          "capturedAt": "2026-08-29T01:29:42.973Z",
+          "captureTitle": "Traverse Pear’s opening movement"
+        },
+        {
+          "index": 5,
+          "file": "frames/site-pear/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 104842,
+          "sha256": "513ae12429fca9543dfe7dd5c01df881b8867c59cde5a4f26dfd650cea1dabdc",
+          "capturedAt": "2026-08-29T01:29:42.973Z",
+          "captureTitle": "Traverse Pear’s opening movement"
+        },
+        {
+          "index": 6,
+          "file": "frames/site-pear/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 76768,
+          "sha256": "cf01ac55b2ad52d5ea7b82934b50330f7bc68cfe76af65129d824fcb52d3b2d5",
+          "capturedAt": "2026-08-29T01:29:42.973Z",
+          "captureTitle": "Traverse Pear’s opening movement"
+        },
+        {
+          "index": 7,
+          "file": "frames/site-pear/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 460145,
+          "sha256": "817eaebedff6dce5361ea7f03329f478c611064bf480c607270384860dd5660e",
+          "capturedAt": "2026-08-29T01:29:52.393Z",
+          "captureTitle": "Continue through Pear’s model chapter"
+        },
+        {
+          "index": 8,
+          "file": "frames/site-pear/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 56930,
+          "sha256": "e10fa6ee59a7ecd8b174c35d020a2aa7ff1aa06a490c6d3255228cf025fd8e84",
+          "capturedAt": "2026-08-29T01:29:52.393Z",
+          "captureTitle": "Continue through Pear’s model chapter"
+        },
+        {
+          "index": 9,
+          "file": "frames/site-pear/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 88829,
+          "sha256": "4b36aaa02b7db250ab51ec983f1451bca50eff68b6cb8603356dc8ee47394e96",
+          "capturedAt": "2026-08-29T01:29:52.393Z",
+          "captureTitle": "Continue through Pear’s model chapter"
+        },
+        {
+          "index": 10,
+          "file": "frames/site-pear/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 220416,
+          "sha256": "87999cad61b02ed7043bfe9f0e84147f6b2501a27374ca772f272eb58e4fa214",
+          "capturedAt": "2026-08-29T01:29:52.393Z",
+          "captureTitle": "Continue through Pear’s model chapter"
+        },
+        {
+          "index": 11,
+          "file": "frames/site-pear/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 205934,
+          "sha256": "5a467ae3023d2675fbb1136cf780169c7750d2ba2879737ff1ea1e90f5889557",
+          "capturedAt": "2026-08-29T01:29:52.393Z",
+          "captureTitle": "Continue through Pear’s model chapter"
+        },
+        {
+          "index": 12,
+          "file": "frames/site-pear/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 192737,
+          "sha256": "baa5c8b3bb24be3dbbed1a631e8bbf1837a0b477c54385c1c46a1110d9ffcd24",
+          "capturedAt": "2026-08-29T01:29:52.393Z",
+          "captureTitle": "Continue through Pear’s model chapter"
+        },
+        {
+          "index": 13,
+          "file": "frames/site-pear/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 104044,
+          "sha256": "80839104289845153bfd3a1118bec5f6498144992764a4888a6941ac2b96b48f",
+          "capturedAt": "2026-08-29T01:30:03.762Z",
+          "captureTitle": "Traverse Pear’s work chapter"
+        },
+        {
+          "index": 14,
+          "file": "frames/site-pear/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 168285,
+          "sha256": "e2a7d85338871d210aa78d05382cabd32561114957d6ce01cbcd2135f6a99f10",
+          "capturedAt": "2026-08-29T01:30:03.762Z",
+          "captureTitle": "Traverse Pear’s work chapter"
+        },
+        {
+          "index": 15,
+          "file": "frames/site-pear/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 149230,
+          "sha256": "eafc3400caca2813e3ea0a7dfaa89bbff4bd630764c5c8630861de54021a6746",
+          "capturedAt": "2026-08-29T01:30:03.762Z",
+          "captureTitle": "Traverse Pear’s work chapter"
+        },
+        {
+          "index": 16,
+          "file": "frames/site-pear/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 185554,
+          "sha256": "940a30071e5061250ab5e769fc5b143f166adf83b4029388d8d8eba7b5a3deb9",
+          "capturedAt": "2026-08-29T01:30:03.762Z",
+          "captureTitle": "Traverse Pear’s work chapter"
+        },
+        {
+          "index": 17,
+          "file": "frames/site-pear/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 290894,
+          "sha256": "926998e678b93ba4e869b6bc945495850eb2176b251b13ba354ea463ca7f73e0",
+          "capturedAt": "2026-08-29T01:30:03.762Z",
+          "captureTitle": "Traverse Pear’s work chapter"
+        },
+        {
+          "index": 18,
+          "file": "frames/site-pear/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 365169,
+          "sha256": "0cbead47791303b88d95eab316870a5e3a4a4671bde1a53b4132049f6c585c99",
+          "capturedAt": "2026-08-29T01:30:03.762Z",
+          "captureTitle": "Traverse Pear’s work chapter"
+        },
+        {
+          "index": 19,
+          "file": "frames/site-pear/frame-019.jpg",
+          "mime": "image/jpeg",
+          "bytes": 152960,
+          "sha256": "60ae3cef872595317d229953671d41c5b0bfaaa22b2eb306876b115b96a36af2",
+          "capturedAt": "2026-08-29T01:30:13.987Z",
+          "captureTitle": "Traverse Pear’s terms and selection chapter"
+        },
+        {
+          "index": 20,
+          "file": "frames/site-pear/frame-020.jpg",
+          "mime": "image/jpeg",
+          "bytes": 137344,
+          "sha256": "a52f559bc3f3c16476ea4b3f87e48dd70f69dbf36ad08688ab3d6d1a1e3d1d0d",
+          "capturedAt": "2026-08-29T01:30:13.987Z",
+          "captureTitle": "Traverse Pear’s terms and selection chapter"
+        },
+        {
+          "index": 21,
+          "file": "frames/site-pear/frame-021.jpg",
+          "mime": "image/jpeg",
+          "bytes": 181519,
+          "sha256": "9314eca53dca9904f4dc0a7ebe2a4eaaef2dec5fa58a72b5aa1e2761be4ea3a2",
+          "capturedAt": "2026-08-29T01:30:13.987Z",
+          "captureTitle": "Traverse Pear’s terms and selection chapter"
+        },
+        {
+          "index": 22,
+          "file": "frames/site-pear/frame-022.jpg",
+          "mime": "image/jpeg",
+          "bytes": 192152,
+          "sha256": "4b6b8e594d30de2f4e2ba66ebb53d3eef6a95507e3f44400ec1c78727dffc4bc",
+          "capturedAt": "2026-08-29T01:30:13.987Z",
+          "captureTitle": "Traverse Pear’s terms and selection chapter"
+        },
+        {
+          "index": 23,
+          "file": "frames/site-pear/frame-023.jpg",
+          "mime": "image/jpeg",
+          "bytes": 178038,
+          "sha256": "d5c65e7a76a8fd0d78392a87e3674af3f1006885c9714daa1b15f274b18d1dcf",
+          "capturedAt": "2026-08-29T01:30:13.987Z",
+          "captureTitle": "Traverse Pear’s terms and selection chapter"
+        },
+        {
+          "index": 24,
+          "file": "frames/site-pear/frame-024.jpg",
+          "mime": "image/jpeg",
+          "bytes": 139806,
+          "sha256": "9be4f626acaaf74586009f0b3568d22838031bfe2e2d715ca4d5decc0a38968e",
+          "capturedAt": "2026-08-29T01:30:13.987Z",
+          "captureTitle": "Traverse Pear’s terms and selection chapter"
+        },
+        {
+          "index": 25,
+          "file": "frames/site-pear/frame-025.jpg",
+          "mime": "image/jpeg",
+          "bytes": 265071,
+          "sha256": "edd8f4cfb2c8864c326f8269e5ad5cb626e183085a885773df7228f86e92a030",
+          "capturedAt": "2026-08-29T01:30:24.822Z",
+          "captureTitle": "Traverse Pear’s questions and closing invitation"
+        },
+        {
+          "index": 26,
+          "file": "frames/site-pear/frame-026.jpg",
+          "mime": "image/jpeg",
+          "bytes": 94474,
+          "sha256": "ac0f510af318c05df1203046eb3421df6195798e0e452373dbcb4c50c33af748",
+          "capturedAt": "2026-08-29T01:30:24.822Z",
+          "captureTitle": "Traverse Pear’s questions and closing invitation"
+        },
+        {
+          "index": 27,
+          "file": "frames/site-pear/frame-027.jpg",
+          "mime": "image/jpeg",
+          "bytes": 185313,
+          "sha256": "19ca01d3833c6d75e6bae21a29e20b5e5f7a0996b0d432625bfa523051b7e8fb",
+          "capturedAt": "2026-08-29T01:30:24.822Z",
+          "captureTitle": "Traverse Pear’s questions and closing invitation"
+        },
+        {
+          "index": 28,
+          "file": "frames/site-pear/frame-028.jpg",
+          "mime": "image/jpeg",
+          "bytes": 193035,
+          "sha256": "a843b88a1d9609aa681a41e68b3bd034d0c1f03f61ada2c8bc013373586b6f2b",
+          "capturedAt": "2026-08-29T01:30:24.822Z",
+          "captureTitle": "Traverse Pear’s questions and closing invitation"
+        },
+        {
+          "index": 29,
+          "file": "frames/site-pear/frame-029.jpg",
+          "mime": "image/jpeg",
+          "bytes": 287949,
+          "sha256": "6bdd68a284255333ab76d354cd6cc0218f57d5660fc91e68c0a5495736397325",
+          "capturedAt": "2026-08-29T01:30:24.822Z",
+          "captureTitle": "Traverse Pear’s questions and closing invitation"
+        },
+        {
+          "index": 30,
+          "file": "frames/site-pear/frame-030.jpg",
+          "mime": "image/jpeg",
+          "bytes": 136805,
+          "sha256": "9c7053b8576901a5172385de00a89dc43220bb47d15b6a7ce142f0f2521fef53",
+          "capturedAt": "2026-08-29T01:30:24.822Z",
+          "captureTitle": "Traverse Pear’s questions and closing invitation"
+        },
+        {
+          "index": 31,
+          "file": "frames/site-pear/frame-031.jpg",
+          "mime": "image/jpeg",
+          "bytes": 212367,
+          "sha256": "b9a455ff5f90cb5e0bfa21fbfe5b1f8235a61d4bd4379da416f035359c897f41",
+          "capturedAt": "2026-08-29T01:30:34.902Z",
+          "captureTitle": "Reach Pear’s final scene and footer"
+        },
+        {
+          "index": 32,
+          "file": "frames/site-pear/frame-032.jpg",
+          "mime": "image/jpeg",
+          "bytes": 211360,
+          "sha256": "9980e8c0d6e554c561f691b97748ff063f252b00cbcb96155ae6f4734bea7643",
+          "capturedAt": "2026-08-29T01:30:34.902Z",
+          "captureTitle": "Reach Pear’s final scene and footer"
+        },
+        {
+          "index": 33,
+          "file": "frames/site-pear/frame-033.jpg",
+          "mime": "image/jpeg",
+          "bytes": 213466,
+          "sha256": "69f16b05440a2e5680b9967887e00ca749aa67c2e45e90f618362ee2fb9bda9e",
+          "capturedAt": "2026-08-29T01:30:34.902Z",
+          "captureTitle": "Reach Pear’s final scene and footer"
+        },
+        {
+          "index": 34,
+          "file": "frames/site-pear/frame-034.jpg",
+          "mime": "image/jpeg",
+          "bytes": 217429,
+          "sha256": "f1788b3e618e0930539644a53abc3f8d06bbbfdf707faf3b5a8dce5125eaf813",
+          "capturedAt": "2026-08-29T01:30:34.902Z",
+          "captureTitle": "Reach Pear’s final scene and footer"
+        },
+        {
+          "index": 35,
+          "file": "frames/site-pear/frame-035.jpg",
+          "mime": "image/jpeg",
+          "bytes": 217932,
+          "sha256": "69ad4ab09ffbdf2be645b67d35c1c4d584beca5313ef836998861f9b2baeca5a",
+          "capturedAt": "2026-08-29T01:30:53.836Z",
+          "captureTitle": "Open Pear’s chapter menu"
+        }
+      ],
+      "frameCount": 35,
+      "overview": "overviews/site-pear.jpg"
+    },
+    {
+      "id": "video-QUI6Ug4cHnE",
+      "name": "Creative skill process video",
+      "source": "https://www.youtube.com/watch?v=QUI6Ug4cHnE",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/video-QUI6Ug4cHnE/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 154830,
+          "sha256": "32bab6700e670c6bfecaa8c1741745b95fdec837101e5b67259ddccb448d338d",
+          "capturedAt": "2026-08-29T01:33:54.959Z",
+          "captureTitle": "Open the first tutorial in the in-app YouTube player"
+        },
+        {
+          "index": 2,
+          "file": "frames/video-QUI6Ug4cHnE/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 176443,
+          "sha256": "33324b4c8cad8a1529cc144dabb64cc430feabd6259d5ab43c4206efa2cf59d5",
+          "capturedAt": "2026-08-29T01:34:17.091Z",
+          "captureTitle": "Advance past the pre-roll advertisement"
+        },
+        {
+          "index": 3,
+          "file": "frames/video-QUI6Ug4cHnE/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 205759,
+          "sha256": "8990354294d03b28ca299b05afb779062c63a214c09a40f6561141e922fc4ecc",
+          "capturedAt": "2026-08-29T01:34:28.799Z",
+          "captureTitle": "Set a faster review speed for the tutorial"
+        },
+        {
+          "index": 4,
+          "file": "frames/video-QUI6Ug4cHnE/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 157761,
+          "sha256": "4139cb31fabe0b0c394645d9540748ea5c3fcf23be34df77132b48d385ae37cf",
+          "capturedAt": "2026-08-29T01:36:46.806Z",
+          "captureTitle": "Inspect the live redesign setup at 3:25"
+        },
+        {
+          "index": 5,
+          "file": "frames/video-QUI6Ug4cHnE/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 201979,
+          "sha256": "e9cdb8fbd494d9cc9e4cfdef686fb938c8a41ecb9f89d153c85d211a2042154e",
+          "capturedAt": "2026-08-29T01:38:15.176Z",
+          "captureTitle": "Sample every stage of asset and journey planning"
+        },
+        {
+          "index": 6,
+          "file": "frames/video-QUI6Ug4cHnE/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 191084,
+          "sha256": "50ef42940ccb9ba7da49514bb15f63a1303fcd0ae2d09b19a486eb7cf5e0c893",
+          "capturedAt": "2026-08-29T01:38:15.176Z",
+          "captureTitle": "Sample every stage of asset and journey planning"
+        },
+        {
+          "index": 7,
+          "file": "frames/video-QUI6Ug4cHnE/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 250175,
+          "sha256": "84945aeae8da129e5b9d728e0880cc522691f2836acbaef28b5d1071bdf795d2",
+          "capturedAt": "2026-08-29T01:38:15.176Z",
+          "captureTitle": "Sample every stage of asset and journey planning"
+        },
+        {
+          "index": 8,
+          "file": "frames/video-QUI6Ug4cHnE/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 207237,
+          "sha256": "1bdb2701b7cfe753315aa87b7204d7a44239f5bf5571f39b715be772708a596e",
+          "capturedAt": "2026-08-29T01:38:15.176Z",
+          "captureTitle": "Sample every stage of asset and journey planning"
+        },
+        {
+          "index": 9,
+          "file": "frames/video-QUI6Ug4cHnE/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 149863,
+          "sha256": "a39f1c7e4623f6ea09f25011d32a6f1b8edaec7efb5628e82089af469a6cca61",
+          "capturedAt": "2026-08-29T01:38:15.176Z",
+          "captureTitle": "Sample every stage of asset and journey planning"
+        },
+        {
+          "index": 10,
+          "file": "frames/video-QUI6Ug4cHnE/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 186949,
+          "sha256": "4b6c2f5235997c365817b6e414f6a547f0450602d08494e3364a7412dfe20379",
+          "capturedAt": "2026-08-29T01:38:28.180Z",
+          "captureTitle": "Inspect Scrollcraft’s build verification and first-draft review"
+        },
+        {
+          "index": 11,
+          "file": "frames/video-QUI6Ug4cHnE/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 124529,
+          "sha256": "1ec043aa6f0aa27ccb897c37ecc370f1197df9fb2691c6488bb54389a588495d",
+          "capturedAt": "2026-08-29T01:38:28.180Z",
+          "captureTitle": "Inspect Scrollcraft’s build verification and first-draft review"
+        },
+        {
+          "index": 12,
+          "file": "frames/video-QUI6Ug4cHnE/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 145741,
+          "sha256": "88e9844d85bd4dc11b419a7d9778130b59b0ab132b455f9ea14ebf930d114d16",
+          "capturedAt": "2026-08-29T01:38:28.180Z",
+          "captureTitle": "Inspect Scrollcraft’s build verification and first-draft review"
+        },
+        {
+          "index": 13,
+          "file": "frames/video-QUI6Ug4cHnE/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 150217,
+          "sha256": "85e7669444b1fe326043babb081ddd7e69551e3902b3f0ccd3ee7da51c3de673",
+          "capturedAt": "2026-08-29T01:38:28.180Z",
+          "captureTitle": "Inspect Scrollcraft’s build verification and first-draft review"
+        },
+        {
+          "index": 14,
+          "file": "frames/video-QUI6Ug4cHnE/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 149299,
+          "sha256": "3bd2a0e42b77a3d2f528137cf4e03502c5f4f55427498cd51bf406821af4210b",
+          "capturedAt": "2026-08-29T01:38:28.180Z",
+          "captureTitle": "Inspect Scrollcraft’s build verification and first-draft review"
+        },
+        {
+          "index": 15,
+          "file": "frames/video-QUI6Ug4cHnE/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 178350,
+          "sha256": "9718f3ff0a8b0a340bffb3b03264b390480e183132c238946283e6a27daeb42c",
+          "capturedAt": "2026-08-29T01:39:10.396Z",
+          "captureTitle": "Locate the mid-roll skip control"
+        },
+        {
+          "index": 16,
+          "file": "frames/video-QUI6Ug4cHnE/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 257094,
+          "sha256": "160532a910d274da76edc118426eca8b70641ed05a3137f52814c7ad1c89edd9",
+          "capturedAt": "2026-08-29T01:40:16.873Z",
+          "captureTitle": "Inspect first-draft behavior and the critique pass"
+        },
+        {
+          "index": 17,
+          "file": "frames/video-QUI6Ug4cHnE/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 179331,
+          "sha256": "11f9af027e5435b9152c867e84b81a477342278acf1725958a982ae92970ca72",
+          "capturedAt": "2026-08-29T01:40:16.873Z",
+          "captureTitle": "Inspect first-draft behavior and the critique pass"
+        },
+        {
+          "index": 18,
+          "file": "frames/video-QUI6Ug4cHnE/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 172094,
+          "sha256": "3d8135856171227433ad95353bf578e55201c56ce3fc8a800ac72cb1f0e98265",
+          "capturedAt": "2026-08-29T01:40:16.873Z",
+          "captureTitle": "Inspect first-draft behavior and the critique pass"
+        },
+        {
+          "index": 19,
+          "file": "frames/video-QUI6Ug4cHnE/frame-019.jpg",
+          "mime": "image/jpeg",
+          "bytes": 178594,
+          "sha256": "da2c7befa93c8c635e5c5e928bd260420f7c834b92bc989c1ceb0c463e29008f",
+          "capturedAt": "2026-08-29T01:40:16.873Z",
+          "captureTitle": "Inspect first-draft behavior and the critique pass"
+        },
+        {
+          "index": 20,
+          "file": "frames/video-QUI6Ug4cHnE/frame-020.jpg",
+          "mime": "image/jpeg",
+          "bytes": 206103,
+          "sha256": "c77d8ed33197d292e314b7252d77939aae8674235dffae5680f2b9804edb9384",
+          "capturedAt": "2026-08-29T01:40:29.323Z",
+          "captureTitle": "Inspect the refined final draft and closing lessons"
+        },
+        {
+          "index": 21,
+          "file": "frames/video-QUI6Ug4cHnE/frame-021.jpg",
+          "mime": "image/jpeg",
+          "bytes": 212357,
+          "sha256": "766a244f1cb80bb709886fc7fcb58cddf9e52a0e5bbea94bde4075b3a98dadd7",
+          "capturedAt": "2026-08-29T01:40:29.323Z",
+          "captureTitle": "Inspect the refined final draft and closing lessons"
+        },
+        {
+          "index": 22,
+          "file": "frames/video-QUI6Ug4cHnE/frame-022.jpg",
+          "mime": "image/jpeg",
+          "bytes": 113029,
+          "sha256": "ad8bec738d617be70ffeb016aae1ce1299bd038abbecea78af4bf934fe79a27b",
+          "capturedAt": "2026-08-29T01:40:29.323Z",
+          "captureTitle": "Inspect the refined final draft and closing lessons"
+        }
+      ],
+      "frameCount": 22,
+      "overview": "overviews/video-QUI6Ug4cHnE.jpg"
+    },
+    {
+      "id": "video-39IlNR-P3-Q",
+      "name": "Reference-transfer and media-first video",
+      "source": "https://www.youtube.com/watch?v=39IlNR-P3-Q",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/video-39IlNR-P3-Q/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 180196,
+          "sha256": "66a0da4be1e3af482b3c5ae34fef21d5212fe7cb7cdd22a820d44076d0c2deef",
+          "capturedAt": "2026-08-29T01:42:33.557Z",
+          "captureTitle": "Open the second reference video in the in-app Browser"
+        },
+        {
+          "index": 2,
+          "file": "frames/video-39IlNR-P3-Q/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 232497,
+          "sha256": "59758d211291dcfb66556aa6c02bc66ff72308db7c6376d83112f92286a4707e",
+          "capturedAt": "2026-08-29T01:42:43.755Z",
+          "captureTitle": "Skip the commercial and inspect the Pear reference sequence"
+        },
+        {
+          "index": 3,
+          "file": "frames/video-39IlNR-P3-Q/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 193267,
+          "sha256": "3fef680389011001209dfbc104c0cf399e422fafa1d037c95fe8b899153ed8e7",
+          "capturedAt": "2026-08-29T01:43:05.131Z",
+          "captureTitle": "Inspect the reference and original-site visual sequences"
+        },
+        {
+          "index": 4,
+          "file": "frames/video-39IlNR-P3-Q/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 230801,
+          "sha256": "47ebaceccd357644c19b7856e3c9b2f5e42bf633474bf270bda63dc850381a0d",
+          "capturedAt": "2026-08-29T01:43:05.131Z",
+          "captureTitle": "Inspect the reference and original-site visual sequences"
+        },
+        {
+          "index": 5,
+          "file": "frames/video-39IlNR-P3-Q/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 187771,
+          "sha256": "d0d9429420c48c33c4c6ebe79ab86634a0ea017e7b40e387a9edf39c6297517d",
+          "capturedAt": "2026-08-29T01:43:05.131Z",
+          "captureTitle": "Inspect the reference and original-site visual sequences"
+        },
+        {
+          "index": 6,
+          "file": "frames/video-39IlNR-P3-Q/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 189981,
+          "sha256": "2e16fa2574a0ef5e313de91d7ec8379d0b0184f8f97a73a449f4cde6cdba043e",
+          "capturedAt": "2026-08-29T01:43:05.131Z",
+          "captureTitle": "Inspect the reference and original-site visual sequences"
+        },
+        {
+          "index": 7,
+          "file": "frames/video-39IlNR-P3-Q/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 253295,
+          "sha256": "3d5fb30e14b808b0d9f64ea2ec78bb9e0d1643419ef00c751f55c3e5338706c3",
+          "capturedAt": "2026-08-29T01:43:26.191Z",
+          "captureTitle": "Inspect the demonstrated skill stack and production workflow"
+        },
+        {
+          "index": 8,
+          "file": "frames/video-39IlNR-P3-Q/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 184940,
+          "sha256": "1482068587b4d0b0f929542c653c2e2e45a93c2deac184f0d1a54a45d17d03f2",
+          "capturedAt": "2026-08-29T01:43:26.191Z",
+          "captureTitle": "Inspect the demonstrated skill stack and production workflow"
+        },
+        {
+          "index": 9,
+          "file": "frames/video-39IlNR-P3-Q/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 114320,
+          "sha256": "8b1fc1fbb1b4d426bc0c916e4cd1263586e09288dac4348ee40dc37535e77604",
+          "capturedAt": "2026-08-29T01:43:26.191Z",
+          "captureTitle": "Inspect the demonstrated skill stack and production workflow"
+        },
+        {
+          "index": 10,
+          "file": "frames/video-39IlNR-P3-Q/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 251396,
+          "sha256": "847b829f0405cf8478bd830b6d8a6025b7aba4f42043cc94558a07d4b83b758d",
+          "capturedAt": "2026-08-29T01:43:26.191Z",
+          "captureTitle": "Inspect the demonstrated skill stack and production workflow"
+        },
+        {
+          "index": 11,
+          "file": "frames/video-39IlNR-P3-Q/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 251521,
+          "sha256": "890d12041a4e4166006f086ead2f2c5e499f5c509deb8ceecfea9928379f2cfc",
+          "capturedAt": "2026-08-29T01:43:44.738Z",
+          "captureTitle": "Inspect the media-first prompt and assembly stages"
+        },
+        {
+          "index": 12,
+          "file": "frames/video-39IlNR-P3-Q/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 177742,
+          "sha256": "2f3324e20b205b9e4b098624cfab69094f1937a88af652ab0c4bf091b6e947f1",
+          "capturedAt": "2026-08-29T01:43:44.738Z",
+          "captureTitle": "Inspect the media-first prompt and assembly stages"
+        },
+        {
+          "index": 13,
+          "file": "frames/video-39IlNR-P3-Q/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 168749,
+          "sha256": "973adca742251716f6c430247148d47d46a998fc665003e2043347c324392978",
+          "capturedAt": "2026-08-29T01:43:44.738Z",
+          "captureTitle": "Inspect the media-first prompt and assembly stages"
+        },
+        {
+          "index": 14,
+          "file": "frames/video-39IlNR-P3-Q/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 216754,
+          "sha256": "6913c30f6fed7dfa05e7e0e69b7f668fc8d9ef95fb67c74464c2068a292824fd",
+          "capturedAt": "2026-08-29T01:44:11.017Z",
+          "captureTitle": "Inspect the desktop result and its scene transitions"
+        },
+        {
+          "index": 15,
+          "file": "frames/video-39IlNR-P3-Q/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 237434,
+          "sha256": "aae5437d553aace22c6fec9b3b956577edfa33e87834cd04234783552d3d03d4",
+          "capturedAt": "2026-08-29T01:44:11.017Z",
+          "captureTitle": "Inspect the desktop result and its scene transitions"
+        },
+        {
+          "index": 16,
+          "file": "frames/video-39IlNR-P3-Q/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 248865,
+          "sha256": "11942a85282f5daf540c1ec48c0cc516448c20cee9b4972167314740c97f6a02",
+          "capturedAt": "2026-08-29T01:44:11.017Z",
+          "captureTitle": "Inspect the desktop result and its scene transitions"
+        },
+        {
+          "index": 17,
+          "file": "frames/video-39IlNR-P3-Q/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 210462,
+          "sha256": "f6c9a454c177b53fd6c1e9ef064ec0ff4c8aa594e1610478fd45f6cdccc6ca94",
+          "capturedAt": "2026-08-29T01:44:11.017Z",
+          "captureTitle": "Inspect the desktop result and its scene transitions"
+        },
+        {
+          "index": 18,
+          "file": "frames/video-39IlNR-P3-Q/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 168962,
+          "sha256": "78f7be5575a2434261ccaa85921b43833982252b86042d42e56a1952e625e3d5",
+          "capturedAt": "2026-08-29T01:44:33.417Z",
+          "captureTitle": "Inspect the refinement and responsive review"
+        },
+        {
+          "index": 19,
+          "file": "frames/video-39IlNR-P3-Q/frame-019.jpg",
+          "mime": "image/jpeg",
+          "bytes": 220538,
+          "sha256": "34fdea25c53c804148fa6374aa9c46fe457fd6a8db0786417c7385ac16decfd8",
+          "capturedAt": "2026-08-29T01:44:33.417Z",
+          "captureTitle": "Inspect the refinement and responsive review"
+        },
+        {
+          "index": 20,
+          "file": "frames/video-39IlNR-P3-Q/frame-020.jpg",
+          "mime": "image/jpeg",
+          "bytes": 249048,
+          "sha256": "086b76c8894c7176324d5941c30de182fc1c15123a81b517320b52e7d0e13562",
+          "capturedAt": "2026-08-29T01:44:33.417Z",
+          "captureTitle": "Inspect the refinement and responsive review"
+        },
+        {
+          "index": 21,
+          "file": "frames/video-39IlNR-P3-Q/frame-021.jpg",
+          "mime": "image/jpeg",
+          "bytes": 247586,
+          "sha256": "38f2e6db79d03758ef268d2aa36a5d93362a800a97b34a332cc2cf96168ef4d8",
+          "capturedAt": "2026-08-29T01:44:33.417Z",
+          "captureTitle": "Inspect the refinement and responsive review"
+        },
+        {
+          "index": 22,
+          "file": "frames/video-39IlNR-P3-Q/frame-022.jpg",
+          "mime": "image/jpeg",
+          "bytes": 219571,
+          "sha256": "b6d4c042167e456ca639d8bd022798005b44fe65135b5c0cb6f2a3fff66a28ff",
+          "capturedAt": "2026-08-29T01:44:50.395Z",
+          "captureTitle": "Finish the second video’s mobile and closing review"
+        },
+        {
+          "index": 23,
+          "file": "frames/video-39IlNR-P3-Q/frame-023.jpg",
+          "mime": "image/jpeg",
+          "bytes": 210967,
+          "sha256": "3de00b5db867fee5ed62cae3b9f3ac27e9ed59d2b2c2ba540faf7c5be2ff4336",
+          "capturedAt": "2026-08-29T01:44:50.395Z",
+          "captureTitle": "Finish the second video’s mobile and closing review"
+        }
+      ],
+      "frameCount": 23,
+      "overview": "overviews/video-39IlNR-P3-Q.jpg"
+    },
+    {
+      "id": "video-GJxchJkk4Lk",
+      "name": "Spatial production video",
+      "source": "https://www.youtube.com/watch?v=GJxchJkk4Lk",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/video-GJxchJkk4Lk/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 210645,
+          "sha256": "42b6359949c45cbdefe9a2fbdaeaa4d435388f32ccba513d25b237acdc3de981",
+          "capturedAt": "2026-08-29T01:46:58.630Z",
+          "captureTitle": "Open the third video and inspect its fly-through opening"
+        },
+        {
+          "index": 2,
+          "file": "frames/video-GJxchJkk4Lk/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 203744,
+          "sha256": "7177b1ef083c33d0b703c50c5599270d30aff14f65f35b1dda36bcf90fede5e9",
+          "capturedAt": "2026-08-29T01:47:23.364Z",
+          "captureTitle": "Inspect the cabin journey and project brief"
+        },
+        {
+          "index": 3,
+          "file": "frames/video-GJxchJkk4Lk/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 228297,
+          "sha256": "e27a712363ef11b3d806103fe2af5d8d6d9f8064a89fd4b9c32164097521436a",
+          "capturedAt": "2026-08-29T01:47:23.364Z",
+          "captureTitle": "Inspect the cabin journey and project brief"
+        },
+        {
+          "index": 4,
+          "file": "frames/video-GJxchJkk4Lk/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 242926,
+          "sha256": "59bca3416fa6274a7a690d54bed07e8605e3bda49df3486d4846187e341b0b50",
+          "capturedAt": "2026-08-29T01:47:23.364Z",
+          "captureTitle": "Inspect the cabin journey and project brief"
+        },
+        {
+          "index": 5,
+          "file": "frames/video-GJxchJkk4Lk/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 217462,
+          "sha256": "d5fe556e8c4beebc2b415b25dea5e5b31cc77ac94056a3e3e1b2cd1abe75066e",
+          "capturedAt": "2026-08-29T01:47:23.364Z",
+          "captureTitle": "Inspect the cabin journey and project brief"
+        },
+        {
+          "index": 6,
+          "file": "frames/video-GJxchJkk4Lk/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 157862,
+          "sha256": "fd6c44a19191a75f912b0b1e4cbdbe5339ff6b1de79ee0fe03293728fc01bef8",
+          "capturedAt": "2026-08-29T01:47:47.066Z",
+          "captureTitle": "Inspect reference selection, brief construction, and static-base planning"
+        },
+        {
+          "index": 7,
+          "file": "frames/video-GJxchJkk4Lk/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 237756,
+          "sha256": "f8e4d9d21d988b431644e91b7fc205acc2904c2bf09d6c82669654eb783b98c8",
+          "capturedAt": "2026-08-29T01:47:47.066Z",
+          "captureTitle": "Inspect reference selection, brief construction, and static-base planning"
+        },
+        {
+          "index": 8,
+          "file": "frames/video-GJxchJkk4Lk/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 211857,
+          "sha256": "c8e4521b8421546a8cab04786f9a13205788795ba1ee1713609465b2acdc30f8",
+          "capturedAt": "2026-08-29T01:47:47.066Z",
+          "captureTitle": "Inspect reference selection, brief construction, and static-base planning"
+        },
+        {
+          "index": 9,
+          "file": "frames/video-GJxchJkk4Lk/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 185081,
+          "sha256": "3791343108e46c3a00f2b7ec47002dd0cd2d0abfa6d489b8a52709098c6a6c1c",
+          "capturedAt": "2026-08-29T01:47:47.066Z",
+          "captureTitle": "Inspect reference selection, brief construction, and static-base planning"
+        }
+      ],
+      "frameCount": 9,
+      "overview": "overviews/video-GJxchJkk4Lk.jpg"
+    },
+    {
+      "id": "video-ubH1ulaK-t4",
+      "name": "Still-first previsualization video",
+      "source": "https://www.youtube.com/watch?v=ubH1ulaK-t4",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/video-ubH1ulaK-t4/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 161900,
+          "sha256": "bd49778f0664d3d3f5fd9bde8a2e123905a5adecf7725f5e9910a1d0f5749d79",
+          "capturedAt": "2026-08-29T21:31:12.767Z",
+          "captureTitle": "Inspecting the video player"
+        },
+        {
+          "index": 2,
+          "file": "frames/video-ubH1ulaK-t4/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 230913,
+          "sha256": "8f95b99beef1a0eaf603fef1cf5e355c80cae30ec35a0a311ccfc3e4998f6df6",
+          "capturedAt": "2026-08-29T21:31:58.542Z",
+          "captureTitle": "Skipping the sponsor segment and checking the first production frame"
+        },
+        {
+          "index": 3,
+          "file": "frames/video-ubH1ulaK-t4/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 236406,
+          "sha256": "b2a4d1d92967dc561363f8ce86ff6f7a2bf12c032371e0532fc264ffdc133e5a",
+          "capturedAt": "2026-08-29T21:32:07.780Z",
+          "captureTitle": "Revealing the video timeline"
+        },
+        {
+          "index": 4,
+          "file": "frames/video-ubH1ulaK-t4/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 283755,
+          "sha256": "1c56e8f324b992319d42633f4259663954ac19e5d5f6946e887424e3e3cb22a7",
+          "capturedAt": "2026-08-29T21:32:20.859Z",
+          "captureTitle": "Skipping the sponsor segment and opening the creative workflow"
+        },
+        {
+          "index": 5,
+          "file": "frames/video-ubH1ulaK-t4/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 81431,
+          "sha256": "ac669256e51c586d9f85820fc1321354025e129cd05eda00840619fa2033bd22",
+          "capturedAt": "2026-08-29T21:35:29.318Z",
+          "captureTitle": "Inspect key visual frames after the commercial"
+        },
+        {
+          "index": 6,
+          "file": "frames/video-ubH1ulaK-t4/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 22943,
+          "sha256": "e291734a1388ad5fe4602facc4a8f4e5db4ea6cdb537d992c49e3d43e0c213fe",
+          "capturedAt": "2026-08-29T21:36:18.025Z",
+          "captureTitle": "Inspect the regeneration checkpoint"
+        },
+        {
+          "index": 7,
+          "file": "frames/video-ubH1ulaK-t4/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 39339,
+          "sha256": "b26551852be94dc83a3be37bc601e2873c516c8dd68a0073998e2470c9e88cdf",
+          "capturedAt": "2026-08-29T21:36:28.349Z",
+          "captureTitle": "Inspect the asset-complete handoff"
+        },
+        {
+          "index": 8,
+          "file": "frames/video-ubH1ulaK-t4/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44537,
+          "sha256": "d8a53a9038a382fc4bbf2a596def740cc9ec7b40f4c303ad4960e50bc622e269",
+          "capturedAt": "2026-08-29T21:36:40.475Z",
+          "captureTitle": "Inspect the implementation setup"
+        },
+        {
+          "index": 9,
+          "file": "frames/video-ubH1ulaK-t4/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44503,
+          "sha256": "a30fe821909cf4de14751fa8fc635664fde91a8cfb066ea5ab96e2d67dc012ba",
+          "capturedAt": "2026-08-29T21:37:04.754Z",
+          "captureTitle": "Inspect the scroll brief and first interactive draft"
+        },
+        {
+          "index": 10,
+          "file": "frames/video-ubH1ulaK-t4/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44583,
+          "sha256": "c016efbd4a92d5950342045a52ad1df7c47806a664ba40599387959713ab4223",
+          "capturedAt": "2026-08-29T21:37:04.754Z",
+          "captureTitle": "Inspect the scroll brief and first interactive draft"
+        },
+        {
+          "index": 11,
+          "file": "frames/video-ubH1ulaK-t4/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44477,
+          "sha256": "c456c55d995a6afe5e6a43bf7bf3c0fedbc20354a4ca92c41d2d8bb8a8d0390a",
+          "capturedAt": "2026-08-29T21:37:04.754Z",
+          "captureTitle": "Inspect the scroll brief and first interactive draft"
+        },
+        {
+          "index": 12,
+          "file": "frames/video-ubH1ulaK-t4/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44684,
+          "sha256": "87f1d3e5d24b7f9f6481b575bc5f375514ac1f21b50e093d90bdbe8f99c7e69b",
+          "capturedAt": "2026-08-29T21:37:04.754Z",
+          "captureTitle": "Inspect the scroll brief and first interactive draft"
+        },
+        {
+          "index": 13,
+          "file": "frames/video-ubH1ulaK-t4/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44630,
+          "sha256": "79fe3df7f6b9744fe35c71276f75752a24b4246a55e8e1add8d27e1d2bd16c74",
+          "capturedAt": "2026-08-29T21:37:20.760Z",
+          "captureTitle": "Resume the implementation walkthrough"
+        },
+        {
+          "index": 14,
+          "file": "frames/video-ubH1ulaK-t4/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 35191,
+          "sha256": "bcc81030849ee0e0b5efa8da7ae23ab3285f00a743a8d1ec2cd5a4b6618ef70e",
+          "capturedAt": "2026-08-29T21:37:35.855Z",
+          "captureTitle": "Resume the implementation walkthrough"
+        },
+        {
+          "index": 15,
+          "file": "frames/video-ubH1ulaK-t4/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 35098,
+          "sha256": "a5e0e064aa394206399ce13f97a4cec79ff7dc8bd3426013def54909d9d3a38c",
+          "capturedAt": "2026-08-29T21:37:56.270Z",
+          "captureTitle": "Inspect the implementation brief and first interactive draft"
+        },
+        {
+          "index": 16,
+          "file": "frames/video-ubH1ulaK-t4/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 30335,
+          "sha256": "8a34992e9fcca8cdc5f8751a52e682f9142341b9e61e4744d864abf311255458",
+          "capturedAt": "2026-08-29T21:37:56.270Z",
+          "captureTitle": "Inspect the implementation brief and first interactive draft"
+        },
+        {
+          "index": 17,
+          "file": "frames/video-ubH1ulaK-t4/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 37313,
+          "sha256": "e663c0dc60aaf61b7c141d1546362e6dd5adfdb9828a54e4bc42caa31abaedd7",
+          "capturedAt": "2026-08-29T21:37:56.270Z",
+          "captureTitle": "Inspect the implementation brief and first interactive draft"
+        },
+        {
+          "index": 18,
+          "file": "frames/video-ubH1ulaK-t4/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 16946,
+          "sha256": "9e287bcf293b61511d9bca2b1570fef516c0702247851fc46a3a5617c94a74ff",
+          "capturedAt": "2026-08-29T21:38:26.719Z",
+          "captureTitle": "Inspect the implementation brief"
+        }
+      ],
+      "frameCount": 18,
+      "overview": "overviews/video-ubH1ulaK-t4.jpg"
+    }
+  ]
+}

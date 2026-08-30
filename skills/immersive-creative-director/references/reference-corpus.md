@@ -1,6 +1,6 @@
 # Mandatory Reference Corpus
 
-This is the installed skill's complete design evidence and must be read on every invocation. Every reference contains observed mechanisms, sequence/story notes, motion logic, polish criteria, anti-pattern lessons, build implications, limitations, and Filipe's stated preference. It is the detailed source behind `evidence-library.md` and the authority for recognizing a named website or video without asking Filipe to re-explain material already captured here.
+This is the installed skill's complete written design evidence and must be read on every invocation together with [visual-reference-manifest.md](visual-reference-manifest.md). Every reference contains observed mechanisms, sequence/story notes, motion logic, polish criteria, anti-pattern lessons, build implications, limitations, and Filipe's stated preference. The paired archive contains 393 chronological frames across all 15 sources. Written chronology and visual evidence are jointly authoritative for recognizing a named website or video without asking Filipe to re-explain material already captured here.
 
 Use the transferable mechanism and judgment; reject recognizable surface identity. Current explicit project facts remain authoritative for the subject. This corpus—not generic model taste—determines what counts as coherent, immersive, polished, gimmicky, feasible, and worthy of further development.
 
@@ -8,21 +8,21 @@ Use the transferable mechanism and judgment; reject recognizable surface identit
 
 | Reference | Type | Full pass | Internal pages/states | Evidence captured | Status |
 |---|---|---:|---:|---:|---|
-| sondaven.com/en | Website | Yes | All discovered English pages + menu + detail expansion | Yes | Complete |
-| landonorris.com | Website | Yes | All discovered internal pages + full-screen menu | Yes | Complete |
-| indigo-laboratory.it | Website | Yes | All five chapters + maker/contact overlays + footer | Yes | Complete |
-| noth.in | Website | Yes | Works index + all seven case studies + menu | Yes | Complete |
-| mrblack-case.dolganev.com | Website | Yes | All anchored chapters + FAQ + legal overlays + form/footer | Yes | Complete |
-| santionispirits.com | Website | Yes | Age gate + Experience + Collection + interaction/flavor states | Yes | Complete |
-| become-a-yogi.com | Website | Yes | Home + About + Studios + Contact + all 6 journal pages + menu/map/modal/slider states | Yes | Complete |
-| mesh3d.gallery/the-state-of-the-gallery | Website | Yes | State-of-gallery journey + all primary routes + representative website/maker/blog templates + cinema mode | Yes | Complete |
-| haoqi.design | Website | Yes | Home + all 6 internal project pages + theme/sound/protected states | Yes | Complete |
-| rideradian.com | Website | Yes | Yes | Yes | Detailed capture complete |
-| pear.no | Website + video companion | Yes | All chapters + menu + application/FAQ states | Yes | Website and companion-video cross-reference complete |
-| QUI6Ug4cHnE | Video | Yes | n/a | Yes | Full transcript and in-app visual pass complete; commercial and creator promotion excluded |
-| 39IlNR-P3-Q | Video | Yes | n/a | Yes | Full transcript and in-app visual pass complete; pre-roll commercial and outro excluded |
-| GJxchJkk4Lk | Video | Yes | n/a | Yes | Complete transcript + in-app visual inspection; Hostinger commercial excluded |
-| ubH1ulaK-t4 | Video | Yes | n/a | Yes | Complete transcript + targeted in-app visual inspection; sponsor/provider promotion excluded |
+| sondaven.com/en | Website | Yes | All discovered English pages + menu + detail expansion | `site-sondaven` · 55 frames | Complete |
+| landonorris.com | Website | Yes | All discovered internal pages + full-screen menu | `site-lando-norris` · 22 frames | Complete |
+| indigo-laboratory.it | Website | Yes | All five chapters + maker/contact overlays + footer | `site-indigo-laboratory` · 11 frames | Complete |
+| noth.in | Website | Yes | Works index + all seven case studies + menu | `site-noth` · 40 frames | Complete |
+| mrblack-case.dolganev.com | Website | Yes | All anchored chapters + FAQ + legal overlays + form/footer | `site-mr-black` · 14 frames | Complete |
+| santionispirits.com | Website | Yes | Age gate + Experience + Collection + interaction/flavor states | `site-santioni-spirits` · 30 frames | Complete |
+| become-a-yogi.com | Website | Yes | Home + About + Studios + Contact + all 6 journal pages + menu/map/modal/slider states | `site-become-a-yogi` · 38 frames | Complete |
+| mesh3d.gallery/the-state-of-the-gallery | Website | Yes | State-of-gallery journey + all primary routes + representative website/maker/blog templates + cinema mode | `site-mesh3d` · 44 frames | Complete |
+| haoqi.design | Website | Yes | Home + all 6 internal project pages + theme/sound/protected states | `site-haoqi` · 17 frames | Complete |
+| rideradian.com | Website | Yes | Homepage, drawn path, configurator states | `site-ride-radian` · 15 frames | Detailed capture complete |
+| pear.no | Website + video companion | Yes | All chapters + menu + application/FAQ states | `site-pear` · 35 frames | Website and companion-video cross-reference complete |
+| QUI6Ug4cHnE | Video | Yes | n/a | `video-QUI6Ug4cHnE` · 22 frames | Full transcript and in-app visual pass complete; commercial and creator promotion excluded |
+| 39IlNR-P3-Q | Video | Yes | n/a | `video-39IlNR-P3-Q` · 23 frames | Full transcript and in-app visual pass complete; pre-roll commercial and outro excluded |
+| GJxchJkk4Lk | Video | Yes | n/a | `video-GJxchJkk4Lk` · 9 frames | Complete transcript + in-app visual inspection; Hostinger commercial excluded |
+| ubH1ulaK-t4 | Video | Yes | n/a | `video-ubH1ulaK-t4` · 18 frames | Complete transcript + targeted in-app visual inspection; sponsor/provider promotion excluded |
 
 ## Current-batch curation dispositions
 

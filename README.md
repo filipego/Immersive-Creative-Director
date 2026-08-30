@@ -43,11 +43,19 @@ Immersive-Creative-Director/
         │   └── openai.yaml
         ├── scripts/
         │   ├── validate_experience_contract.py
-        │   └── validate_previsualization.py
+        │   ├── validate_previsualization.py
+        │   └── validate_visual_corpus.py
+        ├── assets/
+        │   └── reference-corpus/
+        │       ├── manifest.json
+        │       ├── corpus-overview.jpg
+        │       ├── overviews/       # one overview sheet per source
+        │       └── frames/          # 393 chronological captures
         └── references/
             ├── evidence-library.md
             ├── previsualization.md
             ├── reference-corpus.md
+            ├── visual-reference-manifest.md
             └── ...
 ```
 
@@ -152,9 +160,9 @@ Unavailable optional skills are reported rather than silently imitated or instal
 
 ## Provenance
 
-The skill was developed from a curated corpus of award-winning websites, educational videos, explicit creative preferences, production decisions, and matched RED/GREEN behavioral scenarios. The installed package contains both the detailed reference corpus and its distilled operating judgment. References are evidence for transferable mechanisms and quality—not a catalog of surfaces to copy.
+The skill was developed from a curated corpus of award-winning websites, educational videos, explicit creative preferences, production decisions, and matched RED/GREEN behavioral scenarios. The installed package contains the detailed written corpus, distilled operating judgment, and a machine-validated visual archive of 393 chronological captures across all 15 sources. Each source has an overview sheet; every frame is indexed by source, capture action, timestamp, checksum, and evidence record. References are evidence for transferable mechanisms and quality—not a catalog of surfaces to copy.
 
-The current repository stores link-, chronology-, and timestamp-based written evidence. It does **not** currently bundle website screenshots, video frames, or other copyrighted visual-reference files.
+The visual archive is mandatory runtime evidence. On every invocation, the skill validates the archive, inspects all 15 overview sheets, and records a Visual Grounding Ledger before design questions or judgments. A selected or user-named reference also triggers chronological inspection of its detailed frames. If the images cannot be loaded, the design phase blocks rather than falling back to generic model taste.
 
 ## License
 

@@ -1,10 +1,10 @@
 # Mandatory Evidence Index
 
-This is the mandatory index to the skill's design evidence. Read every record on every invocation, then use [reference-corpus.md](reference-corpus.md) for full chronology, route/state observations, timestamps, mechanisms, limitations, and Filipe's reactions. These sources are the skill's design memory and taste evidence, not an optional mood board.
+This is the mandatory index to the skill's design evidence. Read every record on every invocation, inspect its paired visual source through [visual-reference-manifest.md](visual-reference-manifest.md), then use [reference-corpus.md](reference-corpus.md) for full chronology, route/state observations, timestamps, mechanisms, limitations, and Filipe's reactions. The written records and 393 packaged frames form one design memory; neither is an optional mood board or a substitute for the other.
 
 ## Use policy
 
-- Read the complete index and full corpus before any design question or judgment.
+- Read the complete index and full corpus, validate the packaged images, and inspect all 15 mandatory visual overviews before any design question or judgment.
 - Consider every record, then select the required active evidence lineage defined in `orchestration.md`.
 - Cite the transferable judgment internally, never use a reference name as a style command.
 - Every record includes a surface exclusion. Recognizable identity is provenance, not vocabulary.
