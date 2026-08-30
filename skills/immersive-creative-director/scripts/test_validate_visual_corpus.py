@@ -21,10 +21,6 @@ EXPECTED_REFERENCES = {
     "site-haoqi",
     "site-ride-radian",
     "site-pear",
-    "video-QUI6Ug4cHnE",
-    "video-39IlNR-P3-Q",
-    "video-GJxchJkk4Lk",
-    "video-ubH1ulaK-t4",
 }
 
 
@@ -38,13 +34,13 @@ class VisualCorpusValidationTests(unittest.TestCase):
         )
         self.assertEqual(result.returncode, 0, result.stdout + result.stderr)
 
-        manifest_path = SKILL_ROOT / "assets" / "reference-corpus" / "manifest.json"
+        manifest_path = SKILL_ROOT / "assets" / "visual-taste-corpus" / "manifest.json"
         manifest = json.loads(manifest_path.read_text())
         self.assertEqual(
             {reference["id"] for reference in manifest["references"]},
             EXPECTED_REFERENCES,
         )
-        self.assertGreaterEqual(manifest["frameCount"], 393)
+        self.assertEqual(manifest["frameCount"], 321)
 
     def test_entrypoint_makes_visual_grounding_blocking(self):
         entrypoint = (SKILL_ROOT / "SKILL.md").read_text()
@@ -53,11 +49,11 @@ class VisualCorpusValidationTests(unittest.TestCase):
         self.assertIn("view_image", entrypoint)
         self.assertIn("Visual Grounding Ledger", entrypoint)
 
-    def test_discovery_cannot_claim_capture_without_persisting_images(self):
+    def test_discovery_persists_each_evidence_class(self):
         discovery = (SKILL_ROOT / "references" / "evolving-the-library.md").read_text()
-        self.assertIn("persist the visual evidence inside the skill package", discovery)
-        self.assertIn("overview sheet", discovery)
-        self.assertIn("manifest.json", discovery)
+        self.assertIn("assets/visual-taste-corpus/", discovery)
+        self.assertIn("assets/process-corpus/transcripts/", discovery)
+        self.assertIn("validate_process_corpus.py", discovery)
         self.assertNotIn(
             "The evidence record belongs outside this runtime reference",
             discovery,

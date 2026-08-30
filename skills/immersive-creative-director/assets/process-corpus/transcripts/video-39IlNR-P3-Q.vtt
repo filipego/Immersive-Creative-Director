@@ -1,0 +1,917 @@
+WEBVTT
+Kind: captions
+Language: en
+
+00:00:00.120 --> 00:00:05.440
+Wow! The site turned out really beautiful.
+Just look at this seamless experience.
+
+00:00:05.440 --> 00:00:10.240
+As I scroll, the scenes change,
+and along with the scenes the text
+
+00:00:10.240 --> 00:00:15.839
+changes too. So there's a story on the
+site. I'm really excited that I built
+
+00:00:15.839 --> 00:00:20.680
+this story, and just as excited to tell you about
+it. This scroll experience is amazing, I think.
+
+00:00:20.680 --> 00:00:25.199
+So today we're not just going to build a
+website and move on. Thanks to these four
+
+00:00:25.199 --> 00:00:28.800
+Claude skills, you'll be able to build scroll-triggered
+websites like the one you see on screen right now,
+
+00:00:28.800 --> 00:00:33.320
+websites that look really aesthetic,
+in your own projects. And the
+
+00:00:33.320 --> 00:00:37.840
+best part is this: it's being explained by
+someone who's actually in the trenches.
+
+00:00:37.840 --> 00:00:41.320
+Since I work as a developer, I also
+build projects for my own clients
+
+00:00:41.320 --> 00:00:45.239
+using these skills. So I'm
+telling you about skills
+
+00:00:45.239 --> 00:00:49.039
+I've actually experienced. This way, your
+context in Claude doesn't fill up, and
+
+00:00:49.039 --> 00:00:52.879
+you learn skills that will genuinely be useful
+to you. Now, where did I get the inspiration
+
+00:00:52.879 --> 00:00:56.280
+for this website? I want to
+show you that right away.
+
+00:00:56.280 --> 00:00:59.640
+As you know, I love Awwwards.
+Studying award-winning websites
+
+00:00:59.640 --> 00:01:04.239
+is one of my hobbies. Because it
+trains my design eye, and that's
+
+00:01:04.239 --> 00:01:07.280
+how I'm able to build dynamic
+websites, and I recommend it
+
+00:01:07.280 --> 00:01:11.479
+to you too. Now, this website was published
+on August 14. It hasn't won an award
+
+00:01:11.479 --> 00:01:16.400
+yet, but I think it most likely will.
+Because first there's a voting phase. So
+
+00:01:16.400 --> 00:01:20.400
+you usually don't win an award
+quickly. There's a vote. Then you
+
+00:01:20.400 --> 00:01:24.680
+win the award. Step by step, I'll
+explain all that in another video. Now
+
+00:01:24.680 --> 00:01:29.439
+I want to show you the website, and
+it really has a beautiful flow. Look,
+
+00:01:29.439 --> 00:01:33.520
+first we're greeted by a woman wiping
+a pear with her hand. But as I refresh
+
+00:01:33.520 --> 00:01:37.799
+the page, the scene keeps changing.
+Let's refresh a few more times.
+
+00:01:37.799 --> 00:01:42.600
+Look, now it's a woman holding a
+pear. They made three different scenes
+
+00:01:42.600 --> 00:01:47.320
+for the intro. Sometimes a curtain is drawn,
+sometimes she's holding a pear, and sometimes
+
+00:01:47.320 --> 00:01:52.719
+she's wiping the pear. That's creative
+too. Now when I scroll, the story
+
+00:01:52.719 --> 00:01:58.360
+begins. Look, first someone ties
+something to a tree. Then a pear falls.
+
+00:01:58.360 --> 00:02:03.759
+Someone catches the pear, cuts it, and
+then a different scene. Look, it's still
+
+00:02:03.759 --> 00:02:08.959
+telling something here. So they've
+built a structure that keeps the user
+
+00:02:08.959 --> 00:02:14.800
+scrolling constantly. That's the
+truly creative part. I mean, everyone
+
+00:02:14.800 --> 00:02:19.840
+can use AI well. The most important thing
+here is skill. The better your skills, the
+
+00:02:19.840 --> 00:02:25.280
+better websites you can build. So
+it's perfect. Look, this is the form.
+
+00:02:25.280 --> 00:02:29.800
+By the way, they made the forms with stars
+
+00:02:29.800 --> 00:02:35.400
+like this too. So the form is really creative.
+And here's the final section, the footer
+
+00:02:35.400 --> 00:02:41.239
+section. Now when I go back, the same flow
+continues, just like on ours. As soon as
+
+00:02:41.239 --> 00:02:45.319
+I saw this website, I said I absolutely
+have to build this. So I thought about
+
+00:02:45.319 --> 00:02:50.879
+how they did it. I thought about
+the skills. The skills in Claude. So
+
+00:02:50.879 --> 00:02:54.920
+I'm not going to build this with long
+prompts in this video. I actually created
+
+00:02:54.920 --> 00:03:00.400
+a video too, and I wanted to use
+a slightly more vivid blue. It's
+
+00:03:00.400 --> 00:03:05.799
+called Saxony blue. Now when I
+scroll, look, it goes inside.
+
+00:03:05.799 --> 00:03:11.239
+She's holding fabric. She hands the fabric
+to someone else and the text appears. Look,
+
+00:03:11.239 --> 00:03:15.280
+after that, if you noticed over here,
+by the way, there's a navigation
+
+00:03:15.280 --> 00:03:19.599
+that shows where you are on the page.
+I built that too. So as you scroll,
+
+00:03:19.599 --> 00:03:24.720
+that changes as well. And I take
+the pear. Someone holds the pear and
+
+00:03:24.720 --> 00:03:28.159
+it bursts in their hand.
+I really loved that scene.
+
+00:03:28.159 --> 00:03:33.640
+After that, a ball appears
+where everyone is, and
+
+00:03:33.640 --> 00:03:38.120
+it goes back to the very first section.
+Then the slider section with information
+
+00:03:38.120 --> 00:03:44.000
+about the page, which we can scroll, and
+the footer. And in the footer, this part
+
+00:03:44.000 --> 00:03:49.760
+turned out really creative. Look, when I
+move the mouse over it, light appears. This
+
+00:03:49.760 --> 00:03:53.519
+turned out pretty creative, and honestly
+I didn't do this. I didn't say it
+
+00:03:53.519 --> 00:03:58.799
+in the prompt. Claude came up with it.
+Thanks to these skills, you don't need to
+
+00:03:58.799 --> 00:04:03.079
+add tons of skills. A maximum
+of 10 skills lets you build
+
+00:04:03.079 --> 00:04:07.079
+websites like this. But of course the idea
+is the most important thing here. Because
+
+00:04:07.079 --> 00:04:11.040
+everyone uses AI well, but talented
+people are very few, and this
+
+00:04:11.040 --> 00:04:15.000
+comes from talent. So now let me
+show you the GitHub repos. Now I'll
+
+00:04:15.000 --> 00:04:18.840
+tell you a bit about the four skills.
+I say "a bit" because we'll be
+
+00:04:18.840 --> 00:04:23.120
+using them actively anyway. So the goal
+here isn't to explain the skills at length.
+
+00:04:23.120 --> 00:04:26.600
+Everyone explains skills now,
+but I'm going to show you
+
+00:04:26.600 --> 00:04:31.840
+how to actually use them. Now, we'll see why
+these four skills are valuable as I explain
+
+00:04:31.840 --> 00:04:36.080
+and as we experience them. Our first skill
+is the Anthropic Skills skill. By the way,
+
+00:04:36.080 --> 00:04:39.720
+other YouTubers have probably already
+shown you this one, because it's very
+
+00:04:39.720 --> 00:04:43.840
+common. But the other skills I'll
+show you are different. Skills that
+
+00:04:43.840 --> 00:04:47.199
+other YouTubers most likely don't
+know about. Because I research them
+
+00:04:47.199 --> 00:04:51.400
+as a developer, that's why I'm telling you,
+and I actively use them. Now let's look at
+
+00:04:51.400 --> 00:04:55.479
+this skill first. First,
+Anthropic's frontend-design skill
+
+00:04:55.479 --> 00:05:00.360
+helps Claude break out of the
+classic generic AI landing page look.
+
+00:05:00.360 --> 00:05:04.919
+So what does that mean? You know those
+websites AI makes with the classic
+
+00:05:04.919 --> 00:05:09.560
+neon colors? This skill was released to
+stop it from making those, to stop it from
+
+00:05:09.560 --> 00:05:14.720
+producing template-style websites,
+to reduce that. So "don't do
+
+00:05:14.720 --> 00:05:19.759
+those parts. Use these fonts,
+these buttons, these colors,"
+
+00:05:19.759 --> 00:05:23.840
+that's the kind of skill they've released.
+And thanks to this, it doesn't look like
+
+00:05:23.840 --> 00:05:28.120
+AI-made websites. And the other
+skill I love is the T skill. I really
+
+00:05:28.120 --> 00:05:32.680
+love this skill. Because it helps you
+control how experimental, how animated and
+
+00:05:32.680 --> 00:05:37.120
+how dense the design will be.
+So what does that mean? Well,
+
+00:05:37.120 --> 00:05:42.000
+think of it this way. When a classic website
+is built, of course it has to continue
+
+00:05:42.000 --> 00:05:46.440
+in a classic way. There's a theme there.
+You have to stay consistent with that theme.
+
+00:05:46.440 --> 00:05:50.919
+But if we have a dynamic website
+like this, we shouldn't continue it
+
+00:05:50.919 --> 00:05:56.240
+in a classic way. Because the theme there
+is animated. So this is a skill that
+
+00:05:56.240 --> 00:06:00.360
+thinks about that. Look, it's incredibly good.
+I definitely recommend installing this skill,
+
+00:06:00.360 --> 00:06:03.960
+which determines whether your website
+behaves in an animated or a classic
+
+00:06:03.960 --> 00:06:09.240
+way. This way, say you've started
+a project halfway, and that project
+
+00:06:09.240 --> 00:06:14.360
+is animated and needs to continue being
+animated. This skill detects that,
+
+00:06:14.360 --> 00:06:19.319
+reads it, and continues that way. That's
+incredibly valuable. So the skill actually
+
+00:06:19.319 --> 00:06:24.240
+helps you by picking up a bit
+on your own behavior. This way,
+
+00:06:24.240 --> 00:06:28.199
+in your freelance work, when you take on jobs
+from clients and continue a half-finished
+
+00:06:28.199 --> 00:06:32.680
+project, this skill helps you a
+lot. And the Scroll Craft skill,
+
+00:06:32.680 --> 00:06:36.800
+that one's tremendous too. Why? Because the
+website I showed you a moment ago was actually
+
+00:06:36.800 --> 00:06:42.039
+built actively with Scroll Craft. You know
+how text comes in from the right and left
+
+00:06:42.039 --> 00:06:45.160
+as you scroll, that scroll
+behavior? That's done
+
+00:06:45.160 --> 00:06:50.240
+with this skill. It's an active skill you'll
+use especially on award-winning websites
+
+00:06:50.240 --> 00:06:54.080
+like the ones on Awwwards. I mean it for
+websites that won awards on Awwwards. These are
+
+00:06:54.080 --> 00:06:58.360
+the skills you keep asking me
+about. I use around 9 or 10 skills
+
+00:06:58.360 --> 00:07:02.160
+on average, and I'll show you these
+skills in two, even three different
+
+00:07:02.160 --> 00:07:05.639
+videos. Because if I show them in a single
+video, you won't really learn them,
+
+00:07:05.639 --> 00:07:10.759
+you'll memorize them, but I prefer
+to move forward by trying things and
+
+00:07:10.759 --> 00:07:14.000
+teaching you this way. Now let's
+get to our last skill and then
+
+00:07:14.000 --> 00:07:17.960
+build the project with Claude. They
+say the best is always saved for last,
+
+00:07:17.960 --> 00:07:21.720
+so that's why I wanted to save it
+for last in this video. Design DNA
+
+00:07:21.720 --> 00:07:26.520
+is a really good skill. Why do I say
+that? Because you ask me about this a lot
+
+00:07:26.520 --> 00:07:31.840
+in the comments. Say you liked a
+website and all you have is an image
+
+00:07:31.840 --> 00:07:36.280
+or a video. You want to send that
+image or video to an AI and have it
+
+00:07:36.280 --> 00:07:40.759
+analyze it. That's exactly what this
+skill does. When you send an image
+
+00:07:40.759 --> 00:07:45.680
+or a video, it first analyzes the
+website, and from that analysis,
+
+00:07:45.680 --> 00:07:50.240
+the font, the spacing, the
+visuals, the text, basically every
+
+00:07:50.240 --> 00:07:54.680
+part of the website you can think of, it analyzes
+and thinks it through and builds the website
+
+00:07:54.680 --> 00:08:00.000
+with you. So it doesn't make a copy. Look, it
+analyzes with you and, taking inspiration,
+
+00:08:00.000 --> 00:08:03.360
+it can build a different website, or it
+can build the same one. That entirely
+
+00:08:03.360 --> 00:08:08.400
+depends on your prompt. But the most important
+thing is that it analyzes. I emphasize this
+
+00:08:08.400 --> 00:08:12.560
+in all my videos, and that it builds the
+project by thinking from scratch. That's exactly
+
+00:08:12.560 --> 00:08:17.440
+what this skill does, and
+actually a lot of people use this
+
+00:08:17.440 --> 00:08:22.280
+in projects, but YouTubers usually
+recommend the basic skills, and all
+
+00:08:22.280 --> 00:08:25.520
+websites started to look alike.
+That's why I wanted to step in
+
+00:08:25.520 --> 00:08:29.159
+and tell you about these skills.
+Now you can download these four
+
+00:08:29.159 --> 00:08:32.560
+skills to your computer
+and use them actively
+
+00:08:32.560 --> 00:08:37.120
+in your projects, and they'll be really
+useful to you. I think you'll be
+
+00:08:37.120 --> 00:08:41.479
+thanking me. In the next video, I'll
+cover different skills too. They'll also
+
+00:08:41.479 --> 00:08:45.880
+be very useful to you. Now let's go
+back to Claude and build the website
+
+00:08:45.880 --> 00:08:50.080
+from scratch. Before sending the prompt,
+I want to show it to you on screen
+
+00:08:50.080 --> 00:08:53.600
+now. You can see it in both Turkish
+and English. And I'll leave it
+
+00:08:53.600 --> 00:08:57.600
+below. You can build
+scroll-triggered websites too. But
+
+00:08:57.600 --> 00:09:01.600
+remember, you need to have a
+video. So create a video like
+
+00:09:01.600 --> 00:09:06.959
+this. You can actually create it with
+any AI tool. I used Seedance 2.5.
+
+00:09:06.959 --> 00:09:11.839
+For scroll-triggered websites like this,
+I recommend building them with Seedance
+
+00:09:11.839 --> 00:09:16.680
+2.5. It's a very powerful model, and if
+you're wondering how to generate it,
+
+00:09:16.680 --> 00:09:20.200
+I actually explained it in my
+previous video. You can watch that
+
+00:09:20.200 --> 00:09:26.120
+in detail. If you noticed, in the first part
+of the prompt, my first sentences say it needs
+
+00:09:26.120 --> 00:09:29.839
+to actively use these four
+skills. You don't have to
+
+00:09:29.839 --> 00:09:33.600
+say this, because you've already installed
+them as skills, but if you do, it's to your
+
+00:09:33.600 --> 00:09:37.480
+benefit, because you're reminding
+Claude. You're dealing with an
+
+00:09:37.480 --> 00:09:42.399
+AI tool, and it works entirely
+according to how you direct it.
+
+00:09:42.399 --> 00:09:46.680
+I wanted to emphasize that. After
+that, I say it should take the pe page
+
+00:09:46.680 --> 00:09:50.399
+as an example. Look, I'm saying
+it should take inspiration, not
+
+00:09:50.399 --> 00:09:54.079
+make a copy. The design
+skill here is exactly
+
+00:09:54.079 --> 00:09:57.720
+what comes into play here. Taking inspiration
+from the peer page, thinking about how
+
+00:09:57.720 --> 00:10:02.839
+it was built, analyzing it, it will
+create a project for us from scratch. And
+
+00:10:02.839 --> 00:10:08.000
+you know me, I usually write
+technically in my prompts.
+
+00:10:08.000 --> 00:10:12.320
+I mean I put code in, but look,
+I didn't put any code here.
+
+00:10:12.320 --> 00:10:16.519
+I wanted to mention that in case some of
+you know me from other videos. So here
+
+00:10:16.519 --> 00:10:22.519
+I'm just saying "do this." Triggered by
+scroll behavior, with a video that moves
+
+00:10:22.519 --> 00:10:28.279
+as you scroll, and then text
+related to the scene appearing,
+
+00:10:28.279 --> 00:10:33.160
+and with that, I told it to create
+a seamless flow. If you noticed,
+
+00:10:33.160 --> 00:10:36.480
+the skills will really do all of
+this. I wanted to show you this
+
+00:10:36.480 --> 00:10:40.760
+in detail. Now, I'm using
+Fable 5 as the model. You
+
+00:10:40.760 --> 00:10:45.279
+can use Opus too, but the flow here is
+very important. Having it move as you
+
+00:10:45.279 --> 00:10:50.079
+scroll is a bit tricky. That's why I wanted
+to use a powerful model. Opus does it
+
+00:10:50.079 --> 00:10:53.959
+quite well too, by the
+way. Now I'm sending this,
+
+00:10:53.959 --> 00:10:58.000
+and we'll look at the result together
+shortly. To help you see the project better,
+
+00:10:58.000 --> 00:11:01.800
+I moved myself to the left. Because
+when you see the part where it changed
+
+00:11:01.800 --> 00:11:05.839
+the design in a moment, you'll be surprised. It
+really made a beautiful design. It used the skills
+
+00:11:05.839 --> 00:11:10.399
+correctly. By the way, I forgot to say
+this at the beginning. This design, this
+
+00:11:10.399 --> 00:11:14.279
+website works on all devices.
+Mobile devices, tablets,
+
+00:11:14.279 --> 00:11:19.040
+desktops and large screens. I forgot to
+mention that, but it's in the prompt
+
+00:11:19.040 --> 00:11:23.480
+anyway. Responsive, meaning I told it
+to make it work on all devices, and
+
+00:11:23.480 --> 00:11:26.880
+when it used the skills, it had
+to build on that basis anyway.
+
+00:11:26.880 --> 00:11:32.040
+It's already in the skills. Now
+I'm dying to show you the result.
+
+00:11:32.040 --> 00:11:35.519
+Now we're greeted by the same screen as the
+previous website. Which is perfectly normal. We
+
+00:11:35.519 --> 00:11:40.040
+gave it a video, and it brings in
+text by moving the video. But now
+
+00:11:40.040 --> 00:11:44.320
+you'll see in a moment where
+it changed the designs. As I
+
+00:11:44.320 --> 00:11:48.240
+scroll, we go inside the world, and
+look, we see the first thing it changed
+
+00:11:48.240 --> 00:11:53.240
+on the side. In the previous design I
+had used a line on the right side, but
+
+00:11:53.240 --> 00:11:57.600
+here it used a circle, and
+using a circle makes much more
+
+00:11:57.600 --> 00:12:03.240
+sense design-wise. Because there are circular
+lines here. If you noticed. And using
+
+00:12:03.240 --> 00:12:08.200
+a circle here actually creates
+unity. And as I scroll,
+
+00:12:08.200 --> 00:12:14.160
+look, the scenes move smoothly, and bam,
+this part is really good. Why? When we
+
+00:12:14.160 --> 00:12:20.560
+scrolled on the previous website, we were
+actually still on a website with a blue
+
+00:12:20.560 --> 00:12:26.040
+background. But using
+white here doesn't strain
+
+00:12:26.040 --> 00:12:30.560
+our eyes. Why? Because there's too much blue.
+Blue and yellow. Switching straight to white
+
+00:12:30.560 --> 00:12:36.160
+here focuses my attention, and
+it's more like a minimal design
+
+00:12:36.160 --> 00:12:40.760
+now. Even though the top is
+dynamic. So I really liked this
+
+00:12:40.760 --> 00:12:47.199
+choice in that respect, and look, the text
+font, even down to the copy button there,
+
+00:12:47.199 --> 00:12:52.880
+even the color of that copy button,
+it made it connected to that. I
+
+00:12:52.880 --> 00:12:56.639
+didn't give it that. Normally I
+write these out at length in prompts,
+
+00:12:56.639 --> 00:13:01.079
+as you know, but by adding the right skills
+like this, we can build award-winning
+
+00:13:01.079 --> 00:13:05.959
+websites like this. Of course,
+I didn't create this video
+
+00:13:05.959 --> 00:13:10.040
+from scratch. As you know, I took inspiration.
+So to be able to do these things,
+
+00:13:10.040 --> 00:13:13.600
+you need to keep improving your
+skills constantly. Of course,
+
+00:13:13.600 --> 00:13:19.519
+just using AI well doesn't produce
+results like this right away. Now I'm
+
+00:13:19.519 --> 00:13:23.120
+scrolling. Look, it's really nice that
+the text here comes in too. It appears
+
+00:13:23.120 --> 00:13:28.839
+as I scroll. That's correct, but when you
+scroll down, the text disappears. It made a
+
+00:13:28.839 --> 00:13:34.279
+mistake here, but a very simple one.
+If you take a screenshot of this and
+
+00:13:34.279 --> 00:13:38.199
+say "fix this," like "don't
+let it disappear when I
+
+00:13:38.199 --> 00:13:42.920
+scroll," it won't disappear.
+So it's a very simple mistake.
+
+00:13:42.920 --> 00:13:49.320
+Nothing that breaks the flow. I liked this
+part. Why? Look, it picked very striking
+
+00:13:49.320 --> 00:13:53.920
+visuals. I didn't give it these. By the way,
+it decided on its own from inside the video
+
+00:13:53.920 --> 00:13:58.440
+and picked the most striking, most
+important scenes. That transition there,
+
+00:13:58.440 --> 00:14:03.600
+look, her walking off holding the fabric like
+that and so on, those were the most important
+
+00:14:03.600 --> 00:14:08.279
+scenes. So it's great that it picked
+those correctly, and using the full screen
+
+00:14:08.279 --> 00:14:15.040
+is good. At the very end, this is the footer. Using the
+footer full-screen like this too, along with the intro,
+
+00:14:15.040 --> 00:14:19.639
+makes sense. It keeps a sense of unity.
+That's actually important too. Also,
+
+00:14:19.639 --> 00:14:24.040
+look, I want to show you the mobile
+version. I almost forgot that just now.
+
+00:14:24.040 --> 00:14:29.440
+Now I've switched to iPhone 14 Pro Max and
+refreshed the page. By the way, you can change
+
+00:14:29.440 --> 00:14:33.680
+the intro here. Like, you can say
+"don't start from here, start a bit
+
+00:14:33.680 --> 00:14:37.399
+closer to the woman." Here it
+just started from the left side
+
+00:14:37.399 --> 00:14:41.320
+of the video. So you can fix all
+of these by prompting, but this
+
+00:14:41.320 --> 00:14:46.279
+isn't a wrong design either. It just
+chose it that way. Now I'm scrolling.
+
+00:14:46.279 --> 00:14:51.399
+Look, it's the same again. We go inside
+it. The curtain comes. Look, it even
+
+00:14:51.399 --> 00:14:56.519
+shrank the circle here.
+Look, it will still
+
+00:14:56.519 --> 00:15:00.759
+look like this on mobile phones
+too, on all devices. Look,
+
+00:15:00.759 --> 00:15:04.399
+this part is quite good too. You could
+even center this, but even this view
+
+00:15:04.399 --> 00:15:08.519
+isn't wrong. For example, you could make
+this heading bigger. You could move it
+
+00:15:08.519 --> 00:15:12.839
+higher up, there are many things
+like that. And this is the footer,
+
+00:15:12.839 --> 00:15:17.079
+so it's mobile-friendly. You ask
+me a lot in the comments: okay,
+
+00:15:17.079 --> 00:15:21.240
+we build websites like this, but are they
+compatible with all devices? Yes, I pay
+
+00:15:21.240 --> 00:15:25.560
+a lot of attention to this in all my
+projects. I try to build them to work
+
+00:15:25.560 --> 00:15:31.240
+on all devices, so the user can use them
+
+00:15:31.240 --> 00:15:35.360
+without any problems. I'm really happy with the result.
+As soon as I saw the site, I said I have to build this
+
+00:15:35.360 --> 00:15:38.600
+right away and tell you about it on
+YouTube. Because you also love different
+
+00:15:38.600 --> 00:15:43.240
+designs, from what I gather from
+the comments. If you also see
+
+00:15:43.240 --> 00:15:47.279
+websites like this and like them, you can
+write to me in the comments. Like "Yıldız,
+
+00:15:47.279 --> 00:15:51.680
+I saw a website like this,
+how could we build it?"
+
+00:15:51.680 --> 00:15:55.120
+I'll definitely consider it. By the
+way, I'll keep going with Claude
+
+00:15:55.120 --> 00:15:57.959
+skills. I use many other different
+skills. I'll show you those
+
+00:15:57.959 --> 00:16:02.399
+too, but I wanted to show them project
+by project. Because here's the thing.
+
+00:16:02.399 --> 00:16:06.839
+If I explained 10 skills here one after
+another, they wouldn't stick in your mind. But
+
+00:16:06.839 --> 00:16:11.480
+when we use them project by project like
+this, if you've noticed, they settle in your
+
+00:16:11.480 --> 00:16:15.959
+head better. So I try to teach
+you the way I learn myself. That's
+
+00:16:15.959 --> 00:16:19.240
+why I show you step by step. I don't
+cover it in a single video. Now
+
+00:16:19.240 --> 00:16:22.959
+in the next videos I'll cover
+the other skills I use, and
+
+00:16:22.959 --> 00:16:26.120
+I'll do it in a different
+project. Thank you so much
+
+00:16:26.120 --> 00:16:29.800
+for watching. I'm really curious about
+your comments, and as you know, you can
+
+00:16:29.800 --> 00:16:33.480
+comment in whatever language you
+like. I actively reply to comments.
+
+00:16:33.480 --> 00:16:37.880
+What I mean by "you can comment in
+whatever language you like" is this: our
+
+00:16:37.880 --> 00:16:41.560
+videos are actually watched not just in
+Turkey but in many different countries,
+
+00:16:41.560 --> 00:16:45.680
+and from what I see in YouTube Analytics,
+we've reached more than 50 countries, and
+
+00:16:45.680 --> 00:16:49.360
+I'm really happy about that. If you're not
+subscribed to the channel, don't forget
+
+00:16:49.360 --> 00:16:52.920
+to subscribe. I'd be very happy to see
+you among us. If you're not subscribed
+
+00:16:52.920 --> 00:16:56.279
+to the channel, don't forget to subscribe, and
+if you liked the video, don't forget to hit
+
+00:16:56.279 --> 00:16:59.920
+the like button. Thank
+you again for listening.
+
+00:16:59.920 --> 00:17:04.319
+See you in the next videos. Goodbye.
+

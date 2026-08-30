@@ -1,6 +1,6 @@
 # Mandatory Reference Corpus
 
-This is the installed skill's complete written design evidence and must be read on every invocation together with [visual-reference-manifest.md](visual-reference-manifest.md). Every reference contains observed mechanisms, sequence/story notes, motion logic, polish criteria, anti-pattern lessons, build implications, limitations, and Filipe's stated preference. The paired archive contains 393 chronological frames across all 15 sources. Written chronology and visual evidence are jointly authoritative for recognizing a named website or video without asking Filipe to re-explain material already captured here.
+This is the installed skill's complete written evidence and must be read on every invocation with [visual-reference-manifest.md](visual-reference-manifest.md) and [process-reference-manifest.md](process-reference-manifest.md). Website records pair with 321 chronological visual-taste frames. Video records pair with four full timestamped transcripts and optional demonstration frames. This separation recognizes named sources without confusing production instruction with aesthetic authority.
 
 Use the transferable mechanism and judgment; reject recognizable surface identity. Current explicit project facts remain authoritative for the subject. This corpus—not generic model taste—determines what counts as coherent, immersive, polished, gimmicky, feasible, and worthy of further development.
 
@@ -19,10 +19,10 @@ Use the transferable mechanism and judgment; reject recognizable surface identit
 | haoqi.design | Website | Yes | Home + all 6 internal project pages + theme/sound/protected states | `site-haoqi` · 17 frames | Complete |
 | rideradian.com | Website | Yes | Homepage, drawn path, configurator states | `site-ride-radian` · 15 frames | Detailed capture complete |
 | pear.no | Website + video companion | Yes | All chapters + menu + application/FAQ states | `site-pear` · 35 frames | Website and companion-video cross-reference complete |
-| QUI6Ug4cHnE | Video | Yes | n/a | `video-QUI6Ug4cHnE` · 22 frames | Full transcript and in-app visual pass complete; commercial and creator promotion excluded |
-| 39IlNR-P3-Q | Video | Yes | n/a | `video-39IlNR-P3-Q` · 23 frames | Full transcript and in-app visual pass complete; pre-roll commercial and outro excluded |
-| GJxchJkk4Lk | Video | Yes | n/a | `video-GJxchJkk4Lk` · 9 frames | Complete transcript + in-app visual inspection; Hostinger commercial excluded |
-| ubH1ulaK-t4 | Video | Yes | n/a | `video-ubH1ulaK-t4` · 18 frames | Complete transcript + targeted in-app visual inspection; sponsor/provider promotion excluded |
+| QUI6Ug4cHnE | Video process | Yes | n/a | Full transcript + 22 demonstration frames | Commercial and creator promotion excluded |
+| 39IlNR-P3-Q | Video process | Yes | n/a | Full transcript + 23 demonstration frames | Pre-roll commercial and outro excluded |
+| GJxchJkk4Lk | Video process | Yes | n/a | Full transcript + 9 demonstration frames | Hostinger commercial excluded |
+| ubH1ulaK-t4 | Video process | Yes | n/a | Full transcript + 18 demonstration frames | Sponsor/provider promotion excluded |
 
 ## Current-batch curation dispositions
 

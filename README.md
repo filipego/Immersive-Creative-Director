@@ -44,16 +44,22 @@ Immersive-Creative-Director/
         ├── scripts/
         │   ├── validate_experience_contract.py
         │   ├── validate_previsualization.py
+        │   ├── validate_process_corpus.py
         │   └── validate_visual_corpus.py
         ├── assets/
-        │   └── reference-corpus/
+        │   ├── visual-taste-corpus/
+        │   │   ├── manifest.json
+        │   │   ├── overviews/       # 11 website overview sheets
+        │   │   └── frames/          # 321 chronological website captures
+        │   └── process-corpus/
         │       ├── manifest.json
-        │       ├── corpus-overview.jpg
-        │       ├── overviews/       # one overview sheet per source
-        │       └── frames/          # 393 chronological captures
+        │       ├── transcripts/     # four full timestamped video transcripts
+        │       ├── overviews/       # secondary demonstration sheets
+        │       └── frames/          # 72 secondary demonstration captures
         └── references/
             ├── evidence-library.md
             ├── previsualization.md
+            ├── process-reference-manifest.md
             ├── reference-corpus.md
             ├── visual-reference-manifest.md
             └── ...
@@ -160,9 +166,9 @@ Unavailable optional skills are reported rather than silently imitated or instal
 
 ## Provenance
 
-The skill was developed from a curated corpus of award-winning websites, educational videos, explicit creative preferences, production decisions, and matched RED/GREEN behavioral scenarios. The installed package contains the detailed written corpus, distilled operating judgment, and a machine-validated visual archive of 393 chronological captures across all 15 sources. Each source has an overview sheet; every frame is indexed by source, capture action, timestamp, checksum, and evidence record. References are evidence for transferable mechanisms and quality—not a catalog of surfaces to copy.
+The skill was developed from a curated corpus of award-winning websites, educational videos, explicit creative preferences, production decisions, and matched RED/GREEN behavioral scenarios. Its evidence is deliberately split: eleven websites supply the visual-taste authority through 321 chronological captures, while four educational videos supply production-method authority through complete timestamped transcripts and distilled process records.
 
-The visual archive is mandatory runtime evidence. On every invocation, the skill validates the archive, inspects all 15 overview sheets, and records a Visual Grounding Ledger before design questions or judgments. A selected or user-named reference also triggers chronological inspection of its detailed frames. If the images cannot be loaded, the design phase blocks rather than falling back to generic model taste.
+On every invocation, the skill validates both corpora, inspects all eleven website overview sheets, completes a Visual Grounding Ledger, and completes a four-row Process Evidence Ledger. A selected website triggers chronological frame inspection; a named video or activated production branch triggers its full transcript. Video frames are retained only as secondary demonstration evidence and have no visual-taste authority. Every website URL is stored in the manifests so Codex can reopen the live site in the in-app Browser when Filipe asks it to inspect actual animation or scroll behavior.
 
 ## License
 

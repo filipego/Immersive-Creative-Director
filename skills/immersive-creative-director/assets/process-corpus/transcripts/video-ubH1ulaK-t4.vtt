@@ -1,0 +1,1024 @@
+WEBVTT
+Kind: captions
+Language: en-US
+
+00:00:00.220 --> 00:00:04.047
+This website that you're seeing on screen has been built by AI end-to-end.
+
+00:00:04.047 --> 00:00:08.114
+I used Claude Code and Higgs Fields MCP to build this.
+
+00:00:08.300 --> 00:00:12.248
+I did not write a single line of code. I did not do any 3D modeling.
+
+00:00:12.462 --> 00:00:15.539
+I did not animate anything frame by frame.
+
+00:00:15.876 --> 00:00:20.595
+Can you believe it? And the best part is that this process is extremely straightforward.
+
+00:00:20.839 --> 00:00:24.548
+Anyone can use that to build a cinematic website like this.
+
+00:00:24.751 --> 00:00:28.927
+So if you want to build a website that not only looks premium but also feels
+
+00:00:28.927 --> 00:00:31.508
+premium, watch this video till the very end.
+
+00:00:31.729 --> 00:00:36.965
+I'm going to share the exact prompts that I use for free in the description of this video.
+
+00:00:37.075 --> 00:00:43.356
+And I bet no video on the internet currently teaches you how to build a cinematic website so easily.
+
+00:00:43.554 --> 00:00:47.417
+So if you're ready, let's get started. So in this video, we're first going to
+
+00:00:47.417 --> 00:00:51.629
+set up plot code and connect it to Higgspil's MCP.
+
+00:00:52.024 --> 00:00:55.937
+After that, I'm going to show you how, in just a few prompts,
+
+00:00:56.192 --> 00:00:57.996
+you can build this website.
+
+00:00:58.263 --> 00:01:02.255
+Those prompts are going to be highly customizable. You will be able to change
+
+00:01:02.255 --> 00:01:06.535
+certain parts of that prompt so that you can adapt it for your use case.
+
+00:01:06.535 --> 00:01:10.337
+For those of you who are new to this channel, hi, my name is Yashika Jain.
+
+00:01:10.587 --> 00:01:14.495
+I'm the founder of Automates AI, wherein we're helping businesses automate their
+
+00:01:14.495 --> 00:01:16.253
+manual processes using AI.
+
+00:01:16.427 --> 00:01:20.293
+To get more details, check out our agency's website, link in the description.
+
+00:01:20.519 --> 00:01:26.575
+And on this channel, I cover how AI can be used in the real world, not that hype.
+
+00:01:26.575 --> 00:01:31.465
+I tell you how you can use it for your own personal work at your job or how
+
+00:01:31.465 --> 00:01:34.895
+you can sell it to other businesses. So if you are interested,
+
+00:01:34.895 --> 00:01:38.248
+do not forget to subscribe to the channel. It is free to subscribe.
+
+00:01:38.451 --> 00:01:42.825
+And thanks to Hicksfield for sponsoring this video. So first things first,
+
+00:01:42.825 --> 00:01:44.540
+let's set up Claude Code.
+
+00:01:44.854 --> 00:01:47.945
+Now Claude Code is an AI coding assistant by Claude.
+
+00:01:47.945 --> 00:01:52.645
+But if you haven't set up Claude code yet, let me quickly show you how you can do that.
+
+00:01:52.645 --> 00:01:56.515
+But if you already have Claude code set up, maybe you're using it from the terminal,
+
+00:01:56.515 --> 00:02:01.175
+maybe you've downloaded it, you're using it from the web or from wherever, it's completely fine.
+
+00:02:01.175 --> 00:02:05.135
+You can follow along. But for the new people, I would recommend the way I am
+
+00:02:05.135 --> 00:02:09.505
+using Claude code so that it's easier for you and it's not overwhelming for you.
+
+00:02:09.505 --> 00:02:14.285
+So essentially I use Claude code inside of VS code. So that is the environment
+
+00:02:14.285 --> 00:02:18.355
+that I prefer because it keeps everything organized for me. So all you have
+
+00:02:18.355 --> 00:02:23.229
+to do is you have to search for VS Code or Visual Studio Code and download.
+
+00:02:23.549 --> 00:02:27.861
+It's a code editor and it's free to download. And Cloud Code would be living
+
+00:02:27.861 --> 00:02:29.899
+inside of Visual Studio Code.
+
+00:02:30.097 --> 00:02:33.899
+Once you have installed Visual Studio Code, click on Open.
+
+00:02:34.038 --> 00:02:37.921
+Create a new folder, give it a name, whatever you feel like,
+
+00:02:37.921 --> 00:02:41.393
+whatever you're comfortable with, and click on Create and then Open.
+
+00:02:41.556 --> 00:02:46.451
+That is going to open a fresh workspace in front of you so that any code files
+
+00:02:46.451 --> 00:02:50.188
+that we generate throughout the process, any images videos assets
+
+00:02:50.495 --> 00:02:55.021
+all of them are organized in this one folder on your system then you simply
+
+00:02:55.021 --> 00:02:59.721
+have to go to extensions and search for cloud code and then install the verified
+
+00:02:59.721 --> 00:03:02.184
+one by anthropic this one right here
+
+00:03:02.446 --> 00:03:08.448
+so either install or enable it after that you'll spot the clouds icon at the top here click on it
+
+00:03:08.773 --> 00:03:12.851
+cloud code should open up if you're using it for the first time simply sign
+
+00:03:12.851 --> 00:03:17.173
+into your cloud account now a lot of people ask me in the comments which plan should i use
+
+00:03:17.510 --> 00:03:23.471
+so Claude code is available in all paid plans by Claude so starting from pro,
+
+00:03:23.931 --> 00:03:28.313
+all the way to max so in the pro plan you're going to get a little less usage
+
+00:03:28.586 --> 00:03:32.481
+you might hit session limits and you might have to wait for like five hours
+
+00:03:32.829 --> 00:03:38.301
+before the session limit resets but in case of max you get enough usage to build
+
+00:03:38.301 --> 00:03:42.866
+it in one sitting but in case of pro you might have to take multiple settings but again.
+
+00:03:43.417 --> 00:03:47.690
+It really depends on your budget and if you're okay with this approach or not
+
+00:03:48.067 --> 00:03:52.719
+so all i had to say was it is available on all paid plans by claude choose whichever
+
+00:03:52.719 --> 00:03:56.589
+one you want all right so claude code setup do one thing switch the model to,
+
+00:03:57.079 --> 00:04:02.596
+office better if you can do fable but still let's go with office at least
+
+00:04:02.967 --> 00:04:08.290
+and then you can either choose the effort level as high or extra high depends on you
+
+00:04:08.645 --> 00:04:12.847
+extra high is going to take a little more time and a little more tokens
+
+00:04:13.143 --> 00:04:17.199
+even the high effort level could work let's not go with medium or low because
+
+00:04:17.199 --> 00:04:18.472
+we're literally designing
+
+00:04:18.687 --> 00:04:22.689
+scrolling animations so those are the settings we will be on throughout this
+
+00:04:22.689 --> 00:04:27.309
+video and the next thing we have to do is install the hicks field mcp so here's
+
+00:04:27.309 --> 00:04:30.262
+what you need to understand we're not building a traditional website
+
+00:04:30.529 --> 00:04:35.504
+we're building a cinematic website where the product moves here and there, does things.
+
+00:04:35.800 --> 00:04:40.179
+And for that, we need to generate images and videos using AI.
+
+00:04:40.499 --> 00:04:44.397
+Claude currently cannot generate AI images or videos.
+
+00:04:44.537 --> 00:04:50.115
+So what is the solution? The solution is to use the top AI image and video models
+
+00:04:50.278 --> 00:04:52.599
+like GPD Image 2, Nano Banana Pro,
+
+00:04:52.959 --> 00:05:01.144
+video models like Seedance 2.5, 2.0 or Clang or Rio 3.1 to generate these scenes for your website.
+
+00:05:01.277 --> 00:05:05.074
+In my website's case, it could be the scenes where the speaker is moving,
+
+00:05:05.358 --> 00:05:09.539
+let's say, from one place to the other, or it's revealing itself, etc.
+
+00:05:10.099 --> 00:05:16.109
+You get the point. And Hicksfield is a platform that gives you access to these leading AI models.
+
+00:05:16.109 --> 00:05:19.419
+From just one platform, you can access all of them.
+
+00:05:19.419 --> 00:05:23.769
+So previously, you would have to manually come in here to generate the images
+
+00:05:23.769 --> 00:05:28.409
+and videos by giving it a prompt and then waiting for the generation to complete.
+
+00:05:28.409 --> 00:05:33.359
+But thanks to Hicksfield's MCP, you can now connect it directly to your AI assistant.
+
+00:05:33.359 --> 00:05:37.965
+Maybe Claude, ChatGPD, Claude, Code, Curso, whichever one you prefer.
+
+00:05:38.342 --> 00:05:42.781
+You simply can connect it to Higgs field. And we are going to do exactly that.
+
+00:05:42.781 --> 00:05:46.901
+We are going to connect it to Plot Code so that it automatically writes the
+
+00:05:46.901 --> 00:05:50.751
+prompts, generates the images and videos and saves them for us.
+
+00:05:50.751 --> 00:05:53.527
+Trust me, it's going to take a lot of headache away from you.
+
+00:05:53.741 --> 00:05:58.606
+So head over to the first link in the description, which will take you to this page.
+
+00:05:58.740 --> 00:06:03.771
+Make sure you create an account on Higgs field and top it up with some credits
+
+00:06:03.771 --> 00:06:06.002
+because generating images and videos.
+
+00:06:06.321 --> 00:06:12.400
+Consume credits once you're all set come over to Claude code and copy this particular
+
+00:06:12.400 --> 00:06:16.305
+prompt then here inside Claude code simply paste it
+
+00:06:16.596 --> 00:06:21.300
+and send it over during this process Claude code is going to ask you to sign
+
+00:06:21.300 --> 00:06:22.882
+into your Higgs field account
+
+00:06:23.167 --> 00:06:26.460
+it's going to open up the sign-in page inside your browser so simply sign in
+
+00:06:26.460 --> 00:06:30.430
+with the account you just now created and then give it the required permissions
+
+00:06:30.430 --> 00:06:35.067
+and that is how easy it was to connect Claude code to Higgs field via its MCP.
+
+00:06:35.369 --> 00:06:40.010
+As a bonus, it has also installed skills for Claude code, which is going to
+
+00:06:40.010 --> 00:06:43.165
+make it even better at these AI generations.
+
+00:06:43.275 --> 00:06:47.618
+So now simply open up a new chat, switch over to the auto mode.
+
+00:06:47.801 --> 00:06:53.629
+All right. So now to begin with, we are going to create a cinematic hero shot of our product.
+
+00:06:53.890 --> 00:06:57.890
+This is going to act as the visual reference for anything that we generate from
+
+00:06:57.890 --> 00:07:01.630
+now on. So we are basically collecting the assets before we start building the
+
+00:07:01.630 --> 00:07:05.160
+website. So here's the prompt that I'm going to send. You can find it in the
+
+00:07:05.160 --> 00:07:07.114
+description with the rest of the prompts.
+
+00:07:07.259 --> 00:07:13.080
+So I'm asking you to use Hicks field to create the hero product for this project.
+
+00:07:13.080 --> 00:07:18.184
+We are creating Sonora S1 which is a premium wireless speaker.
+
+00:07:18.289 --> 00:07:22.834
+Now because this is a hypothetical video for me, I have included the word fictional.
+
+00:07:23.148 --> 00:07:27.400
+Because I'm literally creating everything from scratch. So make sure you replace
+
+00:07:27.400 --> 00:07:29.173
+this with your product information.
+
+00:07:29.405 --> 00:07:35.510
+Also attach your product images with this prompt so that it can use them as references.
+
+00:07:35.510 --> 00:07:39.250
+So we're asking you to design it as a sculptural luxury object.
+
+00:07:39.250 --> 00:07:45.832
+Create a cinematic studio product render on a near black background with soft warm rim lighting.
+
+00:07:46.053 --> 00:07:50.053
+If you want to change this, you can. The product must look distinctive,
+
+00:07:50.354 --> 00:07:52.253
+generate one product only.
+
+00:07:52.647 --> 00:07:56.846
+This approved image is going to be the reference for future generations so do
+
+00:07:56.846 --> 00:08:01.306
+not create any additional versions so i'm going to repeat myself again if you're
+
+00:08:01.306 --> 00:08:07.496
+building it for a real product please attach the reference images it is going to use those and then
+
+00:08:07.796 --> 00:08:12.878
+turn it into a cinematic studio product render all right so i hope i'm clear
+
+00:08:13.034 --> 00:08:17.127
+so i'm going to send this and let's see what we get in the first go
+
+00:08:17.446 --> 00:08:21.636
+all right so claude code was able to generate an image with hicksfield's mcp.
+
+00:08:22.116 --> 00:08:26.589
+Very easily it used gpd image 2 and has saved it
+
+00:08:26.937 --> 00:08:31.546
+to our project so if you click here and then you go to assets you'll find the
+
+00:08:31.546 --> 00:08:36.556
+image right here that it generated so let's click on it so here's the image
+
+00:08:36.556 --> 00:08:38.676
+that it has generated again
+
+00:08:39.116 --> 00:08:43.096
+very realistic even if you're giving your own product images i'm pretty sure
+
+00:08:43.096 --> 00:08:48.490
+that the image that it generates would match your product but take it to the next level.
+
+00:08:48.722 --> 00:08:52.884
+All right, beautiful. So we have the name here, a nice texture.
+
+00:08:53.239 --> 00:08:57.140
+All right. So yes, let's go with this one. If you don't like it,
+
+00:08:57.354 --> 00:09:02.358
+you can always ask Claude to change things for you. This is going to be our visual reference.
+
+00:09:02.666 --> 00:09:06.526
+Basically anything and everything we generate from now on is going to depend on this one.
+
+00:09:06.689 --> 00:09:11.310
+So now let's move forward. We have got the product image and now it is time to generate.
+
+00:09:11.855 --> 00:09:16.730
+Key scenes for our website. So these will be essentially the visual moments
+
+00:09:16.946 --> 00:09:19.378
+through which the user is going to scroll.
+
+00:09:19.698 --> 00:09:24.618
+For example, product in the darkness, product fitting into a particular structure
+
+00:09:24.618 --> 00:09:29.340
+or product coming out of something. So these are the scenes that we will now be generating.
+
+00:09:29.613 --> 00:09:33.107
+So here's the prompt that I'm going to send. Again, you can copy it.
+
+00:09:33.380 --> 00:09:39.888
+So here I'm saying using the approved image use hicks field to create five cinematic
+
+00:09:39.888 --> 00:09:44.558
+frames and the ratio is going to be 16 is to 9 which is basically.
+
+00:09:44.958 --> 00:09:50.938
+A rectangle ratio all of these must feel like consecutive moments as if they're
+
+00:09:50.938 --> 00:09:54.948
+happening one after the other now this is the part where you can get creative
+
+00:09:54.948 --> 00:09:59.750
+from frame one to frame five you can change this based on your own creativity
+
+00:10:00.000 --> 00:10:01.921
+the one that i'm going with is that
+
+00:10:02.259 --> 00:10:05.131
+in the very first frame, I want to reveal the speaker.
+
+00:10:05.417 --> 00:10:10.861
+So it is going to come out of total darkness. All right. Then the second one is approach.
+
+00:10:11.024 --> 00:10:13.927
+So the speaker is going to move at a dynamic angle.
+
+00:10:14.111 --> 00:10:18.426
+The third one is dock. So it's going to fit into a circular structure.
+
+00:10:18.721 --> 00:10:22.318
+Then there's emerge where the speaker is coming through the other side of the
+
+00:10:22.318 --> 00:10:24.335
+structure towards the viewer.
+
+00:10:24.486 --> 00:10:29.198
+I'm not sure if you're able to visualize it, but the last one is then land wherein
+
+00:10:29.198 --> 00:10:34.204
+it lands into a pristine final hero composition. Then we have some rules here.
+
+00:10:34.330 --> 00:10:37.286
+No people, no text, no UI, nothing.
+
+00:10:37.482 --> 00:10:42.138
+Use the same product and generate each frame individually and save them.
+
+00:10:42.480 --> 00:10:47.066
+So here my approach is more of reveal, move it here, move it there.
+
+00:10:47.409 --> 00:10:52.187
+If you have some other approach, you can tell Claude, you can replace this whole
+
+00:10:52.187 --> 00:10:57.247
+part and you can also take the help of ChantGPD or Claude Chat to help you come
+
+00:10:57.247 --> 00:11:01.271
+up with these scenes basically, the key scenes of your website.
+
+00:11:01.439 --> 00:11:05.543
+So you will better understand what we're doing here once you see the images that it generates.
+
+00:11:05.741 --> 00:11:09.377
+So let me send this over. Okay, so it has generated all the five frames.
+
+00:11:09.377 --> 00:11:12.161
+Let's have a look. So this is frame number one.
+
+00:11:12.388 --> 00:11:17.217
+Okay, so this is basically emerging from the darkness or we can say reveal.
+
+00:11:17.617 --> 00:11:25.605
+Then here's another one okay okay then here's the dog okay emerge all right
+
+00:11:26.000 --> 00:11:31.187
+and land not bad you might not be able to visualize it much because it's quite
+
+00:11:31.187 --> 00:11:34.510
+static but once these turn into actual motions
+
+00:11:34.893 --> 00:11:38.895
+it's going to look really nice. So similarly, for your own use case,
+
+00:11:38.895 --> 00:11:46.066
+generate about five to eight different key scenes and generate them as images first.
+
+00:11:46.257 --> 00:11:50.025
+So the next prompt that we are going to send here, I think you might have guessed
+
+00:11:50.025 --> 00:11:55.385
+it, it is converting these images into motions. So generating the videos directly
+
+00:11:55.385 --> 00:11:59.005
+can degrade the quality and even the concept.
+
+00:11:59.173 --> 00:12:03.025
+So it's always better to generate the images first and then convert them into
+
+00:12:03.025 --> 00:12:06.915
+videos or motion and the other thing is during the videos we're also going to
+
+00:12:06.915 --> 00:12:10.095
+connect two different scenes so the second scene
+
+00:12:10.435 --> 00:12:14.165
+would be connected to the first one so let me show you the prompt you'll understand
+
+00:12:14.165 --> 00:12:18.765
+it in a better way so i'm telling it now use the five approved sonora scenes
+
+00:12:19.085 --> 00:12:25.005
+to create the cinematic motion between them with hicksfield mcp use each scene
+
+00:12:25.005 --> 00:12:28.233
+pair as the visual start and the end state so.
+
+00:12:28.575 --> 00:12:33.315
+So create four separate transition clips, not five, because we're pairing them.
+
+00:12:33.655 --> 00:12:36.889
+Then for each transition, we're giving a short description.
+
+00:12:37.131 --> 00:12:43.605
+For example, for scene one to two, the speaker slowly rotates and begins moving
+
+00:12:43.605 --> 00:12:47.853
+through the dark environment towards the circular structure.
+
+00:12:48.068 --> 00:12:50.993
+So it's going to be a pair between these two. Okay.
+
+00:12:51.278 --> 00:12:55.925
+Similarly, the instructions for the other transitions. For each transition,
+
+00:12:55.925 --> 00:12:58.476
+maintain the product. Don't change the product.
+
+00:12:58.633 --> 00:13:00.873
+No text, no people, no chaos.
+
+00:13:01.077 --> 00:13:05.405
+Generate each of them separately and save it. Now again, here as well,
+
+00:13:05.405 --> 00:13:08.594
+you can use your creativity to come up with these transitions.
+
+00:13:08.757 --> 00:13:13.425
+And you can always take help of ChantGPT or Claude. The last transition is basically
+
+00:13:13.425 --> 00:13:18.295
+the speaker is moving through the space, it rotates and then settles into the
+
+00:13:18.295 --> 00:13:19.896
+final hero composition.
+
+00:13:20.210 --> 00:13:24.053
+And in case you are using ChantGPT or Claude to help you come up with the transitions,
+
+00:13:24.320 --> 00:13:28.775
+make sure you send my prompt as a reference so that it gets an idea about what
+
+00:13:28.775 --> 00:13:32.377
+we're doing, about how we're pairing two different scenes.
+
+00:13:32.777 --> 00:13:37.729
+Okay so yeah let's send it okay so the transitions have been generated so it
+
+00:13:37.729 --> 00:13:42.580
+used c dance 2.0 which is an amazing model for video generation
+
+00:13:42.905 --> 00:13:48.369
+as of now and these are the four clips that has generated so let me take a look
+
+00:13:48.369 --> 00:13:51.955
+let me do this so that you can also see it so this is the very first one,
+
+00:13:58.869 --> 00:14:04.297
+okay but the part where it comes out of the circle is not quite clear I think,
+
+00:14:04.935 --> 00:14:09.769
+yeah this one um one can't tell if it's actually coming out of it or not okay
+
+00:14:09.769 --> 00:14:14.734
+let's check the second one you always have to check things in case you want to give any feedback,
+
+00:14:15.879 --> 00:14:17.699
+okay so this is going back in,
+
+00:14:19.918 --> 00:14:23.203
+okay this is perfect then here's another one,
+
+00:14:28.527 --> 00:14:31.563
+yes this works two and then the last one,
+
+00:14:36.240 --> 00:14:41.150
+okay now if you noticed all of these are connected so where one stops that is
+
+00:14:41.150 --> 00:14:44.924
+where the next one starts so we just need to give it feedback on the first one
+
+00:14:45.139 --> 00:14:50.290
+so i'm simply giving it my feedback and let's see what it says okay so claude has
+
+00:14:50.650 --> 00:14:54.178
+regenerated our first transition let's take a look.
+
+00:14:59.036 --> 00:15:03.870
+Okay better but still it's not coming out of the circle but you can still
+
+00:15:04.310 --> 00:15:09.490
+get a sense that okay it came from there but it's not explicitly coming out
+
+00:15:09.490 --> 00:15:14.071
+of the circle if you get what i mean okay claude says that this is the way it should be
+
+00:15:14.391 --> 00:15:19.550
+so appear and then travel toward and then the dock and then pass through it
+
+00:15:19.550 --> 00:15:26.080
+emerge and settle okay so as per claude this is exactly how it should be for this structure to work.
+
+00:15:26.080 --> 00:15:30.290
+So no problem, we can move forward with it. So now that we have all the assets
+
+00:15:30.290 --> 00:15:35.270
+that we need to generate the cinematic website, I think it's finally the time
+
+00:15:35.270 --> 00:15:38.880
+that we ask Claude to generate the first working draft.
+
+00:15:39.159 --> 00:15:43.280
+I want to see how these turn out in practice. Basically, when I'm scrolling,
+
+00:15:43.280 --> 00:15:45.044
+how does it move? How does it feel?
+
+00:15:45.237 --> 00:15:47.430
+So let's work on that next.
+
+00:15:47.664 --> 00:15:53.010
+Now, right now, Claude has generic information about how these scrolling animations are done.
+
+00:15:53.201 --> 00:15:56.422
+But how can I turn Claude into an expert at this?
+
+00:15:56.592 --> 00:16:02.240
+Basically scrolling animations so that they're clean and they look premium and doesn't look cheap.
+
+00:16:02.391 --> 00:16:06.430
+A great way to do that is by installing GSAP skills.
+
+00:16:06.604 --> 00:16:13.042
+So I found this skill on GitHub which basically teaches our AI coding agents how to correctly use.
+
+00:16:13.403 --> 00:16:19.992
+GSAP, scrolling animations, scrolling triggers, etc, which is exactly what we want.
+
+00:16:20.125 --> 00:16:23.660
+You can install it. You don't need any third party services, nothing like that.
+
+00:16:23.904 --> 00:16:29.668
+And this is going to ensure that the scroll driven animations turn out to be clean and premium.
+
+00:16:29.812 --> 00:16:32.784
+So I'm going to include the link to this GitHub page in the description.
+
+00:16:33.005 --> 00:16:37.074
+If you want to take Claude a step further, you can install this. I'm going to do that.
+
+00:16:37.399 --> 00:16:42.257
+So simply copy this one command, head over to Claude, start a new and ask it
+
+00:16:42.257 --> 00:16:46.409
+to install these skills and then paste what you just now copied
+
+00:16:46.745 --> 00:16:52.638
+claude will take care of the rest okay and in no time all eight skills have been installed
+
+00:16:52.910 --> 00:16:56.507
+you know the main one is going to be the scroll trigger which teaches claude
+
+00:16:56.507 --> 00:17:00.712
+about scroll driven animation skills are a set of instructions
+
+00:17:00.979 --> 00:17:05.807
+that make claude really good at that particular task and whenever it is doing
+
+00:17:05.807 --> 00:17:10.827
+anything related to that task, it always refers to those instructions.
+
+00:17:10.827 --> 00:17:15.307
+Because no matter how good of a prompt we send, if Claw doesn't have the skills
+
+00:17:15.307 --> 00:17:18.394
+to implement that, it's going to turn out to be horrible.
+
+00:17:18.748 --> 00:17:22.986
+Okay, so just start a new chat after your skills have been installed.
+
+00:17:23.241 --> 00:17:27.624
+If you click on this forward slash, you'll be able to spot the skills right here.
+
+00:17:28.011 --> 00:17:31.847
+Beautiful. So now we're going to send a prompt to Claude, which is going to
+
+00:17:31.847 --> 00:17:36.753
+convert whatever we have done so far into a website that we can scroll through.
+
+00:17:37.009 --> 00:17:43.037
+So my starting line is use the installed GSAP skills as your implementation
+
+00:17:43.037 --> 00:17:46.757
+reference for all scroll and motion behavior.
+
+00:17:46.757 --> 00:17:51.317
+Then I'm telling it we already have the images and the videos and you need to
+
+00:17:51.317 --> 00:17:55.956
+build a first working draft of the website using these assets.
+
+00:17:56.183 --> 00:18:00.497
+So basically Hicksfield has done a great job and now it's Claude Codes job to
+
+00:18:00.497 --> 00:18:01.912
+turn that into a website.
+
+00:18:02.150 --> 00:18:04.240
+Then I'm giving it some more instructions.
+
+00:18:04.536 --> 00:18:07.166
+Then I'm telling it when a user scrolls through the website,
+
+00:18:07.351 --> 00:18:11.711
+a forward scroll should progress the video, backward should reverse it,
+
+00:18:11.949 --> 00:18:16.817
+stopping should stop the motion and the video should feel like a part of the
+
+00:18:16.817 --> 00:18:19.263
+website and not an embedded video player.
+
+00:18:19.408 --> 00:18:22.978
+One shouldn't even know that okay there's a video on the background.
+
+00:18:23.298 --> 00:18:28.877
+After that, I'm defining the page flow, wherein I'm also telling it what text to use, etc.
+
+00:18:29.583 --> 00:18:33.277
+So this is a part that you can be creative about and you can change whatever
+
+00:18:33.277 --> 00:18:37.983
+you feel like. So for the hero, I'm giving the text and I'm giving some instructions.
+
+00:18:38.204 --> 00:18:42.147
+Similarly, for each section, I'm giving instructions. For example,
+
+00:18:42.147 --> 00:18:50.493
+the next section tells the features about this speaker that has 24 hours battery, 360 spatial sound,
+
+00:18:51.004 --> 00:18:56.431
+so i'm telling it what all we want to include as a part of our website so feel free to change this
+
+00:18:56.774 --> 00:19:01.627
+however you want then the last one basically reveals the price and gives buttons
+
+00:19:01.952 --> 00:19:06.532
+to buy it then i'm talking a little bit about the visual direction what to avoid
+
+00:19:06.689 --> 00:19:09.209
+so that it doesn't look like ai slop
+
+00:19:09.569 --> 00:19:12.830
+do not make the entire website one pinned video,
+
+00:19:13.341 --> 00:19:18.559
+okay use normal scrolling between cinematic moments and because this is the
+
+00:19:18.559 --> 00:19:24.329
+first draft we don't want it to start working on other things like mobile responsiveness etc,
+
+00:19:25.002 --> 00:19:29.739
+let's wait on that let's first see what we're getting focus on the desktop make
+
+00:19:29.739 --> 00:19:34.329
+it visually coherent consistent make the scroll work make the typography
+
+00:19:34.749 --> 00:19:39.629
+field premium make the implementation simple okay so again you can use this
+
+00:19:39.629 --> 00:19:43.489
+prompt the major thing that you will have to change is the page flow.
+
+00:19:43.489 --> 00:19:47.914
+Apart from that, you can use whatever I have here. So let me send it through.
+
+00:19:48.269 --> 00:19:53.319
+And let's wait for the first draft. All right, so it has completed working and
+
+00:19:53.319 --> 00:19:56.018
+our website is live on this URL.
+
+00:19:56.297 --> 00:19:57.986
+So let's see what it has built.
+
+00:19:58.961 --> 00:20:00.366
+I'm quite excited by the way.
+
+00:20:03.565 --> 00:20:10.333
+Okay let's refresh nice let's scroll,
+
+00:20:14.345 --> 00:20:15.070
+okay.
+
+00:20:22.187 --> 00:20:26.858
+Okay nice all right,
+
+00:20:31.194 --> 00:20:32.065
+Amazing!
+
+00:20:34.213 --> 00:20:34.805
+Okay.
+
+00:20:37.272 --> 00:20:38.102
+Is there more?
+
+00:20:41.997 --> 00:20:47.013
+Beautiful! Let's go through it again. This time I'm gonna scroll a little faster. Okay.
+
+00:20:55.083 --> 00:21:02.089
+I like this nice this one is my favorite oh my god beautiful,
+
+00:21:05.590 --> 00:21:07.796
+i like how it goes like this and settles,
+
+00:21:11.459 --> 00:21:16.294
+beautiful gives that luxury vibe you know that you're purchasing the speaker,
+
+00:21:16.973 --> 00:21:23.338
+and if you go reverse then that is also working just fine beautiful and let's
+
+00:21:23.338 --> 00:21:27.444
+check these so sound okay takes you to this section,
+
+00:21:28.710 --> 00:21:34.370
+let's go to this one okay so it has a perfect mix of cinematography and then
+
+00:21:34.718 --> 00:21:37.557
+also telling the features of the speaker and,
+
+00:21:39.908 --> 00:21:42.352
+And these subtle micro interactions.
+
+00:21:46.090 --> 00:21:50.229
+And then the last one here. Awesome.
+
+00:21:52.313 --> 00:21:57.338
+To be honest, I don't want to change a thing, but the one thing I noticed is
+
+00:21:57.338 --> 00:22:03.853
+that it's using M dashes at some places like here. So we're going to get rid of that.
+
+00:22:04.184 --> 00:22:11.690
+That's the only thing I want to change. So please get rid of the end dashes.
+
+00:22:13.239 --> 00:22:17.064
+Again, if you have any feedback, just tell Claude.
+
+00:22:17.430 --> 00:22:22.445
+It's going to fix it for you. You can ask it. You can even regenerate certain
+
+00:22:22.445 --> 00:22:25.980
+sections, certain scenes. It's completely okay.
+
+00:22:26.316 --> 00:22:29.770
+And Claude is going to do that for you. I just like how it settles.
+
+00:22:30.624 --> 00:22:36.645
+Beautiful. I get really excited when the first draft comes out to be nice because
+
+00:22:36.645 --> 00:22:41.543
+then I know that I don't have to spend another several hours trying to perfect it.
+
+00:22:41.955 --> 00:22:46.275
+I'm pretty sure you know that feeling okay so let claude do that so while it's
+
+00:22:46.275 --> 00:22:48.996
+fixing that part here's another thing i want you to do,
+
+00:22:49.484 --> 00:22:54.735
+so the first round that we generated was for desktop so make sure you also ask
+
+00:22:54.735 --> 00:22:57.605
+claude to generate it for mobile tablet etc.
+
+00:22:58.540 --> 00:23:03.822
+And also right click inspect and then click on this icon,
+
+00:23:04.264 --> 00:23:10.515
+to see how this website is going to look let's say on an iphone 16 pro max
+
+00:23:10.928 --> 00:23:16.545
+right how this website is going to look on an ipad and if you find something
+
+00:23:16.545 --> 00:23:20.905
+is off or if you feel that the product is going out of the screen feel free
+
+00:23:20.905 --> 00:23:24.876
+to regenerate those transitions or those videos
+
+00:23:25.224 --> 00:23:29.584
+for that particular device okay i'm not going to cover all of that here because
+
+00:23:29.851 --> 00:23:33.490
+it's going to elongate the video and i'm pretty sure that you know the drill
+
+00:23:33.769 --> 00:23:35.656
+and you've got the science behind it.
+
+00:23:35.940 --> 00:23:38.796
+So make sure you make it responsive across different devices.
+
+00:23:39.092 --> 00:23:44.215
+Make sure that it's smooth and running easily so that for your customers it
+
+00:23:44.215 --> 00:23:46.610
+doesn't take five seconds to load.
+
+00:23:46.737 --> 00:23:50.203
+Check it on different devices before you take it live on the internet.
+
+00:23:50.464 --> 00:23:55.799
+That is my point basically. So do your part before you share it with your customers.
+
+00:23:56.037 --> 00:24:00.762
+And by the way Claude has removed all the m-dashes. So let's take a quick look.
+
+00:24:01.447 --> 00:24:04.274
+I wouldn't count this as an m-dash. It's more of a hyphen.
+
+00:24:05.425 --> 00:24:06.887
+Yeah, it did get rid of them.
+
+00:24:08.042 --> 00:24:12.091
+And just like that, we built our cinematic website. To be very honest,
+
+00:24:12.091 --> 00:24:16.501
+this wouldn't have been possible without Higgs Field. This combination between
+
+00:24:16.501 --> 00:24:21.636
+Higgs Field's MCP and Claude Code is what made all of this possible.
+
+00:24:21.775 --> 00:24:26.231
+Because you manually generating these videos and images and then coordinating
+
+00:24:26.231 --> 00:24:29.693
+with Claude Code could have taken you several hours.
+
+00:24:29.914 --> 00:24:34.711
+But if you just give Claude Kurt access to these AI models through Higgsfield's
+
+00:24:34.711 --> 00:24:39.101
+MCP, it takes a lot of work off from your plate. So I'll include the link to
+
+00:24:39.101 --> 00:24:42.052
+Higgsfield in the description, do not forget to use it.
+
+00:24:42.238 --> 00:24:46.027
+If you found this video valuable and if you were able to learn something new,
+
+00:24:46.301 --> 00:24:51.037
+do not forget to like this video and do subscribe to the channel for more content like this.
+
+00:24:51.195 --> 00:24:53.351
+If there's anything else you want me to cover in the future,
+
+00:24:53.351 --> 00:24:55.171
+feel free to let me know in the comments.
+
+00:24:55.171 --> 00:24:58.491
+Do not forget to check out the description of this video, you will find the
+
+00:24:58.491 --> 00:25:04.568
+prompts that i've used right there you can customize the prompts and use it for your own use case,
+
+00:25:05.016 --> 00:25:10.071
+this could even work for non-product websites you just send these prompts to
+
+00:25:10.071 --> 00:25:11.657
+chant gpd and it'll help you,
+
+00:25:12.104 --> 00:25:16.201
+customize them the reason why i'm saying chant gpd for prompt customization
+
+00:25:16.201 --> 00:25:20.191
+is because i personally feel that it generates better prompts and.
+
+00:25:20.671 --> 00:25:25.641
+I personally use it the most verse cloud when it comes to prompts if you want
+
+00:25:25.641 --> 00:25:30.179
+to work with me and my team you'll find the link to our agency's website in the description.
+
+00:25:30.539 --> 00:25:34.730
+We can help you with external AI implementations that face your customer.
+
+00:25:34.904 --> 00:25:40.454
+A major example could be customer support and obviously help you automate your internal processes.
+
+00:25:40.639 --> 00:25:43.995
+You'll also find the link to my paid consulting calendar in the description.
+
+00:25:44.233 --> 00:25:48.134
+If you want to connect with me personally, you can send me a connection request on LinkedIn.
+
+00:25:48.447 --> 00:25:53.241
+Do not forget to follow me on X and LinkedIn for some more exclusive content
+
+00:25:53.241 --> 00:25:56.423
+from my site. So yeah, that is pretty much it for this video.
+
+00:25:56.655 --> 00:25:59.813
+I will meet you in the next one. Till then, bye!
+

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-"""Validate the mandatory visual-reference corpus packaged with the skill."""
+"""Validate the mandatory website visual-taste corpus packaged with the skill."""
 
 import argparse
 import hashlib
@@ -21,10 +21,6 @@ EXPECTED_COUNTS = {
     "site-haoqi": 17,
     "site-ride-radian": 15,
     "site-pear": 35,
-    "video-QUI6Ug4cHnE": 22,
-    "video-39IlNR-P3-Q": 23,
-    "video-GJxchJkk4Lk": 9,
-    "video-ubH1ulaK-t4": 18,
 }
 
 
@@ -38,7 +34,7 @@ def jpeg_is_complete(path):
 
 def validate(skill_root):
     errors = []
-    corpus_root = skill_root / "assets" / "reference-corpus"
+    corpus_root = skill_root / "assets" / "visual-taste-corpus"
     manifest_path = corpus_root / "manifest.json"
     if not manifest_path.is_file():
         return [f"missing manifest: {manifest_path}"]
@@ -94,17 +90,13 @@ def validate(skill_root):
         if not overview.is_file() or not jpeg_is_complete(overview):
             errors.append(f"{reference_id}: missing or undecodable overview {overview}")
 
-    if observed_total != 393 or manifest.get("frameCount") != 393:
+    if observed_total != 321 or manifest.get("frameCount") != 321:
         errors.append(
-            f"complete corpus must contain 393 frames; observed {observed_total}, "
+            f"website visual-taste corpus must contain 321 frames; observed {observed_total}, "
             f"manifest reports {manifest.get('frameCount')}"
         )
-    if len(observed_hashes) < 391:
+    if len(observed_hashes) < 319:
         errors.append(f"unexpected duplicate collapse: only {len(observed_hashes)} unique frame hashes")
-
-    master = corpus_root / "corpus-overview.jpg"
-    if not master.is_file() or not jpeg_is_complete(master):
-        errors.append("missing or undecodable corpus-overview.jpg")
 
     readable_manifest = skill_root / "references" / "visual-reference-manifest.md"
     if not readable_manifest.is_file():
@@ -129,7 +121,7 @@ def main():
         for error in errors:
             print(f"- {error}")
         return 1
-    print("Visual corpus valid: 15 references, 393 frames, 15 overview sheets.")
+    print("Visual taste corpus valid: 11 websites, 321 frames, 11 overview sheets.")
     return 0
 
 

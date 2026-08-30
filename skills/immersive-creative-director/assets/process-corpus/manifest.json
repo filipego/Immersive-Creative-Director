@@ -1,0 +1,720 @@
+{
+  "schemaVersion": 2,
+  "recoveredFrom": [
+    {
+      "label": "primary-reference-research-session",
+      "start": "2026-08-29T00:43:00.000Z",
+      "end": "2026-08-29T01:48:00.000Z"
+    },
+    {
+      "label": "still-first-video-follow-up-session",
+      "start": "2026-08-29T21:31:00.000Z",
+      "end": "2026-08-29T21:39:00.000Z"
+    }
+  ],
+  "generatedAt": "2026-08-30T04:01:39.913Z",
+  "frameCount": 72,
+  "references": [
+    {
+      "id": "video-QUI6Ug4cHnE",
+      "name": "Creative skill process video",
+      "source": "https://www.youtube.com/watch?v=QUI6Ug4cHnE",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/video-QUI6Ug4cHnE/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 154830,
+          "sha256": "32bab6700e670c6bfecaa8c1741745b95fdec837101e5b67259ddccb448d338d",
+          "capturedAt": "2026-08-29T01:33:54.959Z",
+          "captureTitle": "Open the first tutorial in the in-app YouTube player"
+        },
+        {
+          "index": 2,
+          "file": "frames/video-QUI6Ug4cHnE/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 176443,
+          "sha256": "33324b4c8cad8a1529cc144dabb64cc430feabd6259d5ab43c4206efa2cf59d5",
+          "capturedAt": "2026-08-29T01:34:17.091Z",
+          "captureTitle": "Advance past the pre-roll advertisement"
+        },
+        {
+          "index": 3,
+          "file": "frames/video-QUI6Ug4cHnE/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 205759,
+          "sha256": "8990354294d03b28ca299b05afb779062c63a214c09a40f6561141e922fc4ecc",
+          "capturedAt": "2026-08-29T01:34:28.799Z",
+          "captureTitle": "Set a faster review speed for the tutorial"
+        },
+        {
+          "index": 4,
+          "file": "frames/video-QUI6Ug4cHnE/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 157761,
+          "sha256": "4139cb31fabe0b0c394645d9540748ea5c3fcf23be34df77132b48d385ae37cf",
+          "capturedAt": "2026-08-29T01:36:46.806Z",
+          "captureTitle": "Inspect the live redesign setup at 3:25"
+        },
+        {
+          "index": 5,
+          "file": "frames/video-QUI6Ug4cHnE/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 201979,
+          "sha256": "e9cdb8fbd494d9cc9e4cfdef686fb938c8a41ecb9f89d153c85d211a2042154e",
+          "capturedAt": "2026-08-29T01:38:15.176Z",
+          "captureTitle": "Sample every stage of asset and journey planning"
+        },
+        {
+          "index": 6,
+          "file": "frames/video-QUI6Ug4cHnE/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 191084,
+          "sha256": "50ef42940ccb9ba7da49514bb15f63a1303fcd0ae2d09b19a486eb7cf5e0c893",
+          "capturedAt": "2026-08-29T01:38:15.176Z",
+          "captureTitle": "Sample every stage of asset and journey planning"
+        },
+        {
+          "index": 7,
+          "file": "frames/video-QUI6Ug4cHnE/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 250175,
+          "sha256": "84945aeae8da129e5b9d728e0880cc522691f2836acbaef28b5d1071bdf795d2",
+          "capturedAt": "2026-08-29T01:38:15.176Z",
+          "captureTitle": "Sample every stage of asset and journey planning"
+        },
+        {
+          "index": 8,
+          "file": "frames/video-QUI6Ug4cHnE/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 207237,
+          "sha256": "1bdb2701b7cfe753315aa87b7204d7a44239f5bf5571f39b715be772708a596e",
+          "capturedAt": "2026-08-29T01:38:15.176Z",
+          "captureTitle": "Sample every stage of asset and journey planning"
+        },
+        {
+          "index": 9,
+          "file": "frames/video-QUI6Ug4cHnE/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 149863,
+          "sha256": "a39f1c7e4623f6ea09f25011d32a6f1b8edaec7efb5628e82089af469a6cca61",
+          "capturedAt": "2026-08-29T01:38:15.176Z",
+          "captureTitle": "Sample every stage of asset and journey planning"
+        },
+        {
+          "index": 10,
+          "file": "frames/video-QUI6Ug4cHnE/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 186949,
+          "sha256": "4b6c2f5235997c365817b6e414f6a547f0450602d08494e3364a7412dfe20379",
+          "capturedAt": "2026-08-29T01:38:28.180Z",
+          "captureTitle": "Inspect Scrollcraft’s build verification and first-draft review"
+        },
+        {
+          "index": 11,
+          "file": "frames/video-QUI6Ug4cHnE/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 124529,
+          "sha256": "1ec043aa6f0aa27ccb897c37ecc370f1197df9fb2691c6488bb54389a588495d",
+          "capturedAt": "2026-08-29T01:38:28.180Z",
+          "captureTitle": "Inspect Scrollcraft’s build verification and first-draft review"
+        },
+        {
+          "index": 12,
+          "file": "frames/video-QUI6Ug4cHnE/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 145741,
+          "sha256": "88e9844d85bd4dc11b419a7d9778130b59b0ab132b455f9ea14ebf930d114d16",
+          "capturedAt": "2026-08-29T01:38:28.180Z",
+          "captureTitle": "Inspect Scrollcraft’s build verification and first-draft review"
+        },
+        {
+          "index": 13,
+          "file": "frames/video-QUI6Ug4cHnE/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 150217,
+          "sha256": "85e7669444b1fe326043babb081ddd7e69551e3902b3f0ccd3ee7da51c3de673",
+          "capturedAt": "2026-08-29T01:38:28.180Z",
+          "captureTitle": "Inspect Scrollcraft’s build verification and first-draft review"
+        },
+        {
+          "index": 14,
+          "file": "frames/video-QUI6Ug4cHnE/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 149299,
+          "sha256": "3bd2a0e42b77a3d2f528137cf4e03502c5f4f55427498cd51bf406821af4210b",
+          "capturedAt": "2026-08-29T01:38:28.180Z",
+          "captureTitle": "Inspect Scrollcraft’s build verification and first-draft review"
+        },
+        {
+          "index": 15,
+          "file": "frames/video-QUI6Ug4cHnE/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 178350,
+          "sha256": "9718f3ff0a8b0a340bffb3b03264b390480e183132c238946283e6a27daeb42c",
+          "capturedAt": "2026-08-29T01:39:10.396Z",
+          "captureTitle": "Locate the mid-roll skip control"
+        },
+        {
+          "index": 16,
+          "file": "frames/video-QUI6Ug4cHnE/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 257094,
+          "sha256": "160532a910d274da76edc118426eca8b70641ed05a3137f52814c7ad1c89edd9",
+          "capturedAt": "2026-08-29T01:40:16.873Z",
+          "captureTitle": "Inspect first-draft behavior and the critique pass"
+        },
+        {
+          "index": 17,
+          "file": "frames/video-QUI6Ug4cHnE/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 179331,
+          "sha256": "11f9af027e5435b9152c867e84b81a477342278acf1725958a982ae92970ca72",
+          "capturedAt": "2026-08-29T01:40:16.873Z",
+          "captureTitle": "Inspect first-draft behavior and the critique pass"
+        },
+        {
+          "index": 18,
+          "file": "frames/video-QUI6Ug4cHnE/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 172094,
+          "sha256": "3d8135856171227433ad95353bf578e55201c56ce3fc8a800ac72cb1f0e98265",
+          "capturedAt": "2026-08-29T01:40:16.873Z",
+          "captureTitle": "Inspect first-draft behavior and the critique pass"
+        },
+        {
+          "index": 19,
+          "file": "frames/video-QUI6Ug4cHnE/frame-019.jpg",
+          "mime": "image/jpeg",
+          "bytes": 178594,
+          "sha256": "da2c7befa93c8c635e5c5e928bd260420f7c834b92bc989c1ceb0c463e29008f",
+          "capturedAt": "2026-08-29T01:40:16.873Z",
+          "captureTitle": "Inspect first-draft behavior and the critique pass"
+        },
+        {
+          "index": 20,
+          "file": "frames/video-QUI6Ug4cHnE/frame-020.jpg",
+          "mime": "image/jpeg",
+          "bytes": 206103,
+          "sha256": "c77d8ed33197d292e314b7252d77939aae8674235dffae5680f2b9804edb9384",
+          "capturedAt": "2026-08-29T01:40:29.323Z",
+          "captureTitle": "Inspect the refined final draft and closing lessons"
+        },
+        {
+          "index": 21,
+          "file": "frames/video-QUI6Ug4cHnE/frame-021.jpg",
+          "mime": "image/jpeg",
+          "bytes": 212357,
+          "sha256": "766a244f1cb80bb709886fc7fcb58cddf9e52a0e5bbea94bde4075b3a98dadd7",
+          "capturedAt": "2026-08-29T01:40:29.323Z",
+          "captureTitle": "Inspect the refined final draft and closing lessons"
+        },
+        {
+          "index": 22,
+          "file": "frames/video-QUI6Ug4cHnE/frame-022.jpg",
+          "mime": "image/jpeg",
+          "bytes": 113029,
+          "sha256": "ad8bec738d617be70ffeb016aae1ce1299bd038abbecea78af4bf934fe79a27b",
+          "capturedAt": "2026-08-29T01:40:29.323Z",
+          "captureTitle": "Inspect the refined final draft and closing lessons"
+        }
+      ],
+      "frameCount": 22,
+      "overview": "overviews/video-QUI6Ug4cHnE.jpg",
+      "transcript": "transcripts/video-QUI6Ug4cHnE.vtt",
+      "transcriptBytes": 209476,
+      "transcriptSha256": "4a09ee02f41f53b0a20868530902352d5a3faab47576c76a597e124f8ff43387",
+      "visualAuthority": "demonstration-only"
+    },
+    {
+      "id": "video-39IlNR-P3-Q",
+      "name": "Reference-transfer and media-first video",
+      "source": "https://www.youtube.com/watch?v=39IlNR-P3-Q",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/video-39IlNR-P3-Q/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 180196,
+          "sha256": "66a0da4be1e3af482b3c5ae34fef21d5212fe7cb7cdd22a820d44076d0c2deef",
+          "capturedAt": "2026-08-29T01:42:33.557Z",
+          "captureTitle": "Open the second reference video in the in-app Browser"
+        },
+        {
+          "index": 2,
+          "file": "frames/video-39IlNR-P3-Q/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 232497,
+          "sha256": "59758d211291dcfb66556aa6c02bc66ff72308db7c6376d83112f92286a4707e",
+          "capturedAt": "2026-08-29T01:42:43.755Z",
+          "captureTitle": "Skip the commercial and inspect the Pear reference sequence"
+        },
+        {
+          "index": 3,
+          "file": "frames/video-39IlNR-P3-Q/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 193267,
+          "sha256": "3fef680389011001209dfbc104c0cf399e422fafa1d037c95fe8b899153ed8e7",
+          "capturedAt": "2026-08-29T01:43:05.131Z",
+          "captureTitle": "Inspect the reference and original-site visual sequences"
+        },
+        {
+          "index": 4,
+          "file": "frames/video-39IlNR-P3-Q/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 230801,
+          "sha256": "47ebaceccd357644c19b7856e3c9b2f5e42bf633474bf270bda63dc850381a0d",
+          "capturedAt": "2026-08-29T01:43:05.131Z",
+          "captureTitle": "Inspect the reference and original-site visual sequences"
+        },
+        {
+          "index": 5,
+          "file": "frames/video-39IlNR-P3-Q/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 187771,
+          "sha256": "d0d9429420c48c33c4c6ebe79ab86634a0ea017e7b40e387a9edf39c6297517d",
+          "capturedAt": "2026-08-29T01:43:05.131Z",
+          "captureTitle": "Inspect the reference and original-site visual sequences"
+        },
+        {
+          "index": 6,
+          "file": "frames/video-39IlNR-P3-Q/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 189981,
+          "sha256": "2e16fa2574a0ef5e313de91d7ec8379d0b0184f8f97a73a449f4cde6cdba043e",
+          "capturedAt": "2026-08-29T01:43:05.131Z",
+          "captureTitle": "Inspect the reference and original-site visual sequences"
+        },
+        {
+          "index": 7,
+          "file": "frames/video-39IlNR-P3-Q/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 253295,
+          "sha256": "3d5fb30e14b808b0d9f64ea2ec78bb9e0d1643419ef00c751f55c3e5338706c3",
+          "capturedAt": "2026-08-29T01:43:26.191Z",
+          "captureTitle": "Inspect the demonstrated skill stack and production workflow"
+        },
+        {
+          "index": 8,
+          "file": "frames/video-39IlNR-P3-Q/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 184940,
+          "sha256": "1482068587b4d0b0f929542c653c2e2e45a93c2deac184f0d1a54a45d17d03f2",
+          "capturedAt": "2026-08-29T01:43:26.191Z",
+          "captureTitle": "Inspect the demonstrated skill stack and production workflow"
+        },
+        {
+          "index": 9,
+          "file": "frames/video-39IlNR-P3-Q/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 114320,
+          "sha256": "8b1fc1fbb1b4d426bc0c916e4cd1263586e09288dac4348ee40dc37535e77604",
+          "capturedAt": "2026-08-29T01:43:26.191Z",
+          "captureTitle": "Inspect the demonstrated skill stack and production workflow"
+        },
+        {
+          "index": 10,
+          "file": "frames/video-39IlNR-P3-Q/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 251396,
+          "sha256": "847b829f0405cf8478bd830b6d8a6025b7aba4f42043cc94558a07d4b83b758d",
+          "capturedAt": "2026-08-29T01:43:26.191Z",
+          "captureTitle": "Inspect the demonstrated skill stack and production workflow"
+        },
+        {
+          "index": 11,
+          "file": "frames/video-39IlNR-P3-Q/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 251521,
+          "sha256": "890d12041a4e4166006f086ead2f2c5e499f5c509deb8ceecfea9928379f2cfc",
+          "capturedAt": "2026-08-29T01:43:44.738Z",
+          "captureTitle": "Inspect the media-first prompt and assembly stages"
+        },
+        {
+          "index": 12,
+          "file": "frames/video-39IlNR-P3-Q/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 177742,
+          "sha256": "2f3324e20b205b9e4b098624cfab69094f1937a88af652ab0c4bf091b6e947f1",
+          "capturedAt": "2026-08-29T01:43:44.738Z",
+          "captureTitle": "Inspect the media-first prompt and assembly stages"
+        },
+        {
+          "index": 13,
+          "file": "frames/video-39IlNR-P3-Q/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 168749,
+          "sha256": "973adca742251716f6c430247148d47d46a998fc665003e2043347c324392978",
+          "capturedAt": "2026-08-29T01:43:44.738Z",
+          "captureTitle": "Inspect the media-first prompt and assembly stages"
+        },
+        {
+          "index": 14,
+          "file": "frames/video-39IlNR-P3-Q/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 216754,
+          "sha256": "6913c30f6fed7dfa05e7e0e69b7f668fc8d9ef95fb67c74464c2068a292824fd",
+          "capturedAt": "2026-08-29T01:44:11.017Z",
+          "captureTitle": "Inspect the desktop result and its scene transitions"
+        },
+        {
+          "index": 15,
+          "file": "frames/video-39IlNR-P3-Q/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 237434,
+          "sha256": "aae5437d553aace22c6fec9b3b956577edfa33e87834cd04234783552d3d03d4",
+          "capturedAt": "2026-08-29T01:44:11.017Z",
+          "captureTitle": "Inspect the desktop result and its scene transitions"
+        },
+        {
+          "index": 16,
+          "file": "frames/video-39IlNR-P3-Q/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 248865,
+          "sha256": "11942a85282f5daf540c1ec48c0cc516448c20cee9b4972167314740c97f6a02",
+          "capturedAt": "2026-08-29T01:44:11.017Z",
+          "captureTitle": "Inspect the desktop result and its scene transitions"
+        },
+        {
+          "index": 17,
+          "file": "frames/video-39IlNR-P3-Q/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 210462,
+          "sha256": "f6c9a454c177b53fd6c1e9ef064ec0ff4c8aa594e1610478fd45f6cdccc6ca94",
+          "capturedAt": "2026-08-29T01:44:11.017Z",
+          "captureTitle": "Inspect the desktop result and its scene transitions"
+        },
+        {
+          "index": 18,
+          "file": "frames/video-39IlNR-P3-Q/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 168962,
+          "sha256": "78f7be5575a2434261ccaa85921b43833982252b86042d42e56a1952e625e3d5",
+          "capturedAt": "2026-08-29T01:44:33.417Z",
+          "captureTitle": "Inspect the refinement and responsive review"
+        },
+        {
+          "index": 19,
+          "file": "frames/video-39IlNR-P3-Q/frame-019.jpg",
+          "mime": "image/jpeg",
+          "bytes": 220538,
+          "sha256": "34fdea25c53c804148fa6374aa9c46fe457fd6a8db0786417c7385ac16decfd8",
+          "capturedAt": "2026-08-29T01:44:33.417Z",
+          "captureTitle": "Inspect the refinement and responsive review"
+        },
+        {
+          "index": 20,
+          "file": "frames/video-39IlNR-P3-Q/frame-020.jpg",
+          "mime": "image/jpeg",
+          "bytes": 249048,
+          "sha256": "086b76c8894c7176324d5941c30de182fc1c15123a81b517320b52e7d0e13562",
+          "capturedAt": "2026-08-29T01:44:33.417Z",
+          "captureTitle": "Inspect the refinement and responsive review"
+        },
+        {
+          "index": 21,
+          "file": "frames/video-39IlNR-P3-Q/frame-021.jpg",
+          "mime": "image/jpeg",
+          "bytes": 247586,
+          "sha256": "38f2e6db79d03758ef268d2aa36a5d93362a800a97b34a332cc2cf96168ef4d8",
+          "capturedAt": "2026-08-29T01:44:33.417Z",
+          "captureTitle": "Inspect the refinement and responsive review"
+        },
+        {
+          "index": 22,
+          "file": "frames/video-39IlNR-P3-Q/frame-022.jpg",
+          "mime": "image/jpeg",
+          "bytes": 219571,
+          "sha256": "b6d4c042167e456ca639d8bd022798005b44fe65135b5c0cb6f2a3fff66a28ff",
+          "capturedAt": "2026-08-29T01:44:50.395Z",
+          "captureTitle": "Finish the second video’s mobile and closing review"
+        },
+        {
+          "index": 23,
+          "file": "frames/video-39IlNR-P3-Q/frame-023.jpg",
+          "mime": "image/jpeg",
+          "bytes": 210967,
+          "sha256": "3de00b5db867fee5ed62cae3b9f3ac27e9ed59d2b2c2ba540faf7c5be2ff4336",
+          "capturedAt": "2026-08-29T01:44:50.395Z",
+          "captureTitle": "Finish the second video’s mobile and closing review"
+        }
+      ],
+      "frameCount": 23,
+      "overview": "overviews/video-39IlNR-P3-Q.jpg",
+      "transcript": "transcripts/video-39IlNR-P3-Q.vtt",
+      "transcriptBytes": 23847,
+      "transcriptSha256": "75fd1bbbc5fcadfdf9b81e839e11465fccd404b5f6ce905ee8e9a392e91cafb1",
+      "visualAuthority": "demonstration-only"
+    },
+    {
+      "id": "video-GJxchJkk4Lk",
+      "name": "Spatial production video",
+      "source": "https://www.youtube.com/watch?v=GJxchJkk4Lk",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/video-GJxchJkk4Lk/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 210645,
+          "sha256": "42b6359949c45cbdefe9a2fbdaeaa4d435388f32ccba513d25b237acdc3de981",
+          "capturedAt": "2026-08-29T01:46:58.630Z",
+          "captureTitle": "Open the third video and inspect its fly-through opening"
+        },
+        {
+          "index": 2,
+          "file": "frames/video-GJxchJkk4Lk/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 203744,
+          "sha256": "7177b1ef083c33d0b703c50c5599270d30aff14f65f35b1dda36bcf90fede5e9",
+          "capturedAt": "2026-08-29T01:47:23.364Z",
+          "captureTitle": "Inspect the cabin journey and project brief"
+        },
+        {
+          "index": 3,
+          "file": "frames/video-GJxchJkk4Lk/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 228297,
+          "sha256": "e27a712363ef11b3d806103fe2af5d8d6d9f8064a89fd4b9c32164097521436a",
+          "capturedAt": "2026-08-29T01:47:23.364Z",
+          "captureTitle": "Inspect the cabin journey and project brief"
+        },
+        {
+          "index": 4,
+          "file": "frames/video-GJxchJkk4Lk/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 242926,
+          "sha256": "59bca3416fa6274a7a690d54bed07e8605e3bda49df3486d4846187e341b0b50",
+          "capturedAt": "2026-08-29T01:47:23.364Z",
+          "captureTitle": "Inspect the cabin journey and project brief"
+        },
+        {
+          "index": 5,
+          "file": "frames/video-GJxchJkk4Lk/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 217462,
+          "sha256": "d5fe556e8c4beebc2b415b25dea5e5b31cc77ac94056a3e3e1b2cd1abe75066e",
+          "capturedAt": "2026-08-29T01:47:23.364Z",
+          "captureTitle": "Inspect the cabin journey and project brief"
+        },
+        {
+          "index": 6,
+          "file": "frames/video-GJxchJkk4Lk/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 157862,
+          "sha256": "fd6c44a19191a75f912b0b1e4cbdbe5339ff6b1de79ee0fe03293728fc01bef8",
+          "capturedAt": "2026-08-29T01:47:47.066Z",
+          "captureTitle": "Inspect reference selection, brief construction, and static-base planning"
+        },
+        {
+          "index": 7,
+          "file": "frames/video-GJxchJkk4Lk/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 237756,
+          "sha256": "f8e4d9d21d988b431644e91b7fc205acc2904c2bf09d6c82669654eb783b98c8",
+          "capturedAt": "2026-08-29T01:47:47.066Z",
+          "captureTitle": "Inspect reference selection, brief construction, and static-base planning"
+        },
+        {
+          "index": 8,
+          "file": "frames/video-GJxchJkk4Lk/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 211857,
+          "sha256": "c8e4521b8421546a8cab04786f9a13205788795ba1ee1713609465b2acdc30f8",
+          "capturedAt": "2026-08-29T01:47:47.066Z",
+          "captureTitle": "Inspect reference selection, brief construction, and static-base planning"
+        },
+        {
+          "index": 9,
+          "file": "frames/video-GJxchJkk4Lk/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 185081,
+          "sha256": "3791343108e46c3a00f2b7ec47002dd0cd2d0abfa6d489b8a52709098c6a6c1c",
+          "capturedAt": "2026-08-29T01:47:47.066Z",
+          "captureTitle": "Inspect reference selection, brief construction, and static-base planning"
+        }
+      ],
+      "frameCount": 9,
+      "overview": "overviews/video-GJxchJkk4Lk.jpg",
+      "transcript": "transcripts/video-GJxchJkk4Lk.vtt",
+      "transcriptBytes": 214284,
+      "transcriptSha256": "d3595961ad53207fa9732096f773e7bf075e651547a6c19400c03714a51244f5",
+      "visualAuthority": "demonstration-only"
+    },
+    {
+      "id": "video-ubH1ulaK-t4",
+      "name": "Still-first previsualization video",
+      "source": "https://www.youtube.com/watch?v=ubH1ulaK-t4",
+      "frames": [
+        {
+          "index": 1,
+          "file": "frames/video-ubH1ulaK-t4/frame-001.jpg",
+          "mime": "image/jpeg",
+          "bytes": 161900,
+          "sha256": "bd49778f0664d3d3f5fd9bde8a2e123905a5adecf7725f5e9910a1d0f5749d79",
+          "capturedAt": "2026-08-29T21:31:12.767Z",
+          "captureTitle": "Inspecting the video player"
+        },
+        {
+          "index": 2,
+          "file": "frames/video-ubH1ulaK-t4/frame-002.jpg",
+          "mime": "image/jpeg",
+          "bytes": 230913,
+          "sha256": "8f95b99beef1a0eaf603fef1cf5e355c80cae30ec35a0a311ccfc3e4998f6df6",
+          "capturedAt": "2026-08-29T21:31:58.542Z",
+          "captureTitle": "Skipping the sponsor segment and checking the first production frame"
+        },
+        {
+          "index": 3,
+          "file": "frames/video-ubH1ulaK-t4/frame-003.jpg",
+          "mime": "image/jpeg",
+          "bytes": 236406,
+          "sha256": "b2a4d1d92967dc561363f8ce86ff6f7a2bf12c032371e0532fc264ffdc133e5a",
+          "capturedAt": "2026-08-29T21:32:07.780Z",
+          "captureTitle": "Revealing the video timeline"
+        },
+        {
+          "index": 4,
+          "file": "frames/video-ubH1ulaK-t4/frame-004.jpg",
+          "mime": "image/jpeg",
+          "bytes": 283755,
+          "sha256": "1c56e8f324b992319d42633f4259663954ac19e5d5f6946e887424e3e3cb22a7",
+          "capturedAt": "2026-08-29T21:32:20.859Z",
+          "captureTitle": "Skipping the sponsor segment and opening the creative workflow"
+        },
+        {
+          "index": 5,
+          "file": "frames/video-ubH1ulaK-t4/frame-005.jpg",
+          "mime": "image/jpeg",
+          "bytes": 81431,
+          "sha256": "ac669256e51c586d9f85820fc1321354025e129cd05eda00840619fa2033bd22",
+          "capturedAt": "2026-08-29T21:35:29.318Z",
+          "captureTitle": "Inspect key visual frames after the commercial"
+        },
+        {
+          "index": 6,
+          "file": "frames/video-ubH1ulaK-t4/frame-006.jpg",
+          "mime": "image/jpeg",
+          "bytes": 22943,
+          "sha256": "e291734a1388ad5fe4602facc4a8f4e5db4ea6cdb537d992c49e3d43e0c213fe",
+          "capturedAt": "2026-08-29T21:36:18.025Z",
+          "captureTitle": "Inspect the regeneration checkpoint"
+        },
+        {
+          "index": 7,
+          "file": "frames/video-ubH1ulaK-t4/frame-007.jpg",
+          "mime": "image/jpeg",
+          "bytes": 39339,
+          "sha256": "b26551852be94dc83a3be37bc601e2873c516c8dd68a0073998e2470c9e88cdf",
+          "capturedAt": "2026-08-29T21:36:28.349Z",
+          "captureTitle": "Inspect the asset-complete handoff"
+        },
+        {
+          "index": 8,
+          "file": "frames/video-ubH1ulaK-t4/frame-008.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44537,
+          "sha256": "d8a53a9038a382fc4bbf2a596def740cc9ec7b40f4c303ad4960e50bc622e269",
+          "capturedAt": "2026-08-29T21:36:40.475Z",
+          "captureTitle": "Inspect the implementation setup"
+        },
+        {
+          "index": 9,
+          "file": "frames/video-ubH1ulaK-t4/frame-009.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44503,
+          "sha256": "a30fe821909cf4de14751fa8fc635664fde91a8cfb066ea5ab96e2d67dc012ba",
+          "capturedAt": "2026-08-29T21:37:04.754Z",
+          "captureTitle": "Inspect the scroll brief and first interactive draft"
+        },
+        {
+          "index": 10,
+          "file": "frames/video-ubH1ulaK-t4/frame-010.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44583,
+          "sha256": "c016efbd4a92d5950342045a52ad1df7c47806a664ba40599387959713ab4223",
+          "capturedAt": "2026-08-29T21:37:04.754Z",
+          "captureTitle": "Inspect the scroll brief and first interactive draft"
+        },
+        {
+          "index": 11,
+          "file": "frames/video-ubH1ulaK-t4/frame-011.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44477,
+          "sha256": "c456c55d995a6afe5e6a43bf7bf3c0fedbc20354a4ca92c41d2d8bb8a8d0390a",
+          "capturedAt": "2026-08-29T21:37:04.754Z",
+          "captureTitle": "Inspect the scroll brief and first interactive draft"
+        },
+        {
+          "index": 12,
+          "file": "frames/video-ubH1ulaK-t4/frame-012.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44684,
+          "sha256": "87f1d3e5d24b7f9f6481b575bc5f375514ac1f21b50e093d90bdbe8f99c7e69b",
+          "capturedAt": "2026-08-29T21:37:04.754Z",
+          "captureTitle": "Inspect the scroll brief and first interactive draft"
+        },
+        {
+          "index": 13,
+          "file": "frames/video-ubH1ulaK-t4/frame-013.jpg",
+          "mime": "image/jpeg",
+          "bytes": 44630,
+          "sha256": "79fe3df7f6b9744fe35c71276f75752a24b4246a55e8e1add8d27e1d2bd16c74",
+          "capturedAt": "2026-08-29T21:37:20.760Z",
+          "captureTitle": "Resume the implementation walkthrough"
+        },
+        {
+          "index": 14,
+          "file": "frames/video-ubH1ulaK-t4/frame-014.jpg",
+          "mime": "image/jpeg",
+          "bytes": 35191,
+          "sha256": "bcc81030849ee0e0b5efa8da7ae23ab3285f00a743a8d1ec2cd5a4b6618ef70e",
+          "capturedAt": "2026-08-29T21:37:35.855Z",
+          "captureTitle": "Resume the implementation walkthrough"
+        },
+        {
+          "index": 15,
+          "file": "frames/video-ubH1ulaK-t4/frame-015.jpg",
+          "mime": "image/jpeg",
+          "bytes": 35098,
+          "sha256": "a5e0e064aa394206399ce13f97a4cec79ff7dc8bd3426013def54909d9d3a38c",
+          "capturedAt": "2026-08-29T21:37:56.270Z",
+          "captureTitle": "Inspect the implementation brief and first interactive draft"
+        },
+        {
+          "index": 16,
+          "file": "frames/video-ubH1ulaK-t4/frame-016.jpg",
+          "mime": "image/jpeg",
+          "bytes": 30335,
+          "sha256": "8a34992e9fcca8cdc5f8751a52e682f9142341b9e61e4744d864abf311255458",
+          "capturedAt": "2026-08-29T21:37:56.270Z",
+          "captureTitle": "Inspect the implementation brief and first interactive draft"
+        },
+        {
+          "index": 17,
+          "file": "frames/video-ubH1ulaK-t4/frame-017.jpg",
+          "mime": "image/jpeg",
+          "bytes": 37313,
+          "sha256": "e663c0dc60aaf61b7c141d1546362e6dd5adfdb9828a54e4bc42caa31abaedd7",
+          "capturedAt": "2026-08-29T21:37:56.270Z",
+          "captureTitle": "Inspect the implementation brief and first interactive draft"
+        },
+        {
+          "index": 18,
+          "file": "frames/video-ubH1ulaK-t4/frame-018.jpg",
+          "mime": "image/jpeg",
+          "bytes": 16946,
+          "sha256": "9e287bcf293b61511d9bca2b1570fef516c0702247851fc46a3a5617c94a74ff",
+          "capturedAt": "2026-08-29T21:38:26.719Z",
+          "captureTitle": "Inspect the implementation brief"
+        }
+      ],
+      "frameCount": 18,
+      "overview": "overviews/video-ubH1ulaK-t4.jpg",
+      "transcript": "transcripts/video-ubH1ulaK-t4.vtt",
+      "transcriptBytes": 34083,
+      "transcriptSha256": "09ad9b47c1c1229bf40894cb45dfba68829fcbfa46f9e632c193abadf69edc6e",
+      "visualAuthority": "demonstration-only"
+    }
+  ],
+  "corpusType": "process"
+}
