@@ -12,7 +12,7 @@ CORE_FILES = {
     "motion-vocabulary.md", "production.md", "previsualization.md",
     "quality-gates.md", "evolving-the-library.md", "execution-contract.md",
     "scrollcraft-adapter.md", "visual-development.md", "performance-budget.md",
-    "dependencies.md",
+    "dependencies.md", "decision-memory.md",
 }
 VISUAL_IDS = {
     "site-sondaven", "site-lando-norris", "site-indigo-laboratory", "site-noth",

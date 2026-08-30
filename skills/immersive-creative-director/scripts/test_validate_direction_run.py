@@ -23,6 +23,7 @@ def valid_run():
                 "quality-gates.md", "evolving-the-library.md",
                 "execution-contract.md", "scrollcraft-adapter.md",
                 "visual-development.md", "performance-budget.md", "dependencies.md",
+                "decision-memory.md",
             ],
             "visualOverviewIds": [
                 "site-sondaven", "site-lando-norris", "site-indigo-laboratory",

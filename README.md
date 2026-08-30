@@ -17,6 +17,7 @@ The bundled corpus is the skill's sole source of truth for design taste and crea
 - Chooses among stills, layered images, image sequences, short clips, video, 3D, particles, DOM animation, and sound according to their irreplaceable job, cost, continuity risk, performance, and fallback.
 - Runs a machine-validated still-first previsualization pipeline for connected generated motion: source-authority lock → canonical anchor → rendered state board → adjacent transition graph → conditional external-provider/media approval → reviewed outputs → build.
 - Persists an executable direction-run control plane so corpus grounding, intake, references, territories, Scrollcraft reconciliation, approvals, and quality gates cannot exist only in model memory.
+- Maintains a visual approved-decision dossier throughout the project. Every completed page, section, component, transition, and responsive state is documented with embedded imagery, exact design and motion specifications, linked assets, approval evidence, and version history before work advances.
 - Requires universal visual development after concept approval: a complete five-role system board plus the highest-risk representative motion study, even when no generated video is used.
 - Requires a project-specific performance/device budget and verified dependency compatibility before build.
 - Re-art-directs the experience for mobile and preserves narrative parity for reduced motion.
