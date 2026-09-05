@@ -25,11 +25,12 @@ Use these direction gates:
 - `QUALITY-story-causality`: every meaningful beat prepares, causes, transforms, proves, or resolves. Reject freely reorderable scenes, concealed unrelated cuts, or duration standing in for progression.
 - `QUALITY-motion-necessity`: every major mechanism needs an owned job a still cannot do and its source condition. Reject mechanisms retained solely for “visual interest.”
 - `QUALITY-composition`: hierarchy, spacing, scale, focus, density, legibility, and image relationships must remain authored through motion. Reject fragmented attention, crowded frames, and independently animated layout parts.
+- `QUALITY-intensity-subtraction`: after composing the journey, name the protected focal event in every consequential state and remove, subordinate, or quiet every competing accent, layer, contrast event, scale jump, and simultaneous movement that does not strengthen it. Preserve personality and intentional peaks; reject continuous loudness, accumulated decoration, equal emphasis, or quietness that flattens hierarchy into generic minimalism.
 - `QUALITY-agency-orientation`: progress, reversal/exit, invariant frame, holds/releases, feedback, and fallback comprehension must be explicit. Reject trapped wheel/touch, unjustified pinning, or lost orientation.
 - `QUALITY-whole-site`: all relevant discovery, proof, reading, decision, utility, navigation, support, legal, and ending modes need an intentional relationship to the world. Reject one authored passage surrounded by a generic remainder.
 - `QUALITY-peak-resolution`: the peak must be prepared by contrast and followed by conversion, release, or an ending that resolves the opening promise. Reject continuous escalation, an overlay CTA, or an abrupt stop.
 
-Lead any rejection with the most damaging issue, evidence, and smallest correction. Preserve what is strong; do not polish a premise that should be rejected.
+At major concept, visual-development, and rendered-experience gates, form the verdict through two independent readings before synthesis: a **creative-direction lens** for concept ownership, emotional effect, composition, continuity, originality, and controlled intensity; and a **visitor-experience lens** for orientation, comprehension, agency, pacing, interruption, utility, and meaning. Reconcile disagreements, then lead with the highest-leverage correction. Preserve what is strong; do not polish details while the governing premise, composition, or journey should be rejected.
 
 ## 2. Decide conceptual sufficiency and production readiness
 

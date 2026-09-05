@@ -34,6 +34,8 @@ A single frame may serve two roles only when the canonical experience genuinely 
 
 Prototype the highest-risk or most identity-bearing transition before full build. It can be coded, layered, procedural, an image sequence, approved authentic media, 3D, or a low-cost animatic. It must demonstrate the signature move or the hardest composition/input handoff—not a convenient text reveal.
 
+When that study contains an unresolved design question with more than one credible answer, invoke the full Prototype skill. State the question first, assign every variant a named divergence axis, and build genuinely different throwaway answers using realistic project content. Cosmetic variations do not count. Record what each answer teaches, the selected verdict, and the exact decision promoted into the visual-development package; discard or isolate the prototype surface so it cannot become production by inertia. When the answer is already settled and the study only validates feasibility, do not invoke Prototype.
+
 Inspect desktop, mobile, reduced-motion parity, and reversal/exit when applicable. Record start/end state IDs, why this study is representative, direct evidence, defects, corrections, and verdict. If the study fails, simplify or change the mechanism before producing the rest of the site.
 
 ## Approval and validation
